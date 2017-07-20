@@ -1,0 +1,824 @@
+[label]	uniprot	tissue_label
+5'-AMP-activated protein kinase subunit gamma-1	P54619	brain
+5-hydroxytryptamine receptor 1a	P08908	neuron
+5-hydroxytryptamine receptor 1a	P08908	ganglion
+5-hydroxytryptamine receptor 1b	P28222	ganglion
+5-hydroxytryptamine receptor 1b	P28222	brain
+5-hydroxytryptamine receptor 1b	P28222	nerve
+5-hydroxytryptamine receptor 2A	P28223	ganglion
+5-hydroxytryptamine receptor 2c	P28335	ganglion
+5-hydroxytryptamine receptor 3A	P46098	nerve
+5-hydroxytryptamine receptor 3A	P46098	N1E-115 cell
+5-hydroxytryptamine receptor 3A	P46098	intestine
+5-hydroxytryptamine receptor 3A	P46098	brain
+5-hydroxytryptamine receptor 3A	P46098	NG-108-15 cell
+5-hydroxytryptamine receptor 3A	P46098	ganglion
+5-hydroxytryptamine receptor 4	Q13639	myenteric plexus
+5-hydroxytryptamine receptor 7	P34969	nerve
+5-hydroxytryptamine receptor 7	P34969	intestine
+5-hydroxytryptamine receptor 7	P34969	muscle
+5-hydroxytryptamine receptor 7	P34969	myenteric plexus
+5-hydroxytryptamine receptor 7	P34969	artery
+5-hydroxytryptamine receptor 7	P34969	blood
+5-hydroxytryptamine receptor 7	P34969	spinal cord
+5-hydroxytryptamine receptor 7	P34969	ganglion
+ATP-dependent 6-phosphofructokinase, muscle type	P08237	heart
+ATP-dependent 6-phosphofructokinase, muscle type	P08237	skeletal muscle
+ATP-dependent 6-phosphofructokinase, muscle type	P08237	lung
+ATP-dependent 6-phosphofructokinase, platelet type	Q01813	lung
+ATP-dependent 6-phosphofructokinase, platelet type	Q01813	kidney
+ATP-dependent 6-phosphofructokinase, platelet type	Q01813	eye
+ATP-sensitive inward rectifier potassium channel 1	P48048	oocyte
+ATP-sensitive inward rectifier potassium channel 10	P78508	stria vascularis
+ATP-sensitive inward rectifier potassium channel 10	P78508	spinal cord
+ATP-sensitive inward rectifier potassium channel 11	Q14654	pancreatic beta cell
+Acetylcholine receptor subunit gamma	P07510	pterygium
+Acid-sensing ion channel 3	Q9UHC3	spinal ganglion
+Acid-sensing ion channel 3	Q9UHC3	peripheral nerve
+Activin receptor type-1	Q04771	hallux
+Adenosine kinase	P55263	brain
+Adenosine receptor a2a	P29274	ganglion
+Adenylate kinase 2, mitochondrial	P54819	lung
+Adenylate kinase 2, mitochondrial	P54819	kidney
+Adenylate kinase 2, mitochondrial	P54819	skin
+Adenylate kinase 4, mitochondrial	P27144	kidney
+Adenylate kinase isoenzyme 1	P00568	brain
+Adenylate kinase isoenzyme 1	P00568	muscle
+Adhesion G protein-coupled receptor A3	Q8IWK6	spermatogonium
+Adhesion G protein-coupled receptor A3	Q8IWK6	brain
+Alk tyrosine kinase receptor	Q9UM73	immune system
+Alk tyrosine kinase receptor	Q9UM73	blood
+Alk tyrosine kinase receptor	Q9UM73	myofibroblast
+Alk tyrosine kinase receptor	Q9UM73	anaplastic large cell lymphoma cell
+Alk tyrosine kinase receptor	Q9UM73	lung
+Alk tyrosine kinase receptor	Q9UM73	anaplastic large cell lymphoma cell line
+Androgen receptor	P10275	breast
+Androgen receptor	P10275	DU-145 cell
+Androgen receptor	P10275	seminal vesicle
+Androgen receptor	P10275	PC-3 cell
+Androgen receptor	P10275	Leydig cell
+Androgen receptor	P10275	Sertoli cell
+Angiopoietin-1 receptor	Q02763	heart
+Angiopoietin-1 receptor	Q02763	vasculature
+Angiopoietin-1 receptor	Q02763	blood vessel
+Anoctamin-1	Q5XXA6	interstitial cell
+Apelin receptor	P35414	placenta
+Atp-dependent 6-phosphofructokinase, liver type	P17858	testis
+Atp-dependent 6-phosphofructokinase, liver type	P17858	skin
+Atypical chemokine receptor 1	Q16570	merozoite
+Atypical kinase adck3, mitochondrial	Q8NI60	testis
+Aurora kinase a	O14965	testis
+Aurora kinase b	Q96GD4	vegetative cell
+Bdnf/nt-3 growth factors receptor	Q16620	neuron
+Bdnf/nt-3 growth factors receptor	Q16620	adult
+Bdnf/nt-3 growth factors receptor	Q16620	ganglion
+Bdnf/nt-3 growth factors receptor	Q16620	peripheral nerve
+Bdnf/nt-3 growth factors receptor	Q16620	spinal cord
+Bdnf/nt-3 growth factors receptor	Q16620	mouth
+Bestrophin-1	O76090	retina
+Bestrophin-1	O76090	eye
+Beta-1 adrenergic receptor	P08588	muscle
+Beta-1 adrenergic receptor	P08588	heart
+Beta-2 adrenergic receptor	P07550	muscle
+Beta-3 adrenergic receptor	P13945	adipocyte
+Bile acid receptor	Q96RI1	liver
+Bone morphogenetic protein receptor type-2	Q13873	pulmonary artery
+C-C chemokine receptor type 2	P41597	immune system
+C-C chemokine receptor type 2	P41597	blood
+C-C chemokine receptor type 3	P51677	immune system
+C-C chemokine receptor type 5	P51681	syncytium
+C-C chemokine receptor type 5	P51681	blood
+C-C chemokine receptor type 5	P51681	immune system
+C-C chemokine receptor type 6	P51684	myrosin cell
+C-c chemokine receptor type 1	P32246	immune system
+C-c chemokine receptor type 7	P32248	blood
+C-c chemokine receptor type 7	P32248	spleen
+C-c chemokine receptor type 7	P32248	lymph node
+C-x-c chemokine receptor type 3	P49682	immune system
+C-x-c chemokine receptor type 4	P61073	hematopoietic stem cell
+C-x-c chemokine receptor type 4	P61073	blood
+C-x-c chemokine receptor type 4	P61073	syncytium
+C-x-c chemokine receptor type 4	P61073	immune system
+C-x-c chemokine receptor type 4	P61073	mesenchymal stem cell
+C-x-c chemokine receptor type 4	P61073	stromal cell
+C-x-c chemokine receptor type 4	P61073	bone marrow
+C-x-c chemokine receptor type 5	P32302	T-lymphocyte
+C-x-c chemokine receptor type 5	P32302	B-lymphocyte
+C-x-c chemokine receptor type 5	P32302	lymph node
+CD97 antigen	P48960	brain
+CGMP-gated cation channel alpha-1	P29973	lung
+CX3C chemokine receptor 1	P49238	microglia
+CX3C chemokine receptor 1	P49238	brain
+Calcitonin receptor	P30988	osteoclast
+Calcium-activated chloride channel regulator 1	A8K7I4	rectum
+Calcium-activated chloride channel regulator 1	A8K7I4	vermiform appendix
+Calcium-activated potassium channel subunit beta-4	Q86W47	brain
+Calcium/calmodulin-dependent protein kinase type 1	Q14012	brain
+Calcium/calmodulin-dependent protein kinase type 1d	Q8IU85	brain
+Calcium/calmodulin-dependent protein kinase type ii subunit delta	Q13557	muscle
+Cannabinoid receptor 1	P21554	neuron
+Cannabinoid receptor 1	P21554	ganglion
+Casein kinase II subunit alpha'	P19784	brain
+Casein kinase i isoform alpha	P48729	kidney
+Casein kinase i isoform alpha	P48729	liver
+Casein kinase i isoform alpha	P48729	trachea
+Casein kinase i isoform alpha	P48729	prostate gland
+Casein kinase i isoform alpha	P48729	uterus
+Casein kinase i isoform alpha	P48729	skin
+Casein kinase i isoform alpha	P48729	thymus
+Casein kinase i isoform delta	P48730	lung
+Casein kinase i isoform delta	P48730	uterus
+Casein kinase i isoform epsilon	P49674	skin
+Casein kinase ii subunit beta	P67870	egg yolk
+Cation channel sperm-associated protein 2	Q96P56	semen
+Chloride channel protein 1	P35523	muscle
+Chloride intracellular channel protein 1	O00299	blood
+Chloride intracellular channel protein 1	O00299	prostate gland
+Chloride intracellular channel protein 1	O00299	placenta
+Chloride intracellular channel protein 1	O00299	stomach
+Chloride intracellular channel protein 1	O00299	brain
+Chloride intracellular channel protein 4	Q9Y696	vascular system
+Chloride intracellular channel protein 4	Q9Y696	trachea
+Cholecystokinin receptor type a	P32238	vagus nerve
+Cholecystokinin receptor type a	P32238	pancreas
+Choline/ethanolamine kinase	Q9Y259	unicellular trichome
+Choline/ethanolamine kinase	Q9Y259	multicellular trichome
+Corticotropin-releasing factor receptor 1	P34998	ganglion
+Corticotropin-releasing factor receptor 1	P34998	adrenal gland
+Coup transcription factor 2	P24468	testis
+Creatine kinase B-type	P12277	heart
+Creatine kinase B-type	P12277	stomach
+Creatine kinase B-type	P12277	skeletal muscle
+Creatine kinase B-type	P12277	corpus callosum
+Creatine kinase B-type	P12277	occipital lobe
+Creatine kinase B-type	P12277	frontal lobe
+Creatine kinase B-type	P12277	temporal lobe
+Creatine kinase B-type	P12277	spinal cord
+Creatine kinase B-type	P12277	parietal lobe
+Creatine kinase S-type, mitochondrial	P17540	muscle
+Creatine kinase U-type, mitochondrial	P12532	intestine
+Creatine kinase U-type, mitochondrial	P12532	placenta
+Cyclic nucleotide-gated cation channel alpha-4	Q8IV77	olfactory receptor neuron
+Cyclic nucleotide-gated cation channel beta-1	Q14028	storage root
+Cyclic nucleotide-gated olfactory channel	Q16280	olfactory epithelium
+Cyclin-dependent kinase 1	P06493	vegetative cell
+Cyclin-dependent kinase 1	P06493	oocyte
+Cyclin-dependent kinase 2	P24941	breast cancer cell line
+Cyclin-dependent kinase 2	P24941	skin
+Cyclin-dependent kinase 2	P24941	breast
+Cyclin-dependent kinase 20	Q8IZL9	testis
+Cyclin-dependent kinase 4	P11802	lung
+Cyclin-dependent kinase 4	P11802	skin
+Cyclin-dependent kinase-like 1	Q00532	MV3 cell
+Cyclin-dependent-like kinase 5	Q00535	neuron
+Cyclin-dependent-like kinase 5	Q00535	neurofibrillary tangle
+Cyclin-g-associated kinase	O14976	brain
+Cystic fibrosis transmembrane conductance regulator	P13569	oocyte
+Cystic fibrosis transmembrane conductance regulator	P13569	meconium
+Cystic fibrosis transmembrane conductance regulator	P13569	intestine
+Cystic fibrosis transmembrane conductance regulator	P13569	vas deferens
+Cystic fibrosis transmembrane conductance regulator	P13569	lung
+Cystic fibrosis transmembrane conductance regulator	P13569	submucosal gland
+Cytochrome b-245 heavy chain	P04839	heart
+Cytochrome b-245 heavy chain	P04839	blood
+Cytochrome b-245 heavy chain	P04839	artery
+D(1a) dopamine receptor	P21728	ganglion
+D(2) dopamine receptor	P14416	dopaminergic system
+D(2) dopamine receptor	P14416	ganglion
+D(2) dopamine receptor	P14416	neuron
+D(3) dopamine receptor	P35462	dopaminergic system
+D(4) dopamine receptor	P21917	prostate gland
+D(4) dopamine receptor	P21917	dopaminergic system
+D(4) dopamine receptor	P21917	ovary
+Deoxycytidine kinase	P27707	brain
+Discoidin domain-containing receptor 2	Q16832	brain
+Dual specificity mitogen-activated protein kinase kinase 2	P36507	brain
+Dual specificity mitogen-activated protein kinase kinase 2	P36507	lung
+Dual specificity protein kinase clk1	P49759	testis
+Dual specificity protein kinase clk1	P49759	placenta
+Dual specificity protein kinase clk2	P49760	testis
+Dual specificity protein kinase clk3	P49761	brain
+Dual specificity protein kinase clk4	Q9HAZ1	brain
+Endothelin b receptor	P24530	heart
+Endothelin b receptor	P24530	neural crest
+Endothelin b receptor	P24530	artery
+Endothelin b receptor	P24530	autonomic nervous system
+Endothelin b receptor	P24530	muscle
+Ephrin type-a receptor 2	P29317	pulmonary artery
+Ephrin type-a receptor 5	P54756	nymph
+Ephrin type-a receptor 8	P29322	digitum minimus pedis
+Ephrin-a1	P20827	placenta
+Epidermal growth factor receptor	P00533	mammary gland cell line
+Epidermal growth factor receptor	P00533	breast cancer cell line
+Epidermal growth factor receptor	P00533	blood
+Epidermal growth factor receptor	P00533	lymph node
+Epidermal growth factor receptor	P00533	breast cancer cell
+Epidermal growth factor receptor	P00533	skin
+Epidermal growth factor receptor	P00533	intestine
+Epidermal growth factor receptor	P00533	A-431 cell
+Epidermal growth factor receptor	P00533	lung
+Epidermal growth factor receptor	P00533	brain
+Epidermal growth factor receptor	P00533	lung cancer cell
+Epithelial discoidin domain-containing receptor 1	Q08345	trachea
+Epithelial discoidin domain-containing receptor 1	Q08345	mouth
+Epithelial discoidin domain-containing receptor 1	Q08345	pancreas
+Estrogen receptor	P03372	ovary
+Estrogen receptor	P03372	lymph node
+Estrogen receptor	P03372	uterus
+Estrogen receptor	P03372	Ishikawa cell
+Estrogen receptor	P03372	brain
+Estrogen receptor	P03372	mammary gland cell line
+Estrogen receptor beta	Q92731	brain
+Estrogen receptor beta	Q92731	breast
+Estrogen receptor beta	Q92731	breast cancer cell
+Estrogen receptor beta	Q92731	breast cancer cell line
+Ethanolamine kinase 1	Q9HBU6	larynx
+Ethanolamine kinase 1	Q9HBU6	intestine
+Ethanolamine kinase 2	Q9NVF9	brain
+Ethanolamine kinase 2	Q9NVF9	kidney
+Eukaryotic translation initiation factor 2-alpha kinase 1	Q9BQI3	reticulocyte
+Eukaryotic translation initiation factor 2-alpha kinase 1	Q9BQI3	intestine
+Eukaryotic translation initiation factor 2-alpha kinase 1	Q9BQI3	lung
+Extracellular calcium-sensing receptor	P41180	thyroid gland
+FXYD domain-containing ion transport regulator 6	Q9H0Q3	testis
+Fibroblast growth factor receptor 2	P21802	mesenchyme
+Fibroblast growth factor receptor 2	P21802	cranium
+Fibroblast growth factor receptor 3	P22607	uroepithelium
+Focal adhesion kinase 1	Q05397	testis
+Follicle-stimulating hormone receptor	P23945	Sertoli cell
+Free fatty acid receptor 1	O14842	pancreatic beta cell
+Free fatty acid receptor 2	O15552	enteroendocrine cell
+Free fatty acid receptor 4	Q5NUL3	enteroendocrine cell
+Fxyd domain-containing ion transport regulator 3	Q14802	brain
+Fxyd domain-containing ion transport regulator 3	Q14802	prostate gland
+Fxyd domain-containing ion transport regulator 3	Q14802	intestine
+G protein-activated inward rectifier potassium channel 1	P48549	oocyte
+G protein-activated inward rectifier potassium channel 4	P48544	oocyte
+G-protein coupled bile acid receptor 1	Q8TDU6	bile
+G-protein coupled receptor 161	Q8N6U8	culture condition:CD8+ cell
+G-protein coupled receptor 35	Q9HC97	intestine
+G-protein coupled receptor 56	Q9Y653	trachea
+G-protein coupled receptor 56	Q9Y653	thyroid gland
+G-protein coupled receptor 78	Q96P69	placenta
+G-protein coupled receptor family C group 5 member B	Q9NZH0	corpus callosum
+Gastrin-releasing peptide receptor	P30550	PC-3 cell
+Glucocorticoid receptor	P04150	adrenal gland
+Glucocorticoid receptor	P04150	brain
+Glucocorticoid receptor	P04150	blood
+Glucose-dependent insulinotropic receptor	Q8TDV5	enteroendocrine cell
+Glutamate receptor 1	P42261	ganglion
+Glutamate receptor 1	P42261	neuron
+Glutamate receptor 2	P42262	neuron
+Glutamate receptor 4	P48058	neuron
+Glutamate receptor ionotropic, NMDA 2A	Q12879	neuron
+Glutamate receptor ionotropic, delta-1	Q9ULK0	gut
+Glutamate receptor ionotropic, delta-1	Q9ULK0	lung
+Glutamate receptor ionotropic, delta-2	O43424	cerebellar Purkinje cell
+Glutamate receptor ionotropic, kainate 1	P39086	neuron
+Glutamate receptor ionotropic, nmda 1	Q05586	neuron
+Glutamate receptor ionotropic, nmda 2b	Q13224	ganglion
+Glutamate receptor ionotropic, nmda 2b	Q13224	neuron
+Growth hormone secretagogue receptor type 1	Q92847	stomach
+Growth hormone secretagogue receptor type 1	Q92847	brain
+Gtp:amp phosphotransferase ak3, mitochondrial	Q9UIJ7	brain
+Guanylate kinase	Q16774	uterus
+Guanylate kinase	Q16774	eye
+Guanylate kinase	Q16774	testis
+Guanylate kinase	Q16774	skin
+Guanylate kinase	Q16774	C-1300 cell
+Guanylate kinase	Q16774	pancreas
+H(+)/Cl(-) exchange transporter 7	P51798	osteoclast
+H(+)/Cl(-) exchange transporter 7	P51798	testis
+Heat-stable enterotoxin receptor	P25092	intestine
+Hepatocyte nuclear factor 4-alpha	P41235	intestine
+Hexokinase-1	P19367	lung
+Hexokinase-1	P19367	skin
+High affinity nerve growth factor receptor	P04629	adrenal gland
+High affinity nerve growth factor receptor	P04629	peripheral nerve
+High affinity nerve growth factor receptor	P04629	ganglion
+High affinity nerve growth factor receptor	P04629	neuron
+Histamine H1 receptor	P35367	mast cell
+Histamine h2 receptor	P25021	gastric ulcer
+Histamine h2 receptor	P25021	duodenum
+Hydroxycarboxylic acid receptor 2	Q8TDS4	blood
+Inhibitor of nuclear factor kappa-b kinase subunit beta	O14920	brain
+Inositol 1,4,5-trisphosphate receptor type 3	Q14573	ovary
+Inositol 1,4,5-trisphosphate receptor type 3	Q14573	intestine
+Inositol hexakisphosphate kinase 2	Q9UHH9	testis
+Inositol-tetrakisphosphate 1-kinase	Q13572	lung
+Inositol-trisphosphate 3-kinase b	P27987	brain
+Insulin-like growth factor 1 receptor	P08069	breast cancer cell
+Insulin-like growth factor 1 receptor	P08069	breast cancer cell line
+Insulin-like growth factor 1 receptor	P08069	breast
+Interleukin-1 receptor-associated kinase 1	P51617	brain
+Interleukin-1 receptor-associated kinase 1	P51617	skin
+Interleukin-1 receptor-associated kinase 1	P51617	lung
+Interleukin-1 receptor-associated kinase 1	P51617	intestine
+Latrophilin-3	Q9HAR2	ChaGo-K-1 cell
+Latrophilin-3	Q9HAR2	PCCL-3 cell
+Leucine-rich repeat serine/threonine-protein kinase 2	Q5S007	ganglion
+Leucine-rich repeat serine/threonine-protein kinase 2	Q5S007	neuron
+Leucine-rich repeat-containing G-protein coupled receptor 5	O75473	intestine
+Leucine-rich repeat-containing G-protein coupled receptor 5	O75473	cancer stem cell
+Lim domain kinase 2	P53671	testis
+Long-wave-sensitive opsin 1	P04000	pollen tube
+Lutropin-choriogonadotropic hormone receptor	P22888	Leydig cell
+Macrophage colony-stimulating factor 1 receptor	P07333	immune system
+Macrophage colony-stimulating factor 1 receptor	P07333	blood
+Map kinase-interacting serine/threonine-protein kinase 1	Q9BUB5	testis
+Map kinase-interacting serine/threonine-protein kinase 1	Q9BUB5	brain
+Map kinase-interacting serine/threonine-protein kinase 2	Q9HBH9	skeletal muscle
+Map kinase-interacting serine/threonine-protein kinase 2	Q9HBH9	testis
+Map/microtubule affinity-regulating kinase 3	P27448	lung
+Mast/stem cell growth factor receptor kit	P10721	bone marrow
+Mast/stem cell growth factor receptor kit	P10721	blood vessel
+Mast/stem cell growth factor receptor kit	P10721	spindle cell
+Mast/stem cell growth factor receptor kit	P10721	immune system
+Mast/stem cell growth factor receptor kit	P10721	intestine
+Mast/stem cell growth factor receptor kit	P10721	stomach
+Mast/stem cell growth factor receptor kit	P10721	interstitial cell
+Mast/stem cell growth factor receptor kit	P10721	adult
+Mast/stem cell growth factor receptor kit	P10721	hematopoietic stem cell
+Mast/stem cell growth factor receptor kit	P10721	mesenchyme
+Mast/stem cell growth factor receptor kit	P10721	germ cell
+Mast/stem cell growth factor receptor kit	P10721	gastrointestinal stromal tumor cell
+Mast/stem cell growth factor receptor kit	P10721	mast cell
+Mast/stem cell growth factor receptor kit	P10721	myenteric plexus
+Mast/stem cell growth factor receptor kit	P10721	stromal cell
+Mast/stem cell growth factor receptor kit	P10721	blood
+Mast/stem cell growth factor receptor kit	P10721	heart
+Mast/stem cell growth factor receptor kit	P10721	skin
+Mast/stem cell growth factor receptor kit	P10721	muscle
+Mast/stem cell growth factor receptor kit	P10721	submucosa
+Megakaryocyte-associated tyrosine-protein kinase	P42679	hematopoietic stem cell
+Melanocortin receptor 3	P41968	mucoepidermoid carcinoma cell
+Melanopsin	Q9UHM6	retina
+Metabotropic glutamate receptor 1	Q13255	ganglion
+Metabotropic glutamate receptor 1	Q13255	brain
+Metabotropic glutamate receptor 1	Q13255	neuron
+Metabotropic glutamate receptor 5	P41594	ganglion
+Metabotropic glutamate receptor 5	P41594	blood
+Metabotropic glutamate receptor 5	P41594	neuron
+Metabotropic glutamate receptor 6	O15303	peripheral nerve
+Metabotropic glutamate receptor 6	O15303	retina
+Mevalonate kinase	Q03426	brain
+Microtubule-associated serine/threonine-protein kinase 4	O15021	flagellate
+Mineralocorticoid receptor	P08235	adrenal gland
+Mitogen-activated protein kinase 1	P28482	immune system
+Mitogen-activated protein kinase 1	P28482	testis
+Mitogen-activated protein kinase 1	P28482	mouth
+Mitogen-activated protein kinase 12	P53778	brain
+Mitogen-activated protein kinase 14	Q16539	brain
+Mitogen-activated protein kinase 3	P27361	blood
+Mitogen-activated protein kinase 3	P27361	neuron
+Mitogen-activated protein kinase 3	P27361	muscle
+Mitogen-activated protein kinase 3	P27361	artery
+Mitogen-activated protein kinase 3	P27361	immune system
+Mitogen-activated protein kinase 3	P27361	breast
+Mitogen-activated protein kinase 3	P27361	blood vessel endothelium
+Mitogen-activated protein kinase 3	P27361	heart
+Mitogen-activated protein kinase 3	P27361	breast cancer cell line
+Mitogen-activated protein kinase 8	P45983	neuron
+Mitogen-activated protein kinase 8	P45983	ascites
+Mitogen-activated protein kinase 8	P45983	lung
+Mitogen-activated protein kinase 8	P45983	blood vessel
+Mitogen-activated protein kinase 8	P45983	heart
+Mitogen-activated protein kinase 8	P45983	muscle
+Mitogen-activated protein kinase 8	P45983	immune system
+Mitogen-activated protein kinase 8	P45983	spinal cord
+Mitogen-activated protein kinase 8	P45983	blood
+Mitogen-activated protein kinase 8	P45983	liver
+Mitogen-activated protein kinase kinase kinase 11	Q16584	testis
+Mitogen-activated protein kinase kinase kinase kinase 4	O95819	lung
+Mitogen-activated protein kinase kinase kinase mlt	Q9NYL2	prostate gland
+Mitotic checkpoint serine/threonine-protein kinase bub1 beta	O60566	testis
+Muscarinic acetylcholine receptor m3	P20309	ureter
+Muscle, skeletal receptor tyrosine-protein kinase	O15146	muscle
+Muscle, skeletal receptor tyrosine-protein kinase	O15146	myotube
+Myosin light chain kinase, smooth muscle	Q15746	gizzard
+Myosin light chain kinase, smooth muscle	Q15746	muscle
+Myosin light chain kinase, smooth muscle	Q15746	eye
+Myosin light chain kinase, smooth muscle	Q15746	intestine
+N-acetylgalactosamine kinase	Q01415	brain
+N-formyl peptide receptor 2	P25090	neutrophil
+Nadph oxidase 1	Q9Y5S8	intestine
+Neuronal acetylcholine receptor subunit alpha-4	P43681	ganglion
+Neuronal acetylcholine receptor subunit alpha-4	P43681	neuron
+Neuronal acetylcholine receptor subunit alpha-4	P43681	oocyte
+Neuronal acetylcholine receptor subunit alpha-4	P43681	electric organ
+Neuronal acetylcholine receptor subunit alpha-4	P43681	muscle
+Nf-kappa-b essential modulator	Q9Y6K9	SKOV-3 cell
+Nicotinamide riboside kinase 2	Q9NPI5	urine
+Nt-3 growth factor receptor	Q16288	testis
+Nt-3 growth factor receptor	Q16288	peripheral nerve
+Nt-3 growth factor receptor	Q16288	neuron
+Nuclear receptor ror-alpha	P35398	skin
+Nuclear receptor ror-alpha	P35398	brain
+Nuclear receptor subfamily 0 group b member 1	P51843	adrenal gland
+Nuclear receptor subfamily 0 group b member 2	Q15466	liver
+Nuclear receptor subfamily 1 group i member 3	Q14994	Hepa-RG cell
+Nuclear receptor subfamily 2 group c member 1	P13056	brain
+Nuclear receptor subfamily 2 group c member 2	P49116	brain
+Nuclear receptor subfamily 2 group e member 1	Q9Y466	neural stem cell
+Nuclear receptor subfamily 4 group a member 1	P22736	prostate gland
+Nuclear receptor subfamily 4 group a member 2	P43354	neuron
+Nuclear receptor-binding protein	Q9UHY1	testis
+Nuclear receptor-binding protein	Q9UHY1	pancreas
+Nuclear receptor-binding protein	Q9UHY1	uterus
+Nucleoside diphosphate kinase A	P15531	lymph node
+Nucleoside diphosphate kinase, mitochondrial	O00746	prostate gland
+Olfactory receptor 10a5	Q9H207	liver
+Olfactory receptor 2H2	O95918	sporangiospore
+Oxysterols receptor lxr-beta	P55055	testis
+Oxytocin receptor	P30559	myometrium
+P2X purinoceptor 7	Q99572	immune system
+P2X purinoceptor 7	Q99572	spinal cord
+P2Y purinoceptor 11	Q96G91	1321-N1 cell
+P2Y purinoceptor 11	Q96G91	cob
+P2x purinoceptor 2	Q9UBL9	nerve
+P2x purinoceptor 3	P56373	neuron
+P2x purinoceptor 3	P56373	ganglion
+P2x purinoceptor 3	P56373	peripheral nerve
+P2x purinoceptor 3	P56373	trigeminal nerve
+P2y purinoceptor 12	Q9H244	blood clot
+Pantothenate kinase 3	Q9H999	brain
+Peroxisome proliferator-activated receptor alpha	Q07869	blood
+Peroxisome proliferator-activated receptor alpha	Q07869	muscle
+Peroxisome proliferator-activated receptor alpha	Q07869	heart
+Peroxisome proliferator-activated receptor alpha	Q07869	adipocyte
+Peroxisome proliferator-activated receptor gamma	P37231	epididymis
+Peroxisome proliferator-activated receptor gamma	P37231	muscle
+Peroxisome proliferator-activated receptor gamma	P37231	liver
+Peroxisome proliferator-activated receptor gamma	P37231	preadipocyte cell line
+Peroxisome proliferator-activated receptor gamma	P37231	mesenchymal stem cell
+Peroxisome proliferator-activated receptor gamma	P37231	blood
+Peroxisome proliferator-activated receptor gamma	P37231	immune system
+Peroxisome proliferator-activated receptor gamma	P37231	abdominal adipose tissue
+Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit alpha isoform	P42336	colorectum
+Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit alpha isoform	P42336	breast
+Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit alpha isoform	P42336	brain
+Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit beta isoform	P42338	brain
+Phosphatidylinositol 4-kinase beta	Q9UBF8	testis
+Phosphatidylinositol 4-phosphate 3-kinase c2 domain-containing subunit alpha	O00443	blood
+Phosphatidylinositol 4-phosphate 3-kinase c2 domain-containing subunit alpha	O00443	muscle
+Phosphatidylinositol 4-phosphate 3-kinase c2 domain-containing subunit alpha	O00443	artery
+Phosphatidylinositol 4-phosphate 3-kinase c2 domain-containing subunit alpha	O00443	heart
+Phosphatidylinositol 4-phosphate 5-kinase type-1 alpha	Q99755	testis
+Phosphoenolpyruvate carboxykinase [gtp], mitochondrial	Q16822	ascites
+Phosphoenolpyruvate carboxykinase [gtp], mitochondrial	Q16822	kidney
+Phosphoglycerate kinase 1	P00558	muscle
+Phosphoglycerate kinase 1	P00558	esophagus
+Phosphoglycerate kinase 1	P00558	ascites
+Phosphoglycerate kinase 1	P00558	prostate gland
+Phosphoglycerate kinase 1	P00558	stomach
+Phosphoglycerate kinase 1	P00558	thymus
+Phosphoglycerate kinase 2	P07205	spermatid
+Phosphoglycerate kinase 2	P07205	semen
+Phospholemman	O00168	liver
+Phospholemman	O00168	skeletal muscle
+Plasmolipin	Q9Y342	brain
+Platelet-derived growth factor receptor alpha	P16234	gastrointestinal stromal tumor cell
+Platelet-derived growth factor receptor alpha	P16234	mesenchyme
+Platelet-derived growth factor receptor alpha	P16234	spindle cell
+Polycystin-2	Q13563	cyst
+Polycystin-2	Q13563	kidney
+Potassium channel subfamily K member 3	O14649	carotid body
+Potassium voltage-gated channel subfamily A member 1	Q09470	oocyte
+Potassium voltage-gated channel subfamily E member 1	P15382	oocyte
+Potassium voltage-gated channel subfamily G member 1	Q9UIX4	KH2 cell
+Potassium voltage-gated channel subfamily H member 1	O95259	pheromone gland
+Potassium voltage-gated channel subfamily H member 2	Q12809	oocyte
+Potassium voltage-gated channel subfamily H member 2	Q12809	muscle
+Potassium voltage-gated channel subfamily KQT member 4	P56696	outer hair cell
+Potassium voltage-gated channel subfamily a member 5	P22460	muscle
+Potassium voltage-gated channel subfamily c member 1	P48547	neuron
+Potassium voltage-gated channel subfamily e member 2	Q9Y6J6	stomach
+Probable G-protein coupled receptor 148	Q8TDV2	midgut epithelium
+Probable G-protein coupled receptor 179	Q6PRD1	bipolar cell
+Probable g-protein coupled receptor 146	Q96CH1	brain
+Probable g-protein coupled receptor 152	Q8TDT2	bundle sheath
+Progesterone receptor	P06401	needle
+Progesterone receptor	P06401	oviduct
+Progesterone receptor	P06401	ovary
+Progesterone receptor	P06401	stromal cell
+Progesterone receptor	P06401	glandular epithelium
+Progesterone receptor	P06401	breast cancer cell line
+Progesterone receptor	P06401	lymph node
+Prokineticin receptor 1	Q8TCW9	pancreas
+Prostacyclin receptor	P43119	parietal lobe
+Prostacyclin receptor	P43119	cerebellum
+Prostacyclin receptor	P43119	temporal lobe
+Prostacyclin receptor	P43119	occipital lobe
+Prostacyclin receptor	P43119	artery
+Prostacyclin receptor	P43119	frontal lobe
+Prostaglandin E2 receptor EP4 subtype	P35408	ovary
+Protein gpr107	Q5VW38	prostate gland
+Protein kinase c alpha type	P17252	testis
+Protein kinase c alpha type	P17252	pancreas
+Protein kinase c alpha type	P17252	lung
+Protein kinase c epsilon type	Q02156	brain
+Protein kinase c zeta type	Q05513	testis
+Protein tweety homolog 2	Q9BSA4	testis
+Proteinase-activated receptor 1	P25116	blood platelet
+Proteinase-activated receptor 1	P25116	brain
+Proteinase-activated receptor 2	P55085	mast cell
+Proto-oncogene tyrosine-protein kinase receptor ret	P07949	neural crest
+Proto-oncogene tyrosine-protein kinase receptor ret	P07949	medullary carcinoma cell
+Proto-oncogene tyrosine-protein kinase receptor ret	P07949	thyroid cancer cell
+Proto-oncogene tyrosine-protein kinase receptor ret	P07949	thyroid nodule
+Proto-oncogene tyrosine-protein kinase receptor ret	P07949	autonomic nervous system
+Proto-oncogene tyrosine-protein kinase ros	P08922	lung
+Proto-oncogene tyrosine-protein kinase src	P12931	heart
+Proto-oncogene tyrosine-protein kinase src	P12931	blood vessel
+Proto-oncogene tyrosine-protein kinase src	P12931	NIH-3T3 cell
+Proto-oncogene tyrosine-protein kinase src	P12931	breast
+Proto-oncogene tyrosine-protein kinase src	P12931	kidney
+Proto-oncogene tyrosine-protein kinase src	P12931	blood
+Proto-oncogene tyrosine-protein kinase src	P12931	immune system
+Proto-oncogene tyrosine-protein kinase src	P12931	muscle
+Proto-oncogene tyrosine-protein kinase src	P12931	periosteum
+Proto-oncogene tyrosine-protein kinase src	P12931	breast cancer cell line
+Proto-oncogene tyrosine-protein kinase src	P12931	breast cancer cell
+Proto-oncogene tyrosine-protein kinase src	P12931	brain
+Putative gonadotropin-releasing hormone ii receptor	Q96P88	prostate gland
+Putative gonadotropin-releasing hormone ii receptor	Q96P88	brain
+Pyridoxal kinase	O00764	lung
+Pyruvate kinase PKLR	P30613	erythrocyte
+Pyruvate kinase pkm	P14618	thymus
+Pyruvate kinase pkm	P14618	sternum
+Pyruvate kinase pkm	P14618	spleen
+Pyruvate kinase pkm	P14618	thyroid gland
+Rac-alpha serine/threonine-protein kinase	P31749	bone marrow
+Rac-alpha serine/threonine-protein kinase	P31749	hepatoma cell
+Rac-alpha serine/threonine-protein kinase	P31749	blood vessel endothelium
+Rac-alpha serine/threonine-protein kinase	P31749	prostate gland
+Rac-alpha serine/threonine-protein kinase	P31749	lung
+Rac-alpha serine/threonine-protein kinase	P31749	prostate cancer cell line
+Rac-alpha serine/threonine-protein kinase	P31749	colorectal cancer cell
+Rac-alpha serine/threonine-protein kinase	P31749	pancreas
+Rac-alpha serine/threonine-protein kinase	P31749	gastric cancer cell
+Rac-alpha serine/threonine-protein kinase	P31749	breast cancer cell line
+Rac-alpha serine/threonine-protein kinase	P31749	pancreatic cancer cell
+Rac-alpha serine/threonine-protein kinase	P31749	mammary gland cell line
+Rac-alpha serine/threonine-protein kinase	P31749	artery
+Rac-alpha serine/threonine-protein kinase	P31749	prostate gland cancer cell
+Rac-alpha serine/threonine-protein kinase	P31749	3T3-L1 cell
+Rac-alpha serine/threonine-protein kinase	P31749	adipocyte
+Rac-alpha serine/threonine-protein kinase	P31749	immune system
+Rac-alpha serine/threonine-protein kinase	P31749	kidney
+Rac-alpha serine/threonine-protein kinase	P31749	ovary cancer cell
+Rac-alpha serine/threonine-protein kinase	P31749	neuron
+Rac-alpha serine/threonine-protein kinase	P31749	intestine
+Rac-alpha serine/threonine-protein kinase	P31749	skin
+Rac-alpha serine/threonine-protein kinase	P31749	ovary cancer cell line
+Rac-alpha serine/threonine-protein kinase	P31749	breast
+Rac-alpha serine/threonine-protein kinase	P31749	heart
+Rac-alpha serine/threonine-protein kinase	P31749	myotube
+Rac-alpha serine/threonine-protein kinase	P31749	blood
+Rac-alpha serine/threonine-protein kinase	P31749	lung cancer cell
+Rac-alpha serine/threonine-protein kinase	P31749	colonic cancer cell
+Rac-alpha serine/threonine-protein kinase	P31749	adult
+Rac-alpha serine/threonine-protein kinase	P31749	spinal cord
+Rac-alpha serine/threonine-protein kinase	P31749	breast cancer cell
+Rac-alpha serine/threonine-protein kinase	P31749	HUVEC cell
+Rac-beta serine/threonine-protein kinase	P31751	ovary
+Raf proto-oncogene serine/threonine-protein kinase	P04049	lung
+Raf proto-oncogene serine/threonine-protein kinase	P04049	testis
+Raf proto-oncogene serine/threonine-protein kinase	P04049	skin
+Receptor tyrosine-protein kinase erbb-2	P04626	ovary
+Receptor tyrosine-protein kinase erbb-2	P04626	lymph node
+Receptor tyrosine-protein kinase erbb-2	P04626	ovary cancer cell line
+Receptor tyrosine-protein kinase erbb-2	P04626	intestine
+Receptor tyrosine-protein kinase erbb-2	P04626	blood
+Receptor tyrosine-protein kinase erbb-2	P04626	myoepithelium
+Receptor tyrosine-protein kinase erbb-2	P04626	mammary gland cell line
+Receptor tyrosine-protein kinase erbb-2	P04626	gastroesophageal junction
+Receptor tyrosine-protein kinase erbb-2	P04626	needle
+Receptor tyrosine-protein kinase erbb-2	P04626	lung
+Receptor tyrosine-protein kinase erbb-3	P21860	breast cancer cell
+Receptor tyrosine-protein kinase erbb-3	P21860	intestine
+Receptor tyrosine-protein kinase erbb-3	P21860	breast
+Receptor tyrosine-protein kinase erbb-3	P21860	breast cancer cell line
+Receptor tyrosine-protein kinase erbb-4	Q15303	breast
+Receptor-type tyrosine-protein kinase flt3	P36888	lymph node
+Receptor-type tyrosine-protein kinase flt3	P36888	blood
+Receptor-type tyrosine-protein kinase flt3	P36888	adult
+Receptor-type tyrosine-protein kinase flt3	P36888	acute myeloid leukemia cell
+Receptor-type tyrosine-protein kinase flt3	P36888	spleen
+Receptor-type tyrosine-protein kinase flt3	P36888	hematopoietic stem cell
+Receptor-type tyrosine-protein kinase flt3	P36888	MV4-11 cell
+Relaxin receptor 2	Q8WXD0	gubernaculum testis
+Relaxin receptor 2	Q8WXD0	Leydig cell
+Retinoic acid receptor alpha	P10276	acute myeloid leukemia cell
+Retinoic acid receptor rxr-alpha	P19793	brain
+Retinoic acid-induced protein 3	Q8NFJ5	intestine
+Rhodopsin	P08100	compound eye
+Ribose-phosphate pyrophosphokinase 1	P60891	testis
+Ribose-phosphate pyrophosphokinase 1	P60891	kidney
+Ribosomal protein s6 kinase beta-1	P23443	muscle
+Ribosomal protein s6 kinase-like 1	Q9Y6S9	brain
+Ryanodine receptor 1	P21817	myotube
+Ryanodine receptor 2	Q92736	brain
+Ryanodine receptor 2	Q92736	heart
+Ryanodine receptor 2	Q92736	muscle
+Sedoheptulokinase	Q9UHJ6	head kidney
+Serine-protein kinase atm	Q13315	B-lymphocyte
+Serine-protein kinase atm	Q13315	blood
+Serine-protein kinase atm	Q13315	natural killer cell
+Serine-protein kinase atm	Q13315	immune system
+Serine-protein kinase atm	Q13315	culture condition:CD4+ cell
+Serine-protein kinase atm	Q13315	breast
+Serine/threonine-protein kinase 10	O94804	renal vein
+Serine/threonine-protein kinase 25	O00506	lung
+Serine/threonine-protein kinase 25	O00506	eye
+Serine/threonine-protein kinase 26	Q9P289	thymus
+Serine/threonine-protein kinase 32c	Q86UX6	brain
+Serine/threonine-protein kinase 38	Q15208	Mo-B cell
+Serine/threonine-protein kinase 40	Q8N2I9	stomach
+Serine/threonine-protein kinase atr	Q13535	heart
+Serine/threonine-protein kinase atr	Q13535	blood vessel
+Serine/threonine-protein kinase atr	Q13535	microvascular endothelial cell line
+Serine/threonine-protein kinase chk2	O96017	breast
+Serine/threonine-protein kinase d1	Q15139	cyst
+Serine/threonine-protein kinase dclk3	Q9C098	urine
+Serine/threonine-protein kinase greatwall	Q96GX5	pancreas
+Serine/threonine-protein kinase kist	Q8TAS1	brain
+Serine/threonine-protein kinase kist	Q8TAS1	stomach
+Serine/threonine-protein kinase mark1	Q9P0L2	brain
+Serine/threonine-protein kinase mrck beta	Q9Y5S2	eye
+Serine/threonine-protein kinase mrck beta	Q9Y5S2	brain
+Serine/threonine-protein kinase mtor	P42345	fruit
+Serine/threonine-protein kinase mtor	P42345	blood
+Serine/threonine-protein kinase mtor	P42345	muscle
+Serine/threonine-protein kinase mtor	P42345	kidney
+Serine/threonine-protein kinase mtor	P42345	immune system
+Serine/threonine-protein kinase nek10	Q6ZWH5	prostate gland
+Serine/threonine-protein kinase nek10	Q6ZWH5	heart
+Serine/threonine-protein kinase nek10	Q6ZWH5	intestine
+Serine/threonine-protein kinase nek10	Q6ZWH5	uterus
+Serine/threonine-protein kinase nek7	Q8TDX7	brain
+Serine/threonine-protein kinase nlk	Q9UBE8	brain
+Serine/threonine-protein kinase pak 2	Q13177	brain
+Serine/threonine-protein kinase pim-1	P11309	pulvinar
+Serine/threonine-protein kinase pim-2	Q9P1W9	brain
+Serine/threonine-protein kinase pim-2	Q9P1W9	blood
+Serine/threonine-protein kinase pink1, mitochondrial	Q9BXM7	neuron
+Serine/threonine-protein kinase plk1	P53350	vegetative cell
+Serine/threonine-protein kinase plk1	P53350	brain
+Serine/threonine-protein kinase plk2	Q9NYY3	testis
+Serine/threonine-protein kinase plk2	Q9NYY3	kidney
+Serine/threonine-protein kinase plk2	Q9NYY3	liver
+Serine/threonine-protein kinase plk3	Q9H4B4	heart
+Serine/threonine-protein kinase receptor r3	P37023	heart
+Serine/threonine-protein kinase receptor r3	P37023	pulmonary artery
+Serine/threonine-protein kinase rio3	O14730	testis
+Serine/threonine-protein kinase sgk1	O00141	placenta
+Serine/threonine-protein kinase sgk1	O00141	kidney
+Serine/threonine-protein kinase sgk1	O00141	blood
+Serine/threonine-protein kinase sgk1	O00141	testis
+Serine/threonine-protein kinase sgk1	O00141	lung
+Serine/threonine-protein kinase tao3	Q9H2K8	brain
+Serine/threonine-protein kinase tnni3k	Q59H18	brain
+Serine/threonine-protein kinase wnk1	Q9H4A3	testis
+Serine/threonine-protein kinase wnk1	Q9H4A3	placenta
+Sodium channel protein type 10 subunit alpha	Q9Y5Y9	peripheral nerve
+Sodium channel protein type 10 subunit alpha	Q9Y5Y9	neuron
+Sodium channel protein type 10 subunit alpha	Q9Y5Y9	lymph node
+Sodium channel protein type 4 subunit alpha	P35499	muscle
+Sodium channel protein type 5 subunit alpha	Q14524	muscle
+Sodium channel protein type 8 subunit alpha	Q9UQD0	brain
+Sodium channel protein type 9 subunit alpha	Q15858	peripheral nerve
+Somatostatin receptor type 2	P30874	brain
+Somatostatin receptor type 4	P31391	ovary
+Sphingosine 1-phosphate receptor 1	P21453	brain
+Sphingosine 1-phosphate receptor 5	Q9H228	brain
+Sphingosine kinase 2	Q9NRA0	testis
+Srsf protein kinase 2	P78362	testis
+Ste20-related kinase adapter protein beta	Q9C0K7	brain
+Steroid hormone receptor err1	P11474	ascites
+Steroid hormone receptor err2	O95718	trophoblast stem cell
+Steroidogenic factor 1	Q13285	adrenal gland
+Steroidogenic factor 1	Q13285	Leydig cell
+Steroidogenic factor 1	Q13285	testis
+Steroidogenic factor 1	Q13285	ovary
+Substance-P receptor	P25103	spinal cord
+Substance-P receptor	P25103	nerve
+Substance-k receptor	P21452	urinary bladder
+TBC domain-containing protein kinase-like protein	Q8TEA7	testis
+Taste receptor type 1 member 1	Q7RTX1	taste bud
+Taste receptor type 1 member 2	Q8TE23	taste bud
+Taste receptor type 1 member 3	Q7RTX0	taste bud
+Taste receptor type 2 member 42	Q7RTR8	Nthy-ori 3-1 cell
+Tgf-beta receptor type-2	P37173	palatine uvula
+Thyroid hormone receptor alpha	P10827	thyroid gland
+Thyroid hormone receptor beta	P10828	thyroid gland
+Thyrotropin receptor	P16473	thyroid nodule
+Thyrotropin receptor	P16473	orbit
+Titin	Q8WZ42	filament
+Titin	Q8WZ42	larynx
+Titin	Q8WZ42	liver
+Trace amine-associated receptor 8	Q969N4	embryonic tracheal system
+Transient receptor potential cation channel subfamily M member 5	Q9NZQ8	taste bud
+Transient receptor potential cation channel subfamily M member 8	Q7Z2W7	neuron
+Transient receptor potential cation channel subfamily M member 8	Q7Z2W7	spinal ganglion
+Transient receptor potential cation channel subfamily M member 8	Q7Z2W7	peripheral nerve
+Transient receptor potential cation channel subfamily V member 1	Q8NER1	peripheral nerve
+Transient receptor potential cation channel subfamily V member 1	Q8NER1	spinal cord
+Transient receptor potential cation channel subfamily V member 1	Q8NER1	neuron
+Transient receptor potential cation channel subfamily V member 1	Q8NER1	trigeminal nerve
+Transient receptor potential cation channel subfamily V member 1	Q8NER1	ganglion
+Transient receptor potential cation channel subfamily V member 1	Q8NER1	fiber
+Transient receptor potential cation channel subfamily V member 1	Q8NER1	vagus nerve
+Transient receptor potential cation channel subfamily V member 6	Q9H1D0	duodenum
+Transient receptor potential cation channel subfamily a member 1	O75762	trigeminal nerve
+Transient receptor potential cation channel subfamily a member 1	O75762	neuron
+Transient receptor potential cation channel subfamily a member 1	O75762	peripheral nerve
+Transient receptor potential cation channel subfamily m member 1	Q7Z4N2	bipolar cell
+Transmembrane channel-like protein 1	Q8TDI8	hair cell
+Transmembrane channel-like protein 2	Q8TDI7	hair cell
+Tribbles homolog 2	Q92519	testis
+Trimeric intracellular cation channel type B	Q9NVV0	testis
+Trimeric intracellular cation channel type B	Q9NVV0	brain
+Trimeric intracellular cation channel type a	Q9H6F2	skeletal muscle
+Two pore calcium channel protein 1	Q9ULQ1	thyroid cancer cell
+Two pore calcium channel protein 1	Q9ULQ1	B-CPAP cell
+Type-1 angiotensin II receptor	P30556	kidney
+Type-1 angiotensin II receptor	P30556	blood
+Type-1 angiotensin II receptor	P30556	artery
+Type-1 angiotensin II receptor	P30556	heart
+Type-1 angiotensin II receptor	P30556	muscle
+Type-2 angiotensin II receptor	P50052	Mat-Ly-Lu cell
+Type-2 angiotensin II receptor	P50052	artery
+Type-2 angiotensin II receptor	P50052	heart
+Tyrosine-protein kinase abl1	P00519	brain
+Tyrosine-protein kinase abl1	P00519	immune system
+Tyrosine-protein kinase abl1	P00519	bone marrow
+Tyrosine-protein kinase abl1	P00519	blood
+Tyrosine-protein kinase abl1	P00519	K-562 cell
+Tyrosine-protein kinase abl1	P00519	hematopoietic stem cell
+Tyrosine-protein kinase btk	Q06187	chronic lymphocytic leukemia cell
+Tyrosine-protein kinase btk	Q06187	B-lymphocyte
+Tyrosine-protein kinase csk	P41240	blood
+Tyrosine-protein kinase fgr	P09769	blood
+Tyrosine-protein kinase fyn	P06241	immune system
+Tyrosine-protein kinase fyn	P06241	brain
+Tyrosine-protein kinase hck	P08631	heart
+Tyrosine-protein kinase hck	P08631	blood
+Tyrosine-protein kinase jak2	O60674	immune system
+Tyrosine-protein kinase jak2	O60674	hematopoietic stem cell
+Tyrosine-protein kinase jak2	O60674	blood
+Tyrosine-protein kinase jak2	O60674	bone marrow
+Tyrosine-protein kinase jak3	P52333	immune system
+Tyrosine-protein kinase lck	P06239	T-lymphocyte
+Tyrosine-protein kinase lyn	P07948	blood
+Tyrosine-protein kinase lyn	P07948	mast cell
+Tyrosine-protein kinase lyn	P07948	immune system
+Tyrosine-protein kinase receptor tie-1	P35590	brain
+Tyrosine-protein kinase receptor tie-1	P35590	blood vessel
+Tyrosine-protein kinase receptor tie-1	P35590	placenta
+Tyrosine-protein kinase receptor ufo	P30530	brain
+Tyrosine-protein kinase syk	P43405	immune system
+Tyrosine-protein kinase syk	P43405	mast cell
+Tyrosine-protein kinase syk	P43405	blood
+Tyrosine-protein kinase transmembrane receptor ror2	Q01974	placenta
+Tyrosine-protein kinase zap-70	P43403	chronic lymphocytic leukemia cell
+Tyrosine-protein kinase zap-70	P43403	immune system
+UMP-CMP kinase	P30085	lung
+Uridine-cytidine kinase 2	Q9BZX2	SW-1573 cell
+Uridine-cytidine kinase 2	Q9BZX2	brain
+Vascular endothelial growth factor receptor 1	P17948	blood
+Vascular endothelial growth factor receptor 1	P17948	heart
+Vascular endothelial growth factor receptor 1	P17948	trophoblast
+Vascular endothelial growth factor receptor 1	P17948	blood vessel
+Vascular endothelial growth factor receptor 1	P17948	HUVEC cell
+Vascular endothelial growth factor receptor 1	P17948	vasculature
+Vascular endothelial growth factor receptor 2	P35968	heart
+Vascular endothelial growth factor receptor 2	P35968	muscle
+Vascular endothelial growth factor receptor 2	P35968	vasculature
+Vascular endothelial growth factor receptor 2	P35968	HUVEC cell
+Vascular endothelial growth factor receptor 2	P35968	hematopoietic stem cell
+Vascular endothelial growth factor receptor 2	P35968	embryonic stem cell
+Vascular endothelial growth factor receptor 2	P35968	bone marrow
+Vascular endothelial growth factor receptor 2	P35968	blood
+Vascular endothelial growth factor receptor 2	P35968	chorioallantois
+Vascular endothelial growth factor receptor 3	P35916	blood vessel
+Vascular endothelial growth factor receptor 3	P35916	heart
+Vasoactive intestinal polypeptide receptor 1	P32241	crown gall
+Vasopressin V2 receptor	P30518	urine
+Vasopressin V2 receptor	P30518	cervical spine
+Vasopressin V2 receptor	P30518	nasal cavity
+Vitamin d3 receptor	P11473	intestine
+Vitamin d3 receptor	P11473	lumbar spine
+Vitamin d3 receptor	P11473	blood
+Vitamin d3 receptor	P11473	osteoblast
+Vitamin d3 receptor	P11473	kidney
+Vitamin d3 receptor	P11473	thyroid gland
+Voltage-dependent L-type calcium channel subunit alpha-1C	Q13936	muscle
+Voltage-dependent calcium channel gamma-like subunit	Q8WXS4	cuticle
+Voltage-dependent l-type calcium channel subunit alpha-1d	Q01668	inner hair cell
+Voltage-dependent l-type calcium channel subunit alpha-1s	Q13698	muscle
+[3-methyl-2-oxobutanoate dehydrogenase [lipoamide]] kinase, mitochondrial	O14874	testis
+[3-methyl-2-oxobutanoate dehydrogenase [lipoamide]] kinase, mitochondrial	O14874	brain
+[pyruvate dehydrogenase (acetyl-transferring)] kinase isozyme 2, mitochondrial	Q15119	kidney
+[pyruvate dehydrogenase (acetyl-transferring)] kinase isozyme 3, mitochondrial	Q15120	brain
+[pyruvate dehydrogenase (acetyl-transferring)] kinase isozyme 4, mitochondrial	Q16654	skeletal muscle

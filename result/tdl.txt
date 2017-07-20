@@ -1,0 +1,1858 @@
+[label]	tdl_label
+1-phosphatidylinositol 3-phosphate 5-kinase	Tbio
+12-(S)-hydroxy-5,8,10,14-eicosatetraenoic acid receptor	Tbio
+2-5a-dependent ribonuclease	Tchem
+2-oxoglutarate receptor 1	Tbio
+3-phosphoinositide-dependent protein kinase 1	Tchem
+5'-AMP-activated protein kinase catalytic subunit alpha-1	Tchem
+5'-AMP-activated protein kinase catalytic subunit alpha-2	Tchem
+5'-AMP-activated protein kinase subunit beta-1	Tchem
+5'-AMP-activated protein kinase subunit gamma-1	Tbio
+5-hydroxytryptamine receptor 1D	Tclin
+5-hydroxytryptamine receptor 1E	Tchem
+5-hydroxytryptamine receptor 1a	Tclin
+5-hydroxytryptamine receptor 1b	Tclin
+5-hydroxytryptamine receptor 1f	Tchem
+5-hydroxytryptamine receptor 2A	Tclin
+5-hydroxytryptamine receptor 2B	Tclin
+5-hydroxytryptamine receptor 2c	Tclin
+5-hydroxytryptamine receptor 3A	Tclin
+5-hydroxytryptamine receptor 3B	Tchem
+5-hydroxytryptamine receptor 3C	Tchem
+5-hydroxytryptamine receptor 3d	Tchem
+5-hydroxytryptamine receptor 3e	Tchem
+5-hydroxytryptamine receptor 4	Tclin
+5-hydroxytryptamine receptor 5a	Tchem
+5-hydroxytryptamine receptor 6	Tchem
+5-hydroxytryptamine receptor 7	Tclin
+6-phosphofructo-2-kinase/fructose-2,6-bisphosphatase 1	Tbio
+6-phosphofructo-2-kinase/fructose-2,6-bisphosphatase 1	Tchem
+6-phosphofructo-2-kinase/fructose-2,6-bisphosphatase 2	Tbio
+6-phosphofructo-2-kinase/fructose-2,6-bisphosphatase 2	Tchem
+6-phosphofructo-2-kinase/fructose-2,6-bisphosphatase 3	Tchem
+ATP-dependent 6-phosphofructokinase, muscle type	Tbio
+ATP-dependent 6-phosphofructokinase, platelet type	Tbio
+ATP-sensitive inward rectifier potassium channel 1	Tchem
+ATP-sensitive inward rectifier potassium channel 10	Tbio
+ATP-sensitive inward rectifier potassium channel 11	Tclin
+ATP-sensitive inward rectifier potassium channel 12	Tbio
+ATP-sensitive inward rectifier potassium channel 15	Tbio
+Aarf domain-containing protein kinase 4	Tchem
+Abelson tyrosine-protein kinase 2	Tchem
+Acetylcholine receptor subunit alpha	Tclin
+Acetylcholine receptor subunit beta	Tclin
+Acetylcholine receptor subunit delta	Tclin
+Acetylcholine receptor subunit epsilon	Tclin
+Acetylcholine receptor subunit gamma	Tclin
+Acid-sensing ion channel 1	Tchem
+Acid-sensing ion channel 2	Tbio
+Acid-sensing ion channel 3	Tchem
+Acid-sensing ion channel 4	Tbio
+Acid-sensing ion channel 5	Tbio
+Activated cdc42 kinase 1	Tchem
+Activin receptor type-1	Tchem
+Activin receptor type-1b	Tchem
+Activin receptor type-1c	Tbio
+Activin receptor type-2a	Tchem
+Activin receptor type-2b	Tchem
+Adenosine kinase	Tchem
+Adenosine receptor a1	Tclin
+Adenosine receptor a2a	Tclin
+Adenosine receptor a2b	Tclin
+Adenosine receptor a3	Tchem
+Adenylate kinase 2, mitochondrial	Tbio
+Adenylate kinase 4, mitochondrial	Tbio
+Adenylate kinase 8	Tbio
+Adenylate kinase 9	Tbio
+Adenylate kinase isoenzyme 1	Tbio
+Adenylate kinase isoenzyme 5	Tbio
+Adenylate kinase isoenzyme 6	Tbio
+Adhesion G protein-coupled receptor A1	Tdark
+Adhesion G protein-coupled receptor A3	Tbio
+Adhesion G protein-coupled receptor B2	Tbio
+Adhesion G protein-coupled receptor B3	Tbio
+Adhesion G protein-coupled receptor E1	Tbio
+Adhesion G protein-coupled receptor E2	Tbio
+Adhesion G protein-coupled receptor E3	Tbio
+Adhesion G protein-coupled receptor F4	Tdark
+Adhesion G protein-coupled receptor F5	Tbio
+Adhesion G protein-coupled receptor G3	Tchem
+Adhesion G protein-coupled receptor L2	Tbio
+Adhesion G protein-coupled receptor L4	Tbio
+Adhesion G-protein coupled receptor D1	Tbio
+Adhesion G-protein coupled receptor D2	Tdark
+Adhesion G-protein coupled receptor F1	Tdark
+Adhesion G-protein coupled receptor F2	Tdark
+Adhesion G-protein coupled receptor F3	Tdark
+Adhesion G-protein coupled receptor G2	Tbio
+Adhesion G-protein coupled receptor G4	Tdark
+Adhesion G-protein coupled receptor G5	Tdark
+Adhesion G-protein coupled receptor G7	Tdark
+Adrenocorticotropic hormone receptor	Tclin
+Alk tyrosine kinase receptor	Tclin
+Alpha-1B adrenergic receptor	Tclin
+Alpha-1D adrenergic receptor	Tclin
+Alpha-1a adrenergic receptor	Tclin
+Alpha-2B adrenergic receptor	Tclin
+Alpha-2a adrenergic receptor	Tclin
+Alpha-2c adrenergic receptor	Tclin
+Alpha-protein kinase 1	Tbio
+Alpha-protein kinase 2	Tdark
+Alpha-protein kinase 3	Tdark
+Amiloride-sensitive sodium channel subunit alpha	Tclin
+Amiloride-sensitive sodium channel subunit beta	Tclin
+Amiloride-sensitive sodium channel subunit delta	Tbio
+Amiloride-sensitive sodium channel subunit gamma	Tclin
+Androgen receptor	Tclin
+Angiopoietin-1 receptor	Tclin
+Ankyrin repeat and protein kinase domain-containing protein 1	Tchem
+Anoctamin-1	Tclin
+Anoctamin-2	Tbio
+Anoctamin-6	Tbio
+Anti-muellerian hormone type-2 receptor	Tbio
+Ap2-associated protein kinase 1	Tchem
+Apelin receptor	Tchem
+Atp-dependent 6-phosphofructokinase, liver type	Tbio
+Atp-sensitive inward rectifier potassium channel 14	Tdark
+Atp-sensitive inward rectifier potassium channel 8	Tbio
+Atrial natriuretic peptide receptor 1	Tclin
+Atrial natriuretic peptide receptor 2	Tbio
+Atypical chemokine receptor 1	Tbio
+Atypical chemokine receptor 2	Tbio
+Atypical chemokine receptor 3	Tchem
+Atypical chemokine receptor 4	Tbio
+Atypical kinase adck3, mitochondrial	Tchem
+Aurora kinase a	Tchem
+Aurora kinase b	Tchem
+Aurora kinase c	Tchem
+B1 bradykinin receptor	Tchem
+B2 bradykinin receptor	Tclin
+Bdnf/nt-3 growth factors receptor	Tchem
+Bestrophin-1	Tbio
+Bestrophin-2	Tbio
+Bestrophin-3	Tbio
+Bestrophin-4	Tbio
+Beta-1 adrenergic receptor	Tclin
+Beta-2 adrenergic receptor	Tclin
+Beta-3 adrenergic receptor	Tclin
+Beta-adrenergic receptor kinase 1	Tchem
+Beta-adrenergic receptor kinase 2	Tchem
+Bile acid receptor	Tclin
+Bmp-2-inducible protein kinase	Tchem
+Bombesin receptor subtype-3	Tchem
+Bone morphogenetic protein receptor type-1a	Tchem
+Bone morphogenetic protein receptor type-1b	Tchem
+Bone morphogenetic protein receptor type-2	Tchem
+Brain-specific angiogenesis inhibitor 1	Tbio
+C-C chemokine receptor type 2	Tchem
+C-C chemokine receptor type 3	Tchem
+C-C chemokine receptor type 4	Tclin
+C-C chemokine receptor type 5	Tclin
+C-C chemokine receptor type 6	Tchem
+C-C chemokine receptor-like 2	Tchem
+C-X-C chemokine receptor type 1	Tchem
+C-X-C chemokine receptor type 2	Tchem
+C-c chemokine receptor type 1	Tchem
+C-c chemokine receptor type 10	Tbio
+C-c chemokine receptor type 7	Tbio
+C-c chemokine receptor type 8	Tchem
+C-c chemokine receptor type 9	Tchem
+C-x-c chemokine receptor type 3	Tchem
+C-x-c chemokine receptor type 4	Tclin
+C-x-c chemokine receptor type 5	Tbio
+C-x-c chemokine receptor type 6	Tbio
+C3a anaphylatoxin chemotactic receptor	Tchem
+C5a anaphylatoxin chemotactic receptor 1	Tchem
+C5a anaphylatoxin chemotactic receptor 2	Tbio
+CD97 antigen	Tbio
+CGMP-gated cation channel alpha-1	Tbio
+CX3C chemokine receptor 1	Tchem
+Cadherin EGF LAG seven-pass G-type receptor 3	Tbio
+Cadherin egf lag seven-pass g-type receptor 1	Tbio
+Cadherin egf lag seven-pass g-type receptor 2	Tbio
+Calcitonin gene-related peptide type 1 receptor	Tchem
+Calcitonin receptor	Tclin
+Calcium homeostasis modulator protein 1	Tbio
+Calcium homeostasis modulator protein 2	Tdark
+Calcium homeostasis modulator protein 3	Tdark
+Calcium release-activated calcium channel protein 1	Tchem
+Calcium uniporter protein, mitochondrial	Tbio
+Calcium-activated chloride channel regulator 1	Tbio
+Calcium-activated chloride channel regulator 2	Tbio
+Calcium-activated chloride channel regulator 4	Tbio
+Calcium-activated chloride channel regulator family member 3	Tdark
+Calcium-activated potassium channel subunit alpha-1	Tclin
+Calcium-activated potassium channel subunit beta-1	Tbio
+Calcium-activated potassium channel subunit beta-2	Tbio
+Calcium-activated potassium channel subunit beta-3	Tbio
+Calcium-activated potassium channel subunit beta-4	Tbio
+Calcium/calmodulin-dependent protein kinase kinase 1	Tchem
+Calcium/calmodulin-dependent protein kinase kinase 2	Tchem
+Calcium/calmodulin-dependent protein kinase type 1	Tchem
+Calcium/calmodulin-dependent protein kinase type 1b	Tbio
+Calcium/calmodulin-dependent protein kinase type 1d	Tchem
+Calcium/calmodulin-dependent protein kinase type 1g	Tchem
+Calcium/calmodulin-dependent protein kinase type ii subunit alpha	Tchem
+Calcium/calmodulin-dependent protein kinase type ii subunit beta	Tchem
+Calcium/calmodulin-dependent protein kinase type ii subunit delta	Tchem
+Calcium/calmodulin-dependent protein kinase type ii subunit gamma	Tchem
+Calcium/calmodulin-dependent protein kinase type iv	Tchem
+Calsenilin	Tbio
+Cam kinase-like vesicle-associated protein	Tbio
+Camp-dependent protein kinase catalytic subunit alpha	Tchem
+Camp-dependent protein kinase catalytic subunit beta	Tchem
+Camp-dependent protein kinase catalytic subunit gamma	Tbio
+Camp-dependent protein kinase catalytic subunit prkx	Tchem
+Cannabinoid receptor 1	Tclin
+Cannabinoid receptor 2	Tchem
+Casein kinase II subunit alpha	Tchem
+Casein kinase II subunit alpha'	Tchem
+Casein kinase i isoform alpha	Tchem
+Casein kinase i isoform alpha-like	Tchem
+Casein kinase i isoform delta	Tchem
+Casein kinase i isoform epsilon	Tchem
+Casein kinase i isoform gamma-1	Tchem
+Casein kinase i isoform gamma-2	Tchem
+Casein kinase i isoform gamma-3	Tchem
+Casein kinase ii subunit alpha 3	Tdark
+Casein kinase ii subunit beta	Tbio
+Cation channel sperm-associated protein 1	Tchem
+Cation channel sperm-associated protein 2	Tchem
+Cation channel sperm-associated protein 3	Tchem
+Cation channel sperm-associated protein 4	Tchem
+Cell division cycle 7-related protein kinase	Tchem
+Ceramide kinase	Tbio
+Cgmp-dependent protein kinase 1	Tchem
+Cgmp-dependent protein kinase 2	Tchem
+Chemokine xc receptor 1	Tbio
+Chemokine-like receptor 1	Tbio
+Chloride channel CLIC-like protein 1	Tbio
+Chloride channel protein 1	Tbio
+Chloride channel protein 2	Tclin
+Chloride channel protein clc-ka	Tbio
+Chloride channel protein clc-kb	Tbio
+Chloride intracellular channel protein 1	Tbio
+Chloride intracellular channel protein 2	Tbio
+Chloride intracellular channel protein 3	Tbio
+Chloride intracellular channel protein 4	Tbio
+Chloride intracellular channel protein 5	Tbio
+Chloride intracellular channel protein 6	Tbio
+Chloride transport protein 6	Tbio
+Cholecystokinin receptor type a	Tclin
+Choline kinase alpha	Tchem
+Choline/ethanolamine kinase	Tbio
+Citron rho-interacting kinase	Tchem
+Corticotropin-releasing factor receptor 1	Tclin
+Corticotropin-releasing factor receptor 2	Tchem
+Coup transcription factor 1	Tbio
+Coup transcription factor 2	Tbio
+Creatine kinase B-type	Tbio
+Creatine kinase S-type, mitochondrial	Tbio
+Creatine kinase U-type, mitochondrial	Tbio
+Creatine kinase m-type	Tbio
+Cyclic nucleotide-gated cation channel alpha-3	Tbio
+Cyclic nucleotide-gated cation channel alpha-4	Tdark
+Cyclic nucleotide-gated cation channel beta-1	Tbio
+Cyclic nucleotide-gated cation channel beta-3	Tbio
+Cyclic nucleotide-gated olfactory channel	Tbio
+Cyclin-dependent kinase 1	Tchem
+Cyclin-dependent kinase 10	Tbio
+Cyclin-dependent kinase 11a	Tchem
+Cyclin-dependent kinase 11b	Tchem
+Cyclin-dependent kinase 12	Tbio
+Cyclin-dependent kinase 13	Tchem
+Cyclin-dependent kinase 14	Tchem
+Cyclin-dependent kinase 15	Tchem
+Cyclin-dependent kinase 16	Tchem
+Cyclin-dependent kinase 17	Tchem
+Cyclin-dependent kinase 18	Tchem
+Cyclin-dependent kinase 19	Tchem
+Cyclin-dependent kinase 2	Tchem
+Cyclin-dependent kinase 20	Tbio
+Cyclin-dependent kinase 3	Tchem
+Cyclin-dependent kinase 4	Tclin
+Cyclin-dependent kinase 6	Tclin
+Cyclin-dependent kinase 7	Tchem
+Cyclin-dependent kinase 8	Tchem
+Cyclin-dependent kinase 9	Tchem
+Cyclin-dependent kinase-like 1	Tchem
+Cyclin-dependent kinase-like 2	Tchem
+Cyclin-dependent kinase-like 3	Tchem
+Cyclin-dependent kinase-like 4	Tdark
+Cyclin-dependent kinase-like 5	Tchem
+Cyclin-dependent-like kinase 5	Tchem
+Cyclin-g-associated kinase	Tchem
+Cysteinyl leukotriene receptor 1	Tclin
+Cysteinyl leukotriene receptor 2	Tchem
+Cystic fibrosis transmembrane conductance regulator	Tclin
+Cytochrome b-245 heavy chain	Tchem
+Cytoplasmic tyrosine-protein kinase bmx	Tchem
+D(1B) dopamine receptor	Tchem
+D(1a) dopamine receptor	Tclin
+D(2) dopamine receptor	Tclin
+D(3) dopamine receptor	Tclin
+D(4) dopamine receptor	Tchem
+Death-associated protein kinase 1	Tchem
+Death-associated protein kinase 2	Tchem
+Death-associated protein kinase 3	Tchem
+Delta-type opioid receptor	Tclin
+Deoxycytidine kinase	Tchem
+Deoxyguanosine kinase, mitochondrial	Tbio
+Diacylglycerol kinase alpha	Tbio
+Diacylglycerol kinase eta	Tbio
+Diacylglycerol kinase theta	Tbio
+Discoidin domain-containing receptor 2	Tchem
+Dna-dependent protein kinase catalytic subunit	Tchem
+Dual serine/threonine and tyrosine protein kinase	Tchem
+Dual specificity mitogen-activated protein kinase kinase 1	Tclin
+Dual specificity mitogen-activated protein kinase kinase 2	Tclin
+Dual specificity mitogen-activated protein kinase kinase 3	Tchem
+Dual specificity mitogen-activated protein kinase kinase 4	Tchem
+Dual specificity mitogen-activated protein kinase kinase 5	Tchem
+Dual specificity mitogen-activated protein kinase kinase 6	Tchem
+Dual specificity mitogen-activated protein kinase kinase 7	Tchem
+Dual specificity protein kinase clk1	Tchem
+Dual specificity protein kinase clk2	Tchem
+Dual specificity protein kinase clk3	Tchem
+Dual specificity protein kinase clk4	Tchem
+Dual specificity protein kinase ttk	Tchem
+Dual specificity testis-specific protein kinase 1	Tchem
+Dual specificity testis-specific protein kinase 2	Tchem
+Dual specificity tyrosine-phosphorylation-regulated kinase 1a	Tchem
+Dual specificity tyrosine-phosphorylation-regulated kinase 1b	Tchem
+Dual specificity tyrosine-phosphorylation-regulated kinase 2	Tchem
+Dual specificity tyrosine-phosphorylation-regulated kinase 3	Tchem
+Dual specificity tyrosine-phosphorylation-regulated kinase 4	Tchem
+Endothelin b receptor	Tclin
+Endothelin-1 receptor	Tclin
+Ephrin type-a receptor 1	Tchem
+Ephrin type-a receptor 10	Tbio
+Ephrin type-a receptor 2	Tclin
+Ephrin type-a receptor 3	Tchem
+Ephrin type-a receptor 4	Tchem
+Ephrin type-a receptor 5	Tchem
+Ephrin type-a receptor 6	Tchem
+Ephrin type-a receptor 7	Tchem
+Ephrin type-a receptor 8	Tchem
+Ephrin type-b receptor 1	Tchem
+Ephrin type-b receptor 2	Tchem
+Ephrin type-b receptor 3	Tchem
+Ephrin type-b receptor 4	Tchem
+Ephrin type-b receptor 6	Tchem
+Ephrin-a1	Tbio
+Epidermal growth factor receptor	Tclin
+Epithelial discoidin domain-containing receptor 1	Tchem
+Estrogen receptor	Tclin
+Estrogen receptor beta	Tclin
+Estrogen-related receptor gamma	Tchem
+Ethanolamine kinase 1	Tbio
+Ethanolamine kinase 2	Tdark
+Eukaryotic elongation factor 2 kinase	Tchem
+Eukaryotic translation initiation factor 2-alpha kinase 1	Tchem
+Eukaryotic translation initiation factor 2-alpha kinase 3	Tchem
+Eukaryotic translation initiation factor 2-alpha kinase 4	Tchem
+Extracellular calcium-sensing receptor	Tclin
+Extracellular tyrosine-protein kinase PKDCC	Tbio
+FAM26F	Tdark
+FGGY carbohydrate kinase domain-containing protein	Tbio
+FMet-Leu-Phe receptor	Tchem
+FXYD domain-containing ion transport regulator 4	Tdark
+FXYD domain-containing ion transport regulator 5	Tbio
+FXYD domain-containing ion transport regulator 6	Tbio
+Fas-activated serine/threonine kinase	Tbio
+Fibroblast growth factor receptor 1	Tclin
+Fibroblast growth factor receptor 2	Tclin
+Fibroblast growth factor receptor 3	Tclin
+Fibroblast growth factor receptor 4	Tclin
+Focal adhesion kinase 1	Tchem
+Follicle-stimulating hormone receptor	Tclin
+Free fatty acid receptor 1	Tchem
+Free fatty acid receptor 2	Tchem
+Free fatty acid receptor 3	Tbio
+Free fatty acid receptor 4	Tchem
+Frizzled-1	Tbio
+Frizzled-10	Tbio
+Frizzled-2	Tbio
+Frizzled-3	Tbio
+Frizzled-4	Tbio
+Frizzled-5	Tbio
+Frizzled-6	Tbio
+Frizzled-7	Tbio
+Frizzled-8	Tbio
+Frizzled-9	Tbio
+Fructosamine-3-kinase	Tbio
+Fxyd domain-containing ion transport regulator 3	Tbio
+Fxyd domain-containing ion transport regulator 7	Tbio
+G protein-activated inward rectifier potassium channel 1	Tbio
+G protein-activated inward rectifier potassium channel 2	Tchem
+G protein-activated inward rectifier potassium channel 3	Tbio
+G protein-activated inward rectifier potassium channel 4	Tbio
+G protein-coupled receptor kinase 4	Tchem
+G protein-coupled receptor kinase 5	Tchem
+G protein-coupled receptor kinase 6	Tchem
+G protein-coupled receptor kinase 7	Tchem
+G-protein coupled bile acid receptor 1	Tchem
+G-protein coupled estrogen receptor 1	Tchem
+G-protein coupled receptor 1	Tbio
+G-protein coupled receptor 12	Tbio
+G-protein coupled receptor 124	Tbio
+G-protein coupled receptor 126	Tbio
+G-protein coupled receptor 143	Tbio
+G-protein coupled receptor 15	Tbio
+G-protein coupled receptor 161	Tbio
+G-protein coupled receptor 182	Tbio
+G-protein coupled receptor 183	Tchem
+G-protein coupled receptor 20	Tdark
+G-protein coupled receptor 26	Tbio
+G-protein coupled receptor 3	Tbio
+G-protein coupled receptor 35	Tchem
+G-protein coupled receptor 39	Tchem
+G-protein coupled receptor 4	Tchem
+G-protein coupled receptor 42	Tdark
+G-protein coupled receptor 55	Tchem
+G-protein coupled receptor 56	Tbio
+G-protein coupled receptor 6	Tbio
+G-protein coupled receptor 78	Tbio
+G-protein coupled receptor 84	Tbio
+G-protein coupled receptor 87	Tbio
+G-protein coupled receptor 98	Tbio
+G-protein coupled receptor family C group 5 member B	Tbio
+G-protein coupled receptor family c group 5 member c	Tdark
+G-protein coupled receptor family c group 5 member d	Tdark
+G-protein coupled receptor family c group 6 member a	Tbio
+Galactokinase	Tchem
+Galanin receptor type 1	Tchem
+Galanin receptor type 2	Tchem
+Galanin receptor type 3	Tchem
+Gamma-aminobutyric acid receptor subunit alpha-1	Tclin
+Gamma-aminobutyric acid receptor subunit alpha-2	Tclin
+Gamma-aminobutyric acid receptor subunit alpha-3	Tclin
+Gamma-aminobutyric acid receptor subunit alpha-4	Tclin
+Gamma-aminobutyric acid receptor subunit alpha-5	Tclin
+Gamma-aminobutyric acid receptor subunit alpha-6	Tclin
+Gamma-aminobutyric acid receptor subunit beta-1	Tclin
+Gamma-aminobutyric acid receptor subunit beta-2	Tclin
+Gamma-aminobutyric acid receptor subunit beta-3	Tclin
+Gamma-aminobutyric acid receptor subunit delta	Tclin
+Gamma-aminobutyric acid receptor subunit epsilon	Tclin
+Gamma-aminobutyric acid receptor subunit gamma-1	Tclin
+Gamma-aminobutyric acid receptor subunit gamma-2	Tclin
+Gamma-aminobutyric acid receptor subunit gamma-3	Tclin
+Gamma-aminobutyric acid receptor subunit pi	Tclin
+Gamma-aminobutyric acid receptor subunit rho-1	Tchem
+Gamma-aminobutyric acid receptor subunit rho-2	Tbio
+Gamma-aminobutyric acid receptor subunit rho-3	Tdark
+Gamma-aminobutyric acid receptor subunit theta	Tclin
+Gamma-aminobutyric acid type B receptor subunit 1	Tclin
+Gamma-aminobutyric acid type b receptor subunit 2	Tclin
+Gastric inhibitory polypeptide receptor	Tchem
+Gastrin-releasing peptide receptor	Tchem
+Gastrin/cholecystokinin type B receptor	Tclin
+Glucagon receptor	Tclin
+Glucagon-like peptide 1 receptor	Tclin
+Glucagon-like peptide 2 receptor	Tclin
+Glucocorticoid receptor	Tclin
+Glucokinase	Tchem
+Glucose-dependent insulinotropic receptor	Tchem
+Glutamate receptor 1	Tclin
+Glutamate receptor 2	Tclin
+Glutamate receptor 3	Tclin
+Glutamate receptor 4	Tclin
+Glutamate receptor ionotropic, NMDA 2A	Tclin
+Glutamate receptor ionotropic, NMDA 3A	Tclin
+Glutamate receptor ionotropic, NMDA 3B	Tclin
+Glutamate receptor ionotropic, delta-1	Tbio
+Glutamate receptor ionotropic, delta-2	Tbio
+Glutamate receptor ionotropic, kainate 1	Tclin
+Glutamate receptor ionotropic, kainate 2	Tclin
+Glutamate receptor ionotropic, kainate 3	Tclin
+Glutamate receptor ionotropic, kainate 4	Tclin
+Glutamate receptor ionotropic, kainate 5	Tclin
+Glutamate receptor ionotropic, nmda 1	Tclin
+Glutamate receptor ionotropic, nmda 2b	Tclin
+Glutamate receptor ionotropic, nmda 2c	Tclin
+Glutamate receptor ionotropic, nmda 2d	Tclin
+Glycerate kinase	Tbio
+Glycerol kinase	Tbio
+Glycerol kinase 2	Tdark
+Glycerol kinase 3	Tdark
+Glycine receptor subunit alpha-1	Tclin
+Glycine receptor subunit alpha-2	Tchem
+Glycine receptor subunit alpha-3	Tchem
+Glycine receptor subunit alpha-4	Tdark
+Glycine receptor subunit beta	Tclin
+Glycogen synthase kinase-3 alpha	Tclin
+Glycogen synthase kinase-3 beta	Tclin
+Golgi ph regulator a	Tbio
+Golgi ph regulator b	Tdark
+Gonadotropin-releasing hormone receptor	Tclin
+Growth hormone secretagogue receptor type 1	Tclin
+Growth hormone-releasing hormone receptor	Tclin
+Gtp:amp phosphotransferase ak3, mitochondrial	Tbio
+Guanylate kinase	Tbio
+H(+)/Cl(-) exchange transporter 3	Tbio
+H(+)/Cl(-) exchange transporter 7	Tbio
+H(+)/cl(-) exchange transporter 4	Tbio
+H(+)/cl(-) exchange transporter 5	Tbio
+Heat-stable enterotoxin receptor	Tclin
+Hepatocyte growth factor receptor	Tclin
+Hepatocyte nuclear factor 4-alpha	Tbio
+Hepatocyte nuclear factor 4-gamma	Tbio
+Hexokinase-1	Tbio
+Hexokinase-2	Tbio
+Hexokinase-3	Tbio
+High affinity nerve growth factor receptor	Tchem
+Histamine H1 receptor	Tclin
+Histamine H3 receptor	Tclin
+Histamine H4 receptor	Tchem
+Histamine h2 receptor	Tclin
+Homeodomain-interacting protein kinase 1	Tchem
+Homeodomain-interacting protein kinase 2	Tchem
+Homeodomain-interacting protein kinase 3	Tchem
+Homeodomain-interacting protein kinase 4	Tchem
+Hormonally up-regulated neu tumor-associated kinase	Tchem
+Hydroxycarboxylic acid receptor 1	Tbio
+Hydroxycarboxylic acid receptor 2	Tclin
+Hydroxycarboxylic acid receptor 3	Tchem
+Inactive serine/threonine-protein kinase plk5	Tbio
+Inactive serine/threonine-protein kinase tex14	Tbio
+Inactive serine/threonine-protein kinase vrk3	Tbio
+Inactive tyrosine-protein kinase 7	Tbio
+Inhibitor of nuclear factor kappa-b kinase subunit alpha	Tchem
+Inhibitor of nuclear factor kappa-b kinase subunit beta	Tchem
+Inhibitor of nuclear factor kappa-b kinase subunit epsilon	Tchem
+Inositol 1,4,5-trisphosphate receptor type 1	Tchem
+Inositol 1,4,5-trisphosphate receptor type 2	Tbio
+Inositol 1,4,5-trisphosphate receptor type 3	Tchem
+Inositol hexakisphosphate kinase 1	Tbio
+Inositol hexakisphosphate kinase 2	Tbio
+Inositol hexakisphosphate kinase 3	Tbio
+Inositol polyphosphate multikinase	Tbio
+Inositol-tetrakisphosphate 1-kinase	Tbio
+Inositol-trisphosphate 3-kinase C	Tbio
+Inositol-trisphosphate 3-kinase a	Tbio
+Inositol-trisphosphate 3-kinase b	Tbio
+Insulin receptor	Tclin
+Insulin receptor-related protein	Tchem
+Insulin-like growth factor 1 receptor	Tclin
+Integral membrane protein GPR137	Tbio
+Integrin-linked protein kinase	Tchem
+Interferon-induced, double-stranded rna-activated protein kinase	Tchem
+Interferon-inducible double-stranded rna-dependent protein kinase activator a	Tbio
+Interleukin-1 receptor-associated kinase 1	Tchem
+Interleukin-1 receptor-associated kinase 3	Tchem
+Interleukin-1 receptor-associated kinase 4	Tchem
+Interleukin-1 receptor-associated kinase-like 2	Tbio
+Intermediate conductance calcium-activated potassium channel protein 4	Tchem
+Inward rectifier potassium channel 13	Tbio
+Inward rectifier potassium channel 16	Tbio
+Inward rectifier potassium channel 18	Tdark
+Inward rectifier potassium channel 2	Tbio
+Inward rectifier potassium channel 4	Tchem
+Kalirin	Tbio
+Kappa-type opioid receptor	Tclin
+Ketohexokinase	Tchem
+Ketosamine-3-kinase	Tbio
+Kinase suppressor of ras 1	Tbio
+Kinase suppressor of ras 2	Tbio
+Kiss-1 receptor	Tchem
+Kv channel-interacting protein 1	Tbio
+Kv channel-interacting protein 2	Tbio
+Kv channel-interacting protein 4	Tbio
+L-fucose kinase	Tbio
+L-seryl-tRNA(Sec) kinase	Tdark
+Latrophilin-1	Tbio
+Latrophilin-3	Tbio
+Leucine-rich repeat serine/threonine-protein kinase 1	Tbio
+Leucine-rich repeat serine/threonine-protein kinase 2	Tchem
+Leucine-rich repeat-containing G-protein coupled receptor 5	Tbio
+Leucine-rich repeat-containing G-protein coupled receptor 6	Tbio
+Leucine-rich repeat-containing g-protein coupled receptor 4	Tbio
+Leucine-rich repeat-containing protein 26	Tbio
+Leucine-rich repeat-containing protein 38	Tdark
+Leucine-rich repeat-containing protein 52	Tdark
+Leucine-rich repeat-containing protein 55	Tdark
+Leukocyte tyrosine kinase receptor	Tchem
+Leukotriene B4 receptor 2	Tbio
+Leukotriene b4 receptor 1	Tchem
+Lim domain kinase 1	Tchem
+Lim domain kinase 2	Tchem
+Long-wave-sensitive opsin 1	Tbio
+Lutropin-choriogonadotropic hormone receptor	Tclin
+Lymphokine-activated killer t-cell-originated protein kinase	Tchem
+Lysophosphatidic acid receptor 1	Tchem
+Lysophosphatidic acid receptor 2	Tchem
+Lysophosphatidic acid receptor 3	Tchem
+Lysophosphatidic acid receptor 4	Tchem
+Lysophosphatidic acid receptor 5	Tchem
+Lysophosphatidic acid receptor 6	Tchem
+Macrophage colony-stimulating factor 1 receptor	Tclin
+Macrophage-stimulating protein receptor	Tchem
+Map kinase-activated protein kinase 2	Tchem
+Map kinase-activated protein kinase 3	Tchem
+Map kinase-activated protein kinase 5	Tchem
+Map kinase-interacting serine/threonine-protein kinase 1	Tchem
+Map kinase-interacting serine/threonine-protein kinase 2	Tchem
+Map/microtubule affinity-regulating kinase 3	Tchem
+Map/microtubule affinity-regulating kinase 4	Tchem
+Mapk/mak/mrk overlapping kinase	Tbio
+Mas-related G-protein coupled receptor member F	Tdark
+Mas-related G-protein coupled receptor member X4	Tdark
+Mas-related g-protein coupled receptor member d	Tbio
+Mas-related g-protein coupled receptor member e	Tbio
+Mas-related g-protein coupled receptor member g	Tdark
+Mas-related g-protein coupled receptor member x1	Tchem
+Mas-related g-protein coupled receptor member x2	Tbio
+Mas-related g-protein coupled receptor member x3	Tdark
+Mas-related g-protein coupled receptor mrg	Tbio
+Mast/stem cell growth factor receptor kit	Tclin
+Maternal embryonic leucine zipper kinase	Tchem
+Medium-wave-sensitive opsin 1	Tdark
+Megakaryocyte-associated tyrosine-protein kinase	Tchem
+Melanin-concentrating hormone receptor 1	Tchem
+Melanin-concentrating hormone receptor 2	Tchem
+Melanocortin receptor 3	Tchem
+Melanocortin receptor 4	Tchem
+Melanocortin receptor 5	Tchem
+Melanocyte-stimulating hormone receptor	Tclin
+Melanopsin	Tbio
+Melatonin receptor type 1a	Tclin
+Melatonin receptor type 1b	Tclin
+Melatonin-related receptor	Tbio
+Membrane protein MLC1	Tbio
+Membrane-associated tyrosine- and threonine-specific cdc2-inhibitory kinase	Tchem
+Metabotropic glutamate receptor 1	Tchem
+Metabotropic glutamate receptor 2	Tchem
+Metabotropic glutamate receptor 3	Tchem
+Metabotropic glutamate receptor 4	Tchem
+Metabotropic glutamate receptor 5	Tchem
+Metabotropic glutamate receptor 6	Tchem
+Metabotropic glutamate receptor 7	Tbio
+Metabotropic glutamate receptor 8	Tchem
+Mevalonate kinase	Tbio
+Microtubule-associated serine/threonine-protein kinase 1	Tchem
+Microtubule-associated serine/threonine-protein kinase 2	Tbio
+Microtubule-associated serine/threonine-protein kinase 3	Tchem
+Microtubule-associated serine/threonine-protein kinase 4	Tbio
+Mineralocorticoid receptor	Tclin
+Misshapen-like kinase 1	Tchem
+Mitogen-activated protein kinase 1	Tchem
+Mitogen-activated protein kinase 10	Tchem
+Mitogen-activated protein kinase 11	Tchem
+Mitogen-activated protein kinase 12	Tchem
+Mitogen-activated protein kinase 13	Tchem
+Mitogen-activated protein kinase 14	Tchem
+Mitogen-activated protein kinase 15	Tchem
+Mitogen-activated protein kinase 3	Tchem
+Mitogen-activated protein kinase 4	Tbio
+Mitogen-activated protein kinase 6	Tchem
+Mitogen-activated protein kinase 7	Tchem
+Mitogen-activated protein kinase 8	Tchem
+Mitogen-activated protein kinase 9	Tchem
+Mitogen-activated protein kinase kinase kinase 1	Tchem
+Mitogen-activated protein kinase kinase kinase 10	Tchem
+Mitogen-activated protein kinase kinase kinase 11	Tchem
+Mitogen-activated protein kinase kinase kinase 12	Tchem
+Mitogen-activated protein kinase kinase kinase 13	Tchem
+Mitogen-activated protein kinase kinase kinase 14	Tchem
+Mitogen-activated protein kinase kinase kinase 15	Tchem
+Mitogen-activated protein kinase kinase kinase 19	Tchem
+Mitogen-activated protein kinase kinase kinase 2	Tchem
+Mitogen-activated protein kinase kinase kinase 3	Tchem
+Mitogen-activated protein kinase kinase kinase 4	Tchem
+Mitogen-activated protein kinase kinase kinase 5	Tchem
+Mitogen-activated protein kinase kinase kinase 6	Tchem
+Mitogen-activated protein kinase kinase kinase 7	Tchem
+Mitogen-activated protein kinase kinase kinase 8	Tchem
+Mitogen-activated protein kinase kinase kinase 9	Tchem
+Mitogen-activated protein kinase kinase kinase kinase 1	Tchem
+Mitogen-activated protein kinase kinase kinase kinase 2	Tchem
+Mitogen-activated protein kinase kinase kinase kinase 3	Tchem
+Mitogen-activated protein kinase kinase kinase kinase 4	Tchem
+Mitogen-activated protein kinase kinase kinase kinase 5	Tchem
+Mitogen-activated protein kinase kinase kinase mlk4	Tdark
+Mitogen-activated protein kinase kinase kinase mlt	Tchem
+Mitotic checkpoint serine/threonine-protein kinase bub1	Tchem
+Mitotic checkpoint serine/threonine-protein kinase bub1 beta	Tbio
+Mixed lineage kinase domain-like protein	Tbio
+Motilin receptor	Tchem
+Mu-type opioid receptor	Tclin
+Mucolipin-1	Tbio
+Mucolipin-2	Tbio
+Mucolipin-3	Tbio
+Muscarinic acetylcholine receptor M5	Tclin
+Muscarinic acetylcholine receptor m1	Tclin
+Muscarinic acetylcholine receptor m2	Tclin
+Muscarinic acetylcholine receptor m3	Tclin
+Muscarinic acetylcholine receptor m4	Tclin
+Muscle, skeletal receptor tyrosine-protein kinase	Tchem
+Myosin light chain kinase 2, skeletal/cardiac muscle	Tchem
+Myosin light chain kinase 3	Tchem
+Myosin light chain kinase family member 4	Tchem
+Myosin light chain kinase, smooth muscle	Tchem
+Myosin-iiia	Tchem
+Myosin-iiib	Tchem
+Myotonin-protein kinase	Tchem
+N-acetyl-D-glucosamine kinase	Tbio
+N-acetylgalactosamine kinase	Tbio
+N-arachidonyl glycine receptor	Tchem
+N-formyl peptide receptor 2	Tchem
+N-formyl peptide receptor 3	Tbio
+N-terminal kinase-like protein	Tbio
+NAD kinase	Tbio
+NAD kinase 2, mitochondrial	Tbio
+Neuromedin-B receptor	Tchem
+Neuromedin-K receptor	Tchem
+Neuromedin-U receptor 1	Tbio
+Neuromedin-U receptor 2	Tchem
+Neuronal acetylcholine receptor subunit alpha-10	Tbio
+Neuronal acetylcholine receptor subunit alpha-2	Tchem
+Neuronal acetylcholine receptor subunit alpha-3	Tclin
+Neuronal acetylcholine receptor subunit alpha-4	Tclin
+Neuronal acetylcholine receptor subunit alpha-5	Tbio
+Neuronal acetylcholine receptor subunit alpha-6	Tchem
+Neuronal acetylcholine receptor subunit alpha-7	Tchem
+Neuronal acetylcholine receptor subunit alpha-9	Tbio
+Neuronal acetylcholine receptor subunit beta-2	Tclin
+Neuronal acetylcholine receptor subunit beta-3	Tchem
+Neuronal acetylcholine receptor subunit beta-4	Tclin
+Neuropeptide FF receptor 2	Tchem
+Neuropeptide S receptor	Tchem
+Neuropeptide Y receptor type 4	Tchem
+Neuropeptide ff receptor 1	Tchem
+Neuropeptide y receptor type 1	Tchem
+Neuropeptide y receptor type 2	Tchem
+Neuropeptide y receptor type 5	Tchem
+Neuropeptides B/W receptor type 1	Tchem
+Neuropeptides b/w receptor type 2	Tbio
+Neurotensin receptor type 1	Tchem
+Neurotensin receptor type 2	Tchem
+Nf-kappa-b essential modulator	Tbio
+Nicotinamide riboside kinase 1	Tbio
+Nicotinamide riboside kinase 2	Tbio
+Nik-related protein kinase	Tdark
+Nociceptin receptor	Tchem
+Non-receptor tyrosine-protein kinase tnk1	Tchem
+Non-receptor tyrosine-protein kinase tyk2	Tclin
+Nt-3 growth factor receptor	Tchem
+Nuak family snf1-like kinase 1	Tchem
+Nuak family snf1-like kinase 2	Tchem
+Nuclear receptor ror-alpha	Tchem
+Nuclear receptor ror-beta	Tchem
+Nuclear receptor ror-gamma	Tchem
+Nuclear receptor subfamily 0 group b member 1	Tbio
+Nuclear receptor subfamily 0 group b member 2	Tchem
+Nuclear receptor subfamily 1 group d member 1	Tchem
+Nuclear receptor subfamily 1 group d member 2	Tchem
+Nuclear receptor subfamily 1 group i member 2	Tchem
+Nuclear receptor subfamily 1 group i member 3	Tchem
+Nuclear receptor subfamily 2 group c member 1	Tbio
+Nuclear receptor subfamily 2 group c member 2	Tchem
+Nuclear receptor subfamily 2 group e member 1	Tbio
+Nuclear receptor subfamily 2 group f member 6	Tbio
+Nuclear receptor subfamily 4 group a member 1	Tchem
+Nuclear receptor subfamily 4 group a member 2	Tchem
+Nuclear receptor subfamily 4 group a member 3	Tbio
+Nuclear receptor subfamily 5 group a member 2	Tchem
+Nuclear receptor subfamily 6 group a member 1	Tbio
+Nuclear receptor-binding protein	Tbio
+Nuclear receptor-binding protein 2	Tdark
+Nucleoside diphosphate kinase 3	Tbio
+Nucleoside diphosphate kinase 6	Tbio
+Nucleoside diphosphate kinase A	Tbio
+Nucleoside diphosphate kinase B	Tbio
+Nucleoside diphosphate kinase homolog 5	Tbio
+Nucleoside diphosphate kinase, mitochondrial	Tbio
+Obscurin	Tbio
+Olfactory receptor 10A3	Tdark
+Olfactory receptor 10A4	Tbio
+Olfactory receptor 10A7	Tdark
+Olfactory receptor 10AC1	Tdark
+Olfactory receptor 10AD1	Tdark
+Olfactory receptor 10AG1	Tdark
+Olfactory receptor 10C1	Tdark
+Olfactory receptor 10G2	Tdark
+Olfactory receptor 10G3	Tdark
+Olfactory receptor 10G4	Tdark
+Olfactory receptor 10G6	Tdark
+Olfactory receptor 10G7	Tdark
+Olfactory receptor 10G8	Tdark
+Olfactory receptor 10H3	Tdark
+Olfactory receptor 10H4	Tdark
+Olfactory receptor 10J1	Tdark
+Olfactory receptor 10J4	Tdark
+Olfactory receptor 10J5	Tdark
+Olfactory receptor 10K1	Tdark
+Olfactory receptor 10P1	Tdark
+Olfactory receptor 10S1	Tdark
+Olfactory receptor 10V1	Tdark
+Olfactory receptor 10W1	Tdark
+Olfactory receptor 10a2	Tdark
+Olfactory receptor 10a5	Tdark
+Olfactory receptor 10a6	Tdark
+Olfactory receptor 10g9	Tdark
+Olfactory receptor 10h1	Tdark
+Olfactory receptor 10h2	Tdark
+Olfactory receptor 10h5	Tdark
+Olfactory receptor 10j3	Tdark
+Olfactory receptor 10k2	Tdark
+Olfactory receptor 10q1	Tdark
+Olfactory receptor 10r2	Tdark
+Olfactory receptor 10t2	Tdark
+Olfactory receptor 10x1	Tdark
+Olfactory receptor 10z1	Tdark
+Olfactory receptor 11A1	Tdark
+Olfactory receptor 11H2	Tdark
+Olfactory receptor 11H4	Tdark
+Olfactory receptor 11L1	Tdark
+Olfactory receptor 11g2	Tdark
+Olfactory receptor 11h1	Tdark
+Olfactory receptor 11h12	Tdark
+Olfactory receptor 11h6	Tdark
+Olfactory receptor 11h7	Tdark
+Olfactory receptor 12D2	Tdark
+Olfactory receptor 12D3	Tdark
+Olfactory receptor 13A1	Tdark
+Olfactory receptor 13C2	Tdark
+Olfactory receptor 13C3	Tdark
+Olfactory receptor 13C5	Tdark
+Olfactory receptor 13C8	Tdark
+Olfactory receptor 13C9	Tdark
+Olfactory receptor 13G1	Tdark
+Olfactory receptor 13H1	Tdark
+Olfactory receptor 13J1	Tdark
+Olfactory receptor 13c4	Tdark
+Olfactory receptor 13d1	Tdark
+Olfactory receptor 13f1	Tdark
+Olfactory receptor 14A16	Tdark
+Olfactory receptor 14A2	Tdark
+Olfactory receptor 14C36	Tdark
+Olfactory receptor 14I1	Tdark
+Olfactory receptor 14J1	Tdark
+Olfactory receptor 14k1	Tdark
+Olfactory receptor 1A1	Tdark
+Olfactory receptor 1A2	Tdark
+Olfactory receptor 1B1	Tdark
+Olfactory receptor 1C1	Tdark
+Olfactory receptor 1D2	Tbio
+Olfactory receptor 1D4	Tdark
+Olfactory receptor 1D5	Tdark
+Olfactory receptor 1E1	Tdark
+Olfactory receptor 1F12	Tdark
+Olfactory receptor 1G1	Tdark
+Olfactory receptor 1I1	Tdark
+Olfactory receptor 1J1	Tdark
+Olfactory receptor 1J2	Tdark
+Olfactory receptor 1J4	Tdark
+Olfactory receptor 1K1	Tdark
+Olfactory receptor 1L1	Tdark
+Olfactory receptor 1L8	Tdark
+Olfactory receptor 1N1	Tdark
+Olfactory receptor 1Q1	Tdark
+Olfactory receptor 1S1	Tdark
+Olfactory receptor 1e2	Tdark
+Olfactory receptor 1e3	Tdark
+Olfactory receptor 1f1	Tdark
+Olfactory receptor 1l3	Tdark
+Olfactory receptor 1l4	Tdark
+Olfactory receptor 1l6	Tdark
+Olfactory receptor 1m1	Tdark
+Olfactory receptor 1n2	Tdark
+Olfactory receptor 1p1	Tdark
+Olfactory receptor 1s2	Tdark
+Olfactory receptor 2A1/2A42	Tdark
+Olfactory receptor 2A14	Tdark
+Olfactory receptor 2A2	Tdark
+Olfactory receptor 2A25	Tdark
+Olfactory receptor 2AG1	Tdark
+Olfactory receptor 2AK2	Tdark
+Olfactory receptor 2AP1	Tdark
+Olfactory receptor 2AT4	Tdark
+Olfactory receptor 2B11	Tdark
+Olfactory receptor 2B2	Tdark
+Olfactory receptor 2B6	Tdark
+Olfactory receptor 2C1	Tdark
+Olfactory receptor 2C3	Tdark
+Olfactory receptor 2D3	Tdark
+Olfactory receptor 2F1	Tdark
+Olfactory receptor 2G2	Tdark
+Olfactory receptor 2H1	Tdark
+Olfactory receptor 2H2	Tbio
+Olfactory receptor 2J1	Tdark
+Olfactory receptor 2J2	Tdark
+Olfactory receptor 2J3	Tdark
+Olfactory receptor 2L13	Tdark
+Olfactory receptor 2L3	Tdark
+Olfactory receptor 2L5	Tdark
+Olfactory receptor 2M5	Tdark
+Olfactory receptor 2M7	Tdark
+Olfactory receptor 2T1	Tdark
+Olfactory receptor 2T2	Tdark
+Olfactory receptor 2T3	Tdark
+Olfactory receptor 2T33	Tdark
+Olfactory receptor 2T35	Tdark
+Olfactory receptor 2T4	Tdark
+Olfactory receptor 2T7	Tdark
+Olfactory receptor 2V1	Tdark
+Olfactory receptor 2W3	Tbio
+Olfactory receptor 2Y1	Tdark
+Olfactory receptor 2Z1	Tdark
+Olfactory receptor 2a12	Tdark
+Olfactory receptor 2a4	Tdark
+Olfactory receptor 2a5	Tdark
+Olfactory receptor 2a7	Tdark
+Olfactory receptor 2ae1	Tdark
+Olfactory receptor 2ag2	Tdark
+Olfactory receptor 2aj1	Tdark
+Olfactory receptor 2d2	Tdark
+Olfactory receptor 2f2	Tdark
+Olfactory receptor 2g3	Tdark
+Olfactory receptor 2g6	Tdark
+Olfactory receptor 2k2	Tdark
+Olfactory receptor 2l2	Tdark
+Olfactory receptor 2l8	Tdark
+Olfactory receptor 2m2	Tdark
+Olfactory receptor 2m3	Tdark
+Olfactory receptor 2m4	Tdark
+Olfactory receptor 2s2	Tdark
+Olfactory receptor 2t10	Tdark
+Olfactory receptor 2t11	Tdark
+Olfactory receptor 2t12	Tdark
+Olfactory receptor 2t27	Tdark
+Olfactory receptor 2t29	Tdark
+Olfactory receptor 2t34	Tdark
+Olfactory receptor 2t5	Tdark
+Olfactory receptor 2t6	Tdark
+Olfactory receptor 2t8	Tdark
+Olfactory receptor 2v2	Tdark
+Olfactory receptor 2w1	Tdark
+Olfactory receptor 3A1	Tdark
+Olfactory receptor 3A3	Tdark
+Olfactory receptor 3a2	Tdark
+Olfactory receptor 4A15	Tdark
+Olfactory receptor 4A16	Tdark
+Olfactory receptor 4A5	Tdark
+Olfactory receptor 4A8	Tdark
+Olfactory receptor 4B1	Tdark
+Olfactory receptor 4C12	Tdark
+Olfactory receptor 4C3	Tdark
+Olfactory receptor 4C46	Tdark
+Olfactory receptor 4D1	Tdark
+Olfactory receptor 4D10	Tdark
+Olfactory receptor 4D11	Tdark
+Olfactory receptor 4D2	Tdark
+Olfactory receptor 4D5	Tdark
+Olfactory receptor 4D6	Tdark
+Olfactory receptor 4E1	Tdark
+Olfactory receptor 4E2	Tdark
+Olfactory receptor 4F21	Tdark
+Olfactory receptor 4F4	Tdark
+Olfactory receptor 4F5	Tdark
+Olfactory receptor 4K13	Tdark
+Olfactory receptor 4K15	Tdark
+Olfactory receptor 4K2	Tdark
+Olfactory receptor 4K5	Tdark
+Olfactory receptor 4L1	Tdark
+Olfactory receptor 4M1	Tdark
+Olfactory receptor 4M2	Tdark
+Olfactory receptor 4N4	Tdark
+Olfactory receptor 4N5	Tdark
+Olfactory receptor 4P4	Tdark
+Olfactory receptor 4Q3	Tbio
+Olfactory receptor 4S1	Tdark
+Olfactory receptor 4X2	Tdark
+Olfactory receptor 4a47	Tdark
+Olfactory receptor 4c11	Tdark
+Olfactory receptor 4c13	Tdark
+Olfactory receptor 4c15	Tdark
+Olfactory receptor 4c16	Tdark
+Olfactory receptor 4c45	Tdark
+Olfactory receptor 4c5	Tdark
+Olfactory receptor 4c6	Tdark
+Olfactory receptor 4d9	Tdark
+Olfactory receptor 4f15	Tdark
+Olfactory receptor 4f17	Tdark
+Olfactory receptor 4f3/4f16/4f29	Tdark
+Olfactory receptor 4f6	Tdark
+Olfactory receptor 4k1	Tdark
+Olfactory receptor 4k14	Tdark
+Olfactory receptor 4k17	Tdark
+Olfactory receptor 4k3	Tdark
+Olfactory receptor 4n2	Tdark
+Olfactory receptor 4q2	Tdark
+Olfactory receptor 4s2	Tdark
+Olfactory receptor 4x1	Tdark
+Olfactory receptor 51A2	Tdark
+Olfactory receptor 51A4	Tdark
+Olfactory receptor 51B4	Tdark
+Olfactory receptor 51B5	Tdark
+Olfactory receptor 51B6	Tdark
+Olfactory receptor 51D1	Tdark
+Olfactory receptor 51F2	Tdark
+Olfactory receptor 51H1	Tdark
+Olfactory receptor 51I1	Tdark
+Olfactory receptor 51I2	Tdark
+Olfactory receptor 51J1	Tdark
+Olfactory receptor 51Q1	Tdark
+Olfactory receptor 51S1	Tdark
+Olfactory receptor 51T1	Tdark
+Olfactory receptor 51V1	Tdark
+Olfactory receptor 51a7	Tdark
+Olfactory receptor 51b2	Tdark
+Olfactory receptor 51e1	Tbio
+Olfactory receptor 51e2	Tbio
+Olfactory receptor 51f1	Tdark
+Olfactory receptor 51g1	Tdark
+Olfactory receptor 51g2	Tdark
+Olfactory receptor 51l1	Tdark
+Olfactory receptor 51m1	Tdark
+Olfactory receptor 52A4	Tdark
+Olfactory receptor 52B2	Tdark
+Olfactory receptor 52B4	Tdark
+Olfactory receptor 52B6	Tdark
+Olfactory receptor 52D1	Tdark
+Olfactory receptor 52E1	Tdark
+Olfactory receptor 52E2	Tdark
+Olfactory receptor 52E4	Tdark
+Olfactory receptor 52E5	Tdark
+Olfactory receptor 52E6	Tdark
+Olfactory receptor 52E8	Tdark
+Olfactory receptor 52I2	Tdark
+Olfactory receptor 52J3	Tdark
+Olfactory receptor 52M1	Tdark
+Olfactory receptor 52R1	Tdark
+Olfactory receptor 52W1	Tdark
+Olfactory receptor 52a1	Tdark
+Olfactory receptor 52a5	Tdark
+Olfactory receptor 52h1	Tdark
+Olfactory receptor 52i1	Tdark
+Olfactory receptor 52k1	Tdark
+Olfactory receptor 52k2	Tdark
+Olfactory receptor 52l1	Tdark
+Olfactory receptor 52n1	Tdark
+Olfactory receptor 52n2	Tdark
+Olfactory receptor 52n4	Tdark
+Olfactory receptor 52n5	Tdark
+Olfactory receptor 52z1	Tdark
+Olfactory receptor 56A3	Tdark
+Olfactory receptor 56B1	Tdark
+Olfactory receptor 56a1	Tdark
+Olfactory receptor 56a4	Tdark
+Olfactory receptor 56a5	Tdark
+Olfactory receptor 56b4	Tdark
+Olfactory receptor 5A1	Tdark
+Olfactory receptor 5AC2	Tdark
+Olfactory receptor 5AN1	Tdark
+Olfactory receptor 5AP2	Tdark
+Olfactory receptor 5AR1	Tdark
+Olfactory receptor 5B17	Tdark
+Olfactory receptor 5B2	Tdark
+Olfactory receptor 5B21	Tdark
+Olfactory receptor 5C1	Tdark
+Olfactory receptor 5F1	Tdark
+Olfactory receptor 5G3	Tdark
+Olfactory receptor 5H1	Tdark
+Olfactory receptor 5H15	Tdark
+Olfactory receptor 5H6	Tdark
+Olfactory receptor 5I1	Tdark
+Olfactory receptor 5J2	Tdark
+Olfactory receptor 5K1	Tdark
+Olfactory receptor 5K3	Tdark
+Olfactory receptor 5M1	Tdark
+Olfactory receptor 5M11	Tdark
+Olfactory receptor 5M8	Tdark
+Olfactory receptor 5M9	Tdark
+Olfactory receptor 5P2	Tdark
+Olfactory receptor 5P3	Tdark
+Olfactory receptor 5T1	Tdark
+Olfactory receptor 5T3	Tdark
+Olfactory receptor 5V1	Tdark
+Olfactory receptor 5a2	Tdark
+Olfactory receptor 5ac1	Tdark
+Olfactory receptor 5ak2	Tdark
+Olfactory receptor 5al1	Tdark
+Olfactory receptor 5as1	Tdark
+Olfactory receptor 5au1	Tdark
+Olfactory receptor 5b12	Tdark
+Olfactory receptor 5b3	Tdark
+Olfactory receptor 5d13	Tdark
+Olfactory receptor 5d14	Tdark
+Olfactory receptor 5d16	Tdark
+Olfactory receptor 5d18	Tdark
+Olfactory receptor 5h14	Tdark
+Olfactory receptor 5h2	Tdark
+Olfactory receptor 5k2	Tdark
+Olfactory receptor 5k4	Tdark
+Olfactory receptor 5l1	Tdark
+Olfactory receptor 5l2	Tdark
+Olfactory receptor 5m10	Tdark
+Olfactory receptor 5m3	Tdark
+Olfactory receptor 5r1	Tdark
+Olfactory receptor 5t2	Tdark
+Olfactory receptor 5w2	Tdark
+Olfactory receptor 6C74	Tdark
+Olfactory receptor 6C75	Tdark
+Olfactory receptor 6J1	Tdark
+Olfactory receptor 6K2	Tdark
+Olfactory receptor 6K3	Tdark
+Olfactory receptor 6M1	Tdark
+Olfactory receptor 6N2	Tdark
+Olfactory receptor 6Q1	Tdark
+Olfactory receptor 6S1	Tdark
+Olfactory receptor 6V1	Tdark
+Olfactory receptor 6a2	Tdark
+Olfactory receptor 6b1	Tdark
+Olfactory receptor 6b2	Tdark
+Olfactory receptor 6b3	Tdark
+Olfactory receptor 6c1	Tdark
+Olfactory receptor 6c2	Tdark
+Olfactory receptor 6c3	Tdark
+Olfactory receptor 6c4	Tdark
+Olfactory receptor 6c6	Tdark
+Olfactory receptor 6c65	Tdark
+Olfactory receptor 6c68	Tdark
+Olfactory receptor 6c70	Tdark
+Olfactory receptor 6c76	Tdark
+Olfactory receptor 6f1	Tdark
+Olfactory receptor 6k6	Tdark
+Olfactory receptor 6n1	Tdark
+Olfactory receptor 6p1	Tdark
+Olfactory receptor 6t1	Tdark
+Olfactory receptor 6x1	Tdark
+Olfactory receptor 6y1	Tdark
+Olfactory receptor 7A10	Tdark
+Olfactory receptor 7A5	Tdark
+Olfactory receptor 7E24	Tdark
+Olfactory receptor 7G1	Tdark
+Olfactory receptor 7G2	Tdark
+Olfactory receptor 7G3	Tdark
+Olfactory receptor 7a17	Tdark
+Olfactory receptor 7c1	Tdark
+Olfactory receptor 7c2	Tdark
+Olfactory receptor 7d2	Tdark
+Olfactory receptor 7d4	Tbio
+Olfactory receptor 8A1	Tdark
+Olfactory receptor 8B12	Tdark
+Olfactory receptor 8B8	Tdark
+Olfactory receptor 8D1	Tdark
+Olfactory receptor 8D2	Tdark
+Olfactory receptor 8D4	Tdark
+Olfactory receptor 8G1	Tdark
+Olfactory receptor 8G2	Tdark
+Olfactory receptor 8G5	Tdark
+Olfactory receptor 8I2	Tdark
+Olfactory receptor 8J3	Tdark
+Olfactory receptor 8K1	Tdark
+Olfactory receptor 8K3	Tdark
+Olfactory receptor 8K5	Tdark
+Olfactory receptor 8U9	Tdark
+Olfactory receptor 8b2	Tdark
+Olfactory receptor 8b3	Tdark
+Olfactory receptor 8b4	Tdark
+Olfactory receptor 8h1	Tdark
+Olfactory receptor 8h2	Tdark
+Olfactory receptor 8h3	Tdark
+Olfactory receptor 8j1	Tdark
+Olfactory receptor 8j2	Tdark
+Olfactory receptor 8s1	Tdark
+Olfactory receptor 8u1	Tdark
+Olfactory receptor 8u8	Tdark
+Olfactory receptor 9A2	Tdark
+Olfactory receptor 9A4	Tdark
+Olfactory receptor 9G4	Tdark
+Olfactory receptor 9I1	Tdark
+Olfactory receptor 9K2	Tdark
+Olfactory receptor 9Q1	Tdark
+Olfactory receptor 9Q2	Tdark
+Olfactory receptor 9g1	Tdark
+Olfactory receptor 9g9	Tdark
+Opsin-3	Tbio
+Opsin-5	Tbio
+Orexin receptor type 1	Tclin
+Orexin receptor type 2	Tclin
+Ovarian cancer G-protein coupled receptor 1	Tbio
+Oxoeicosanoid receptor 1	Tchem
+Oxysterols receptor lxr-alpha	Tchem
+Oxysterols receptor lxr-beta	Tchem
+Oxytocin receptor	Tclin
+P2X purinoceptor 1	Tchem
+P2X purinoceptor 4	Tchem
+P2X purinoceptor 5	Tbio
+P2X purinoceptor 6	Tbio
+P2X purinoceptor 7	Tchem
+P2Y purinoceptor 11	Tchem
+P2Y purinoceptor 13	Tchem
+P2Y purinoceptor 4	Tchem
+P2Y purinoceptor 8	Tbio
+P2x purinoceptor 2	Tbio
+P2x purinoceptor 3	Tchem
+P2y purinoceptor 1	Tchem
+P2y purinoceptor 12	Tclin
+P2y purinoceptor 14	Tbio
+P2y purinoceptor 2	Tclin
+P2y purinoceptor 6	Tchem
+Pab-dependent poly(a)-specific ribonuclease subunit pan3	Tdark
+Pannexin-1	Tbio
+Pannexin-2	Tbio
+Pannexin-3	Tbio
+Pantothenate kinase 1	Tchem
+Pantothenate kinase 2, mitochondrial	Tchem
+Pantothenate kinase 2, mitochondrial	Tbio
+Pantothenate kinase 3	Tchem
+Pantothenate kinase 3	Tbio
+Pantothenate kinase 4	Tdark
+Parathyroid hormone 2 receptor	Tchem
+Parathyroid hormone/parathyroid hormone-related peptide receptor	Tclin
+Pas domain-containing serine/threonine-protein kinase	Tbio
+Peripheral plasma membrane protein cask	Tchem
+Peroxisome proliferator-activated receptor alpha	Tclin
+Peroxisome proliferator-activated receptor delta	Tchem
+Peroxisome proliferator-activated receptor gamma	Tclin
+Phosphatidylinositol 3-kinase catalytic subunit type 3	Tchem
+Phosphatidylinositol 3-kinase regulatory subunit alpha	Tchem
+Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit alpha isoform	Tchem
+Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit beta isoform	Tchem
+Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit delta isoform	Tclin
+Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit gamma isoform	Tchem
+Phosphatidylinositol 4-kinase alpha	Tchem
+Phosphatidylinositol 4-kinase beta	Tchem
+Phosphatidylinositol 4-kinase type 2-alpha	Tbio
+Phosphatidylinositol 4-phosphate 3-kinase c2 domain-containing subunit alpha	Tchem
+Phosphatidylinositol 4-phosphate 3-kinase c2 domain-containing subunit beta	Tchem
+Phosphatidylinositol 4-phosphate 3-kinase c2 domain-containing subunit gamma	Tchem
+Phosphatidylinositol 4-phosphate 5-kinase type-1 alpha	Tchem
+Phosphatidylinositol 4-phosphate 5-kinase type-1 beta	Tbio
+Phosphatidylinositol 4-phosphate 5-kinase type-1 gamma	Tchem
+Phosphatidylinositol 5-phosphate 4-kinase type-2 alpha	Tbio
+Phosphatidylinositol 5-phosphate 4-kinase type-2 beta	Tchem
+Phosphatidylinositol 5-phosphate 4-kinase type-2 gamma	Tchem
+Phosphoenolpyruvate carboxykinase [gtp], mitochondrial	Tbio
+Phosphoenolpyruvate carboxykinase, cytosolic [GTP]	Tchem
+Phosphoglycerate kinase 1	Tbio
+Phosphoglycerate kinase 2	Tbio
+Phosphoinositide 3-kinase regulatory subunit 4	Tbio
+Phospholemman	Tbio
+Phosphorylase b kinase gamma catalytic chain, liver/testis isoform	Tchem
+Phosphorylase b kinase gamma catalytic chain, skeletal muscle/heart isoform	Tchem
+Phosphorylase b kinase regulatory subunit alpha, liver isoform	Tbio
+Phosphorylase b kinase regulatory subunit alpha, skeletal muscle isoform	Tbio
+Photoreceptor-specific nuclear receptor	Tbio
+Piezo-type mechanosensitive ion channel component 1	Tbio
+Piezo-type mechanosensitive ion channel component 2	Tbio
+Pituitary adenylate cyclase-activating polypeptide type I receptor	Tchem
+Plasmolipin	Tbio
+Platelet-activating factor receptor	Tchem
+Platelet-derived growth factor receptor alpha	Tclin
+Platelet-derived growth factor receptor beta	Tclin
+Polycystic kidney disease 2-like 1 protein	Tbio
+Polycystic kidney disease 2-like 2 protein	Tbio
+Polycystic kidney disease and receptor for egg jelly-related protein	Tdark
+Polycystic kidney disease protein 1-like 2	Tdark
+Polycystic kidney disease protein 1-like 3	Tbio
+Polycystin-2	Tchem
+Potassium channel subfamily K member 1	Tbio
+Potassium channel subfamily K member 10	Tclin
+Potassium channel subfamily K member 12	Tbio
+Potassium channel subfamily K member 16	Tdark
+Potassium channel subfamily K member 17	Tbio
+Potassium channel subfamily K member 18	Tclin
+Potassium channel subfamily K member 2	Tclin
+Potassium channel subfamily K member 3	Tclin
+Potassium channel subfamily K member 4	Tbio
+Potassium channel subfamily K member 5	Tbio
+Potassium channel subfamily K member 9	Tclin
+Potassium channel subfamily U member 1	Tbio
+Potassium channel subfamily k member 13	Tbio
+Potassium channel subfamily k member 15	Tbio
+Potassium channel subfamily k member 6	Tbio
+Potassium channel subfamily k member 7	Tdark
+Potassium channel subfamily t member 1	Tchem
+Potassium channel subfamily t member 2	Tbio
+Potassium voltage-gated channel subfamily A member 1	Tclin
+Potassium voltage-gated channel subfamily A member 2	Tclin
+Potassium voltage-gated channel subfamily A member 3	Tclin
+Potassium voltage-gated channel subfamily A member 6	Tclin
+Potassium voltage-gated channel subfamily A member 7	Tclin
+Potassium voltage-gated channel subfamily B member 2	Tclin
+Potassium voltage-gated channel subfamily D member 1	Tclin
+Potassium voltage-gated channel subfamily D member 3	Tclin
+Potassium voltage-gated channel subfamily E member 1	Tbio
+Potassium voltage-gated channel subfamily E member 4	Tbio
+Potassium voltage-gated channel subfamily G member 1	Tclin
+Potassium voltage-gated channel subfamily G member 3	Tclin
+Potassium voltage-gated channel subfamily G member 4	Tclin
+Potassium voltage-gated channel subfamily H member 1	Tclin
+Potassium voltage-gated channel subfamily H member 2	Tclin
+Potassium voltage-gated channel subfamily H member 3	Tclin
+Potassium voltage-gated channel subfamily H member 4	Tclin
+Potassium voltage-gated channel subfamily H member 6	Tclin
+Potassium voltage-gated channel subfamily H member 7	Tclin
+Potassium voltage-gated channel subfamily H member 8	Tclin
+Potassium voltage-gated channel subfamily KQT member 2	Tclin
+Potassium voltage-gated channel subfamily KQT member 3	Tclin
+Potassium voltage-gated channel subfamily KQT member 4	Tclin
+Potassium voltage-gated channel subfamily S member 1	Tclin
+Potassium voltage-gated channel subfamily V member 2	Tclin
+Potassium voltage-gated channel subfamily a member 10	Tclin
+Potassium voltage-gated channel subfamily a member 4	Tclin
+Potassium voltage-gated channel subfamily a member 5	Tclin
+Potassium voltage-gated channel subfamily b member 1	Tclin
+Potassium voltage-gated channel subfamily c member 1	Tclin
+Potassium voltage-gated channel subfamily c member 2	Tclin
+Potassium voltage-gated channel subfamily c member 3	Tclin
+Potassium voltage-gated channel subfamily c member 4	Tclin
+Potassium voltage-gated channel subfamily d member 2	Tclin
+Potassium voltage-gated channel subfamily e member 2	Tbio
+Potassium voltage-gated channel subfamily e member 3	Tbio
+Potassium voltage-gated channel subfamily f member 1	Tclin
+Potassium voltage-gated channel subfamily g member 2	Tclin
+Potassium voltage-gated channel subfamily h member 5	Tclin
+Potassium voltage-gated channel subfamily kqt member 1	Tclin
+Potassium voltage-gated channel subfamily kqt member 5	Tclin
+Potassium voltage-gated channel subfamily s member 2	Tclin
+Potassium voltage-gated channel subfamily s member 3	Tclin
+Potassium voltage-gated channel subfamily v member 1	Tclin
+Potassium/sodium hyperpolarization-activated cyclic nucleotide-gated channel 1	Tclin
+Potassium/sodium hyperpolarization-activated cyclic nucleotide-gated channel 2	Tclin
+Potassium/sodium hyperpolarization-activated cyclic nucleotide-gated channel 3	Tclin
+Potassium/sodium hyperpolarization-activated cyclic nucleotide-gated channel 4	Tclin
+Probable G-protein coupled receptor 101	Tbio
+Probable G-protein coupled receptor 139	Tchem
+Probable G-protein coupled receptor 142	Tchem
+Probable G-protein coupled receptor 148	Tdark
+Probable G-protein coupled receptor 151	Tdark
+Probable G-protein coupled receptor 156	Tbio
+Probable G-protein coupled receptor 160	Tbio
+Probable G-protein coupled receptor 174	Tchem
+Probable G-protein coupled receptor 179	Tdark
+Probable G-protein coupled receptor 32	Tbio
+Probable G-protein coupled receptor 33	Tdark
+Probable G-protein coupled receptor 34	Tchem
+Probable G-protein coupled receptor 45	Tbio
+Probable G-protein coupled receptor 52	Tchem
+Probable G-protein coupled receptor 61	Tbio
+Probable G-protein coupled receptor 63	Tdark
+Probable G-protein coupled receptor 75	Tdark
+Probable g-protein coupled receptor 132	Tbio
+Probable g-protein coupled receptor 135	Tbio
+Probable g-protein coupled receptor 141	Tdark
+Probable g-protein coupled receptor 146	Tdark
+Probable g-protein coupled receptor 149	Tdark
+Probable g-protein coupled receptor 150	Tdark
+Probable g-protein coupled receptor 152	Tbio
+Probable g-protein coupled receptor 153	Tdark
+Probable g-protein coupled receptor 157	Tdark
+Probable g-protein coupled receptor 158	Tbio
+Probable g-protein coupled receptor 162	Tbio
+Probable g-protein coupled receptor 171	Tdark
+Probable g-protein coupled receptor 173	Tdark
+Probable g-protein coupled receptor 176	Tbio
+Probable g-protein coupled receptor 19	Tbio
+Probable g-protein coupled receptor 21	Tdark
+Probable g-protein coupled receptor 22	Tdark
+Probable g-protein coupled receptor 25	Tdark
+Probable g-protein coupled receptor 27	Tdark
+Probable g-protein coupled receptor 62	Tdark
+Probable g-protein coupled receptor 82	Tdark
+Probable g-protein coupled receptor 83	Tbio
+Probable g-protein coupled receptor 85	Tbio
+Probable g-protein coupled receptor 88	Tchem
+Probable gluconokinase	Tbio
+Progesterone receptor	Tclin
+Prokineticin receptor 1	Tchem
+Prokineticin receptor 2	Tbio
+Prolactin-releasing peptide receptor	Tbio
+Prosaposin receptor GPR37L1	Tbio
+Prosaposin receptor gpr37	Tbio
+Prostacyclin receptor	Tclin
+Prostaglandin D2 receptor	Tclin
+Prostaglandin E2 receptor EP2 subtype	Tclin
+Prostaglandin E2 receptor EP3 subtype	Tclin
+Prostaglandin E2 receptor EP4 subtype	Tclin
+Prostaglandin F2-alpha receptor	Tclin
+Prostaglandin d2 receptor 2	Tchem
+Prostaglandin e2 receptor ep1 subtype	Tclin
+Protein FAM26D	Tdark
+Protein FAM26E	Tdark
+Protein FAM26F	Tdark
+Protein gpr107	Tdark
+Protein kinase c alpha type	Tchem
+Protein kinase c beta type	Tchem
+Protein kinase c delta type	Tclin
+Protein kinase c epsilon type	Tchem
+Protein kinase c eta type	Tchem
+Protein kinase c gamma type	Tchem
+Protein kinase c iota type	Tchem
+Protein kinase c theta type	Tchem
+Protein kinase c zeta type	Tchem
+Protein o-mannose kinase	Tdark
+Protein tweety homolog 1	Tbio
+Protein tweety homolog 2	Tdark
+Protein tweety homolog 3	Tbio
+Protein-associating with the carboxyl-terminal domain of ezrin	Tdark
+Protein-tyrosine kinase 2-beta	Tchem
+Protein-tyrosine kinase 6	Tchem
+Proteinase-activated receptor 1	Tclin
+Proteinase-activated receptor 2	Tchem
+Proteinase-activated receptor 3	Tbio
+Proteinase-activated receptor 4	Tchem
+Proto-oncogene Mas	Tbio
+Proto-oncogene serine/threonine-protein kinase mos	Tbio
+Proto-oncogene tyrosine-protein kinase receptor ret	Tclin
+Proto-oncogene tyrosine-protein kinase ros	Tchem
+Proto-oncogene tyrosine-protein kinase src	Tclin
+Pseudopodium-enriched atypical kinase 1	Tbio
+Psychosine receptor	Tbio
+Putative 3-phosphoinositide-dependent protein kinase 2	Tdark
+Putative G-protein coupled receptor GPR32P1	Tdark
+Putative P2Y purinoceptor 10	Tchem
+Putative adhesion G protein-coupled receptor E4P	Tdark
+Putative fxyd domain-containing ion transport regulator 8	Tdark
+Putative glycerol kinase 5	Tbio
+Putative gonadotropin-releasing hormone ii receptor	Tbio
+Putative hexokinase HKDC1	Tbio
+Putative neuropeptide Y receptor type 6	Tbio
+Putative nucleoside diphosphate kinase	Tdark
+Putative olfactory receptor 10J6	Tdark
+Putative olfactory receptor 10d3	Tdark
+Putative olfactory receptor 10d4	Tdark
+Putative olfactory receptor 13c6	Tdark
+Putative olfactory receptor 14l1	Tdark
+Putative olfactory receptor 1f2	Tdark
+Putative olfactory receptor 2B3	Tdark
+Putative olfactory receptor 2B8	Tdark
+Putative olfactory receptor 2I1	Tdark
+Putative olfactory receptor 2w5	Tdark
+Putative olfactory receptor 2w6	Tdark
+Putative olfactory receptor 3a4	Tdark
+Putative olfactory receptor 4A4	Tdark
+Putative olfactory receptor 52l2	Tdark
+Putative olfactory receptor 52p1	Tdark
+Putative olfactory receptor 56b2	Tdark
+Putative olfactory receptor 5AK3	Tdark
+Putative olfactory receptor 7a2	Tdark
+Putative olfactory receptor 9A1	Tdark
+Putative serine/threonine-protein kinase prky	Tdark
+Putative trace amine-associated receptor 3	Tdark
+Putative vomeronasal receptor-like protein 4	Tdark
+Px domain-containing protein kinase-like protein	Tbio
+Pyridoxal kinase	Tbio
+Pyroglutamylated RFamide peptide receptor	Tchem
+Pyruvate kinase PKLR	Tbio
+Pyruvate kinase pkm	Tchem
+RPE-retinal G protein-coupled receptor	Tbio
+Rac-alpha serine/threonine-protein kinase	Tchem
+Rac-beta serine/threonine-protein kinase	Tchem
+Rac-gamma serine/threonine-protein kinase	Tchem
+Raf proto-oncogene serine/threonine-protein kinase	Tclin
+Receptor tyrosine-protein kinase erbb-2	Tclin
+Receptor tyrosine-protein kinase erbb-3	Tchem
+Receptor tyrosine-protein kinase erbb-4	Tclin
+Receptor-interacting serine/threonine-protein kinase 1	Tchem
+Receptor-interacting serine/threonine-protein kinase 2	Tchem
+Receptor-interacting serine/threonine-protein kinase 3	Tbio
+Receptor-interacting serine/threonine-protein kinase 4	Tchem
+Receptor-type tyrosine-protein kinase flt3	Tclin
+Relaxin receptor 1	Tbio
+Relaxin receptor 2	Tbio
+Relaxin-3 receptor 1	Tbio
+Relaxin-3 receptor 2	Tbio
+Retinal guanylyl cyclase 1	Tbio
+Retinal guanylyl cyclase 2	Tbio
+Retinoic acid receptor alpha	Tclin
+Retinoic acid receptor beta	Tclin
+Retinoic acid receptor gamma	Tclin
+Retinoic acid receptor rxr-alpha	Tclin
+Retinoic acid receptor rxr-beta	Tclin
+Retinoic acid receptor rxr-gamma	Tclin
+Retinoic acid-induced protein 3	Tbio
+Rho-associated protein kinase 1	Tclin
+Rho-associated protein kinase 2	Tclin
+Rhodopsin	Tbio
+Rhodopsin kinase	Tchem
+Ribokinase	Tbio
+Ribose-phosphate pyrophosphokinase 1	Tbio
+Ribose-phosphate pyrophosphokinase 2	Tbio
+Ribose-phosphate pyrophosphokinase 3	Tdark
+Ribosomal protein s6 kinase alpha-1	Tchem
+Ribosomal protein s6 kinase alpha-2	Tchem
+Ribosomal protein s6 kinase alpha-3	Tchem
+Ribosomal protein s6 kinase alpha-4	Tchem
+Ribosomal protein s6 kinase alpha-5	Tchem
+Ribosomal protein s6 kinase alpha-6	Tchem
+Ribosomal protein s6 kinase beta-1	Tchem
+Ribosomal protein s6 kinase beta-2	Tchem
+Ribosomal protein s6 kinase delta-1	Tdark
+Ribosomal protein s6 kinase-like 1	Tdark
+Ryanodine receptor 1	Tclin
+Ryanodine receptor 2	Tclin
+Ryanodine receptor 3	Tclin
+Scy1-like protein 2	Tbio
+Secretin receptor	Tclin
+Sedoheptulokinase	Tbio
+Serine-protein kinase atm	Tchem
+Serine/threonine kinase-like domain-containing protein stkld1	Tdark
+Serine/threonine-protein kinase 10	Tchem
+Serine/threonine-protein kinase 16	Tchem
+Serine/threonine-protein kinase 17a	Tchem
+Serine/threonine-protein kinase 17b	Tchem
+Serine/threonine-protein kinase 24	Tchem
+Serine/threonine-protein kinase 25	Tchem
+Serine/threonine-protein kinase 26	Tchem
+Serine/threonine-protein kinase 3	Tchem
+Serine/threonine-protein kinase 31	Tbio
+Serine/threonine-protein kinase 32a	Tchem
+Serine/threonine-protein kinase 32b	Tchem
+Serine/threonine-protein kinase 32c	Tchem
+Serine/threonine-protein kinase 33	Tchem
+Serine/threonine-protein kinase 35	Tchem
+Serine/threonine-protein kinase 36	Tchem
+Serine/threonine-protein kinase 38	Tchem
+Serine/threonine-protein kinase 38-like	Tchem
+Serine/threonine-protein kinase 4	Tchem
+Serine/threonine-protein kinase 40	Tbio
+Serine/threonine-protein kinase a-raf	Tchem
+Serine/threonine-protein kinase atr	Tchem
+Serine/threonine-protein kinase b-raf	Tclin
+Serine/threonine-protein kinase brsk1	Tchem
+Serine/threonine-protein kinase brsk2	Tchem
+Serine/threonine-protein kinase chk1	Tchem
+Serine/threonine-protein kinase chk2	Tchem
+Serine/threonine-protein kinase d1	Tchem
+Serine/threonine-protein kinase d2	Tchem
+Serine/threonine-protein kinase d3	Tchem
+Serine/threonine-protein kinase dclk1	Tchem
+Serine/threonine-protein kinase dclk2	Tchem
+Serine/threonine-protein kinase dclk3	Tchem
+Serine/threonine-protein kinase greatwall	Tbio
+Serine/threonine-protein kinase h1	Tdark
+Serine/threonine-protein kinase h2	Tdark
+Serine/threonine-protein kinase haspin	Tchem
+Serine/threonine-protein kinase ick	Tchem
+Serine/threonine-protein kinase kist	Tbio
+Serine/threonine-protein kinase lats1	Tchem
+Serine/threonine-protein kinase lats2	Tchem
+Serine/threonine-protein kinase lmtk1	Tbio
+Serine/threonine-protein kinase lmtk2	Tbio
+Serine/threonine-protein kinase lmtk3	Tbio
+Serine/threonine-protein kinase mak	Tchem
+Serine/threonine-protein kinase mark1	Tchem
+Serine/threonine-protein kinase mark2	Tchem
+Serine/threonine-protein kinase mrck alpha	Tchem
+Serine/threonine-protein kinase mrck beta	Tchem
+Serine/threonine-protein kinase mrck gamma	Tchem
+Serine/threonine-protein kinase mtor	Tclin
+Serine/threonine-protein kinase n1	Tchem
+Serine/threonine-protein kinase n2	Tchem
+Serine/threonine-protein kinase n3	Tbio
+Serine/threonine-protein kinase nek1	Tchem
+Serine/threonine-protein kinase nek10	Tdark
+Serine/threonine-protein kinase nek11	Tchem
+Serine/threonine-protein kinase nek2	Tchem
+Serine/threonine-protein kinase nek3	Tchem
+Serine/threonine-protein kinase nek4	Tchem
+Serine/threonine-protein kinase nek5	Tchem
+Serine/threonine-protein kinase nek6	Tchem
+Serine/threonine-protein kinase nek7	Tchem
+Serine/threonine-protein kinase nek8	Tbio
+Serine/threonine-protein kinase nek9	Tchem
+Serine/threonine-protein kinase nim1	Tchem
+Serine/threonine-protein kinase nlk	Tchem
+Serine/threonine-protein kinase osr1	Tchem
+Serine/threonine-protein kinase pak 1	Tchem
+Serine/threonine-protein kinase pak 2	Tchem
+Serine/threonine-protein kinase pak 3	Tchem
+Serine/threonine-protein kinase pak 4	Tchem
+Serine/threonine-protein kinase pak 6	Tchem
+Serine/threonine-protein kinase pak 7	Tchem
+Serine/threonine-protein kinase pdik1l	Tdark
+Serine/threonine-protein kinase pim-1	Tchem
+Serine/threonine-protein kinase pim-2	Tchem
+Serine/threonine-protein kinase pim-3	Tchem
+Serine/threonine-protein kinase pink1, mitochondrial	Tbio
+Serine/threonine-protein kinase plk1	Tchem
+Serine/threonine-protein kinase plk2	Tchem
+Serine/threonine-protein kinase plk3	Tchem
+Serine/threonine-protein kinase plk4	Tchem
+Serine/threonine-protein kinase prp4 homolog	Tchem
+Serine/threonine-protein kinase receptor r3	Tchem
+Serine/threonine-protein kinase rio1	Tchem
+Serine/threonine-protein kinase rio2	Tchem
+Serine/threonine-protein kinase rio3	Tchem
+Serine/threonine-protein kinase sbk1	Tchem
+Serine/threonine-protein kinase sbk2	Tdark
+Serine/threonine-protein kinase sgk1	Tchem
+Serine/threonine-protein kinase sgk2	Tchem
+Serine/threonine-protein kinase sgk3	Tchem
+Serine/threonine-protein kinase sik1	Tchem
+Serine/threonine-protein kinase sik2	Tchem
+Serine/threonine-protein kinase sik3	Tchem
+Serine/threonine-protein kinase smg1	Tchem
+Serine/threonine-protein kinase stk11	Tchem
+Serine/threonine-protein kinase tao1	Tchem
+Serine/threonine-protein kinase tao2	Tchem
+Serine/threonine-protein kinase tao3	Tchem
+Serine/threonine-protein kinase tbk1	Tchem
+Serine/threonine-protein kinase tnni3k	Tchem
+Serine/threonine-protein kinase tousled-like 1	Tchem
+Serine/threonine-protein kinase tousled-like 2	Tchem
+Serine/threonine-protein kinase ulk1	Tchem
+Serine/threonine-protein kinase ulk2	Tchem
+Serine/threonine-protein kinase ulk3	Tchem
+Serine/threonine-protein kinase ulk4	Tbio
+Serine/threonine-protein kinase vrk1	Tbio
+Serine/threonine-protein kinase vrk2	Tchem
+Serine/threonine-protein kinase wnk1	Tbio
+Serine/threonine-protein kinase wnk2	Tbio
+Serine/threonine-protein kinase wnk3	Tchem
+Serine/threonine-protein kinase wnk4	Tbio
+Serine/threonine-protein kinase/endoribonuclease ire1	Tchem
+Serine/threonine-protein kinase/endoribonuclease ire2	Tbio
+Short transient receptor potential channel 1	Tbio
+Short transient receptor potential channel 3	Tchem
+Short transient receptor potential channel 4	Tbio
+Short transient receptor potential channel 5	Tchem
+Short transient receptor potential channel 6	Tchem
+Short transient receptor potential channel 7	Tbio
+Short-wave-sensitive opsin 1	Tbio
+Small conductance calcium-activated potassium channel protein 1	Tchem
+Small conductance calcium-activated potassium channel protein 2	Tchem
+Small conductance calcium-activated potassium channel protein 3	Tchem
+Smoothened homolog	Tclin
+Snf-related serine/threonine-protein kinase	Tchem
+Sodium channel protein type 1 subunit alpha	Tclin
+Sodium channel protein type 10 subunit alpha	Tclin
+Sodium channel protein type 11 subunit alpha	Tclin
+Sodium channel protein type 2 subunit alpha	Tclin
+Sodium channel protein type 3 subunit alpha	Tclin
+Sodium channel protein type 4 subunit alpha	Tclin
+Sodium channel protein type 5 subunit alpha	Tclin
+Sodium channel protein type 7 subunit alpha	Tclin
+Sodium channel protein type 8 subunit alpha	Tclin
+Sodium channel protein type 9 subunit alpha	Tclin
+Sodium channel subunit beta-1	Tbio
+Sodium channel subunit beta-2	Tbio
+Sodium channel subunit beta-3	Tbio
+Sodium channel subunit beta-4	Tbio
+Sodium leak channel non-selective protein	Tbio
+Solute carrier family 26 member 6	Tbio
+Somatostatin receptor type 1	Tclin
+Somatostatin receptor type 2	Tclin
+Somatostatin receptor type 3	Tclin
+Somatostatin receptor type 4	Tclin
+Somatostatin receptor type 5	Tclin
+Sphingosine 1-phosphate receptor 1	Tclin
+Sphingosine 1-phosphate receptor 2	Tchem
+Sphingosine 1-phosphate receptor 3	Tclin
+Sphingosine 1-phosphate receptor 4	Tclin
+Sphingosine 1-phosphate receptor 5	Tclin
+Sphingosine kinase 1	Tchem
+Sphingosine kinase 2	Tchem
+Srsf protein kinase 1	Tchem
+Srsf protein kinase 2	Tchem
+Srsf protein kinase 3	Tchem
+Ste20-like serine/threonine-protein kinase	Tchem
+Ste20-related kinase adapter protein alpha	Tbio
+Ste20-related kinase adapter protein beta	Tbio
+Ste20/sps1-related proline-alanine-rich protein kinase	Tchem
+Steroid hormone receptor err1	Tchem
+Steroid hormone receptor err2	Tchem
+Steroidogenic factor 1	Tchem
+Striated muscle preferentially expressed protein kinase	Tbio
+Substance-P receptor	Tclin
+Substance-k receptor	Tchem
+Succinate receptor 1	Tbio
+Sulfate anion transporter 1	Tbio
+TBC domain-containing protein kinase-like protein	Tbio
+Taste receptor type 1 member 1	Tbio
+Taste receptor type 1 member 2	Tbio
+Taste receptor type 1 member 3	Tbio
+Taste receptor type 2 member 1	Tbio
+Taste receptor type 2 member 10	Tbio
+Taste receptor type 2 member 13	Tbio
+Taste receptor type 2 member 14	Tbio
+Taste receptor type 2 member 16	Tbio
+Taste receptor type 2 member 19	Tdark
+Taste receptor type 2 member 20	Tbio
+Taste receptor type 2 member 3	Tbio
+Taste receptor type 2 member 30	Tbio
+Taste receptor type 2 member 31	Tbio
+Taste receptor type 2 member 38	Tbio
+Taste receptor type 2 member 39	Tbio
+Taste receptor type 2 member 4	Tbio
+Taste receptor type 2 member 40	Tbio
+Taste receptor type 2 member 41	Tbio
+Taste receptor type 2 member 42	Tdark
+Taste receptor type 2 member 43	Tbio
+Taste receptor type 2 member 46	Tbio
+Taste receptor type 2 member 5	Tbio
+Taste receptor type 2 member 50	Tbio
+Taste receptor type 2 member 60	Tbio
+Taste receptor type 2 member 7	Tbio
+Taste receptor type 2 member 8	Tbio
+Taste receptor type 2 member 9	Tdark
+Tau-tubulin kinase 1	Tbio
+Tau-tubulin kinase 2	Tbio
+Testis-specific serine/threonine-protein kinase 1	Tchem
+Testis-specific serine/threonine-protein kinase 2	Tchem
+Testis-specific serine/threonine-protein kinase 3	Tchem
+Testis-specific serine/threonine-protein kinase 4	Tbio
+Testis-specific serine/threonine-protein kinase 6	Tbio
+Tgf-beta receptor type-1	Tchem
+Tgf-beta receptor type-2	Tchem
+Tgf-beta-activated kinase 1 and map3k7-binding protein 1	Tchem
+Thiamin pyrophosphokinase 1	Tbio
+Thromboxane A2 receptor	Tclin
+Thymidine kinase 2, mitochondrial	Tchem
+Thymidine kinase, cytosolic	Tchem
+Thymidylate kinase	Tbio
+Thyroid hormone receptor alpha	Tclin
+Thyroid hormone receptor beta	Tclin
+Thyrotropin receptor	Tclin
+Thyrotropin-releasing hormone receptor	Tclin
+Titin	Tbio
+Tp53-regulating kinase	Tbio
+Trace amine-associated receptor 1	Tclin
+Trace amine-associated receptor 2	Tbio
+Trace amine-associated receptor 5	Tbio
+Trace amine-associated receptor 6	Tbio
+Trace amine-associated receptor 8	Tbio
+Trace amine-associated receptor 9	Tdark
+Traf2 and nck-interacting protein kinase	Tchem
+Transcription initiation factor tfiid subunit 1	Tchem
+Transient receptor potential cation channel subfamily M member 3	Tbio
+Transient receptor potential cation channel subfamily M member 4	Tchem
+Transient receptor potential cation channel subfamily M member 5	Tbio
+Transient receptor potential cation channel subfamily M member 7	Tbio
+Transient receptor potential cation channel subfamily M member 8	Tclin
+Transient receptor potential cation channel subfamily V member 1	Tclin
+Transient receptor potential cation channel subfamily V member 3	Tchem
+Transient receptor potential cation channel subfamily V member 4	Tchem
+Transient receptor potential cation channel subfamily V member 5	Tbio
+Transient receptor potential cation channel subfamily V member 6	Tbio
+Transient receptor potential cation channel subfamily a member 1	Tclin
+Transient receptor potential cation channel subfamily m member 1	Tbio
+Transient receptor potential cation channel subfamily m member 2	Tchem
+Transient receptor potential cation channel subfamily m member 6	Tchem
+Transient receptor potential cation channel subfamily v member 2	Tbio
+Transmembrane channel-like protein 1	Tbio
+Transmembrane channel-like protein 2	Tdark
+Transmembrane channel-like protein 3	Tbio
+Transmembrane channel-like protein 4	Tdark
+Transmembrane channel-like protein 5	Tbio
+Transmembrane channel-like protein 6	Tbio
+Transmembrane channel-like protein 7	Tbio
+Transmembrane channel-like protein 8	Tbio
+Transmembrane protein adipocyte-associated 1	Tdark
+Tribbles homolog 1	Tbio
+Tribbles homolog 2	Tbio
+Tribbles homolog 3	Tbio
+Trimeric intracellular cation channel type B	Tbio
+Trimeric intracellular cation channel type a	Tbio
+Triple functional domain protein	Tbio
+Two pore calcium channel protein 1	Tbio
+Two pore calcium channel protein 2	Tbio
+Type-1 angiotensin II receptor	Tclin
+Type-2 angiotensin II receptor	Tchem
+Tyrosine-protein kinase abl1	Tclin
+Tyrosine-protein kinase blk	Tchem
+Tyrosine-protein kinase btk	Tclin
+Tyrosine-protein kinase csk	Tchem
+Tyrosine-protein kinase fer	Tchem
+Tyrosine-protein kinase fes/fps	Tchem
+Tyrosine-protein kinase fgr	Tchem
+Tyrosine-protein kinase frk	Tchem
+Tyrosine-protein kinase fyn	Tclin
+Tyrosine-protein kinase hck	Tclin
+Tyrosine-protein kinase itk/tsk	Tclin
+Tyrosine-protein kinase jak1	Tclin
+Tyrosine-protein kinase jak2	Tclin
+Tyrosine-protein kinase jak3	Tclin
+Tyrosine-protein kinase lck	Tclin
+Tyrosine-protein kinase lyn	Tclin
+Tyrosine-protein kinase mer	Tchem
+Tyrosine-protein kinase receptor tie-1	Tchem
+Tyrosine-protein kinase receptor tyro3	Tchem
+Tyrosine-protein kinase receptor ufo	Tchem
+Tyrosine-protein kinase ryk	Tbio
+Tyrosine-protein kinase sgk223	Tbio
+Tyrosine-protein kinase srms	Tchem
+Tyrosine-protein kinase styk1	Tbio
+Tyrosine-protein kinase syk	Tchem
+Tyrosine-protein kinase tec	Tchem
+Tyrosine-protein kinase transmembrane receptor ror1	Tbio
+Tyrosine-protein kinase transmembrane receptor ror2	Tbio
+Tyrosine-protein kinase txk	Tchem
+Tyrosine-protein kinase yes	Tclin
+Tyrosine-protein kinase zap-70	Tchem
+Tyrosine-protein kinase zap-70	Tbio
+UMP-CMP kinase	Tbio
+UMP-CMP kinase 2, mitochondrial	Tbio
+Uncharacterized aarf domain-containing protein kinase 1	Tdark
+Uncharacterized aarf domain-containing protein kinase 2	Tbio
+Uncharacterized aarf domain-containing protein kinase 5	Tdark
+Uncharacterized serine/threonine-protein kinase sbk3	Tchem
+Uncharacterized serine/threonine-protein kinase sgk494	Tdark
+Uracil nucleotide/cysteinyl leukotriene receptor	Tchem
+Uridine-cytidine kinase 1	Tbio
+Uridine-cytidine kinase 2	Tbio
+Uridine-cytidine kinase-like 1	Tdark
+Urotensin-2 receptor	Tchem
+Vascular endothelial growth factor receptor 1	Tclin
+Vascular endothelial growth factor receptor 2	Tclin
+Vascular endothelial growth factor receptor 3	Tclin
+Vasoactive intestinal polypeptide receptor 1	Tbio
+Vasoactive intestinal polypeptide receptor 2	Tchem
+Vasopressin V2 receptor	Tclin
+Vasopressin v1a receptor	Tclin
+Vasopressin v1b receptor	Tclin
+Visual pigment-like receptor peropsin	Tbio
+Vitamin d3 receptor	Tclin
+Voltage-dependent L-type calcium channel subunit alpha-1C	Tclin
+Voltage-dependent L-type calcium channel subunit alpha-1F	Tchem
+Voltage-dependent L-type calcium channel subunit beta-1	Tbio
+Voltage-dependent L-type calcium channel subunit beta-2	Tbio
+Voltage-dependent T-type calcium channel subunit alpha-1H	Tclin
+Voltage-dependent calcium channel gamma-1 subunit	Tbio
+Voltage-dependent calcium channel gamma-2 subunit	Tbio
+Voltage-dependent calcium channel gamma-3 subunit	Tbio
+Voltage-dependent calcium channel gamma-4 subunit	Tdark
+Voltage-dependent calcium channel gamma-5 subunit	Tdark
+Voltage-dependent calcium channel gamma-6 subunit	Tdark
+Voltage-dependent calcium channel gamma-7 subunit	Tdark
+Voltage-dependent calcium channel gamma-8 subunit	Tdark
+Voltage-dependent calcium channel gamma-like subunit	Tbio
+Voltage-dependent calcium channel subunit alpha-2/delta-1	Tclin
+Voltage-dependent calcium channel subunit alpha-2/delta-2	Tclin
+Voltage-dependent calcium channel subunit alpha-2/delta-3	Tbio
+Voltage-dependent calcium channel subunit alpha-2/delta-4	Tbio
+Voltage-dependent l-type calcium channel subunit alpha-1d	Tclin
+Voltage-dependent l-type calcium channel subunit alpha-1s	Tchem
+Voltage-dependent l-type calcium channel subunit beta-3	Tbio
+Voltage-dependent l-type calcium channel subunit beta-4	Tbio
+Voltage-dependent n-type calcium channel subunit alpha-1b	Tclin
+Voltage-dependent p/q-type calcium channel subunit alpha-1a	Tchem
+Voltage-dependent r-type calcium channel subunit alpha-1e	Tbio
+Voltage-dependent t-type calcium channel subunit alpha-1g	Tclin
+Voltage-dependent t-type calcium channel subunit alpha-1i	Tclin
+Voltage-gated hydrogen channel 1	Tbio
+Voltage-gated potassium channel subunit beta-1	Tbio
+Voltage-gated potassium channel subunit beta-2	Tbio
+Voltage-gated potassium channel subunit beta-3	Tdark
+Vomeronasal type-1 receptor 1	Tbio
+Vomeronasal type-1 receptor 2	Tdark
+Vomeronasal type-1 receptor 3	Tdark
+Vomeronasal type-1 receptor 4	Tdark
+Vomeronasal type-1 receptor 5	Tdark
+Wee1-like protein kinase	Tchem
+Wee1-like protein kinase 2	Tchem
+Xylulose kinase	Tbio
+ZACN	Tdark
+Zinc-activated ligand-gated ion channel	Tchem
+Zinc-activated ligand-gated ion channel	Tdark
+Zinc-activated ligand-gated ion channel	Tclin
+[3-methyl-2-oxobutanoate dehydrogenase [lipoamide]] kinase, mitochondrial	Tbio
+[pyruvate dehydrogenase (acetyl-transferring)] kinase isozyme 1, mitochondrial	Tchem
+[pyruvate dehydrogenase (acetyl-transferring)] kinase isozyme 2, mitochondrial	Tchem
+[pyruvate dehydrogenase (acetyl-transferring)] kinase isozyme 3, mitochondrial	Tbio
+[pyruvate dehydrogenase (acetyl-transferring)] kinase isozyme 4, mitochondrial	Tbio

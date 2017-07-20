@@ -1,0 +1,231 @@
+# Below queries were executed on TopBraid Free Edition 4/20/2017 based on John's newly generated DTO file updates.
+#(file version:  https://github.com/schurerlab/DTO/tree/fafc2438bbb1ea5a765d7eb29d896145c4b41d06)
+
+# searh all the proteins with UniProt ID, IDG family
+
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+
+SELECT ?label ?uniprot ?idgfamily_label
+
+WHERE {
+	?subject rdfs:label ?label .
+	?subject <http://www.drugtargetontology.org/dto/uniprot_xref> ?uniprot .
+	?subject rdfs:subClassOf* ?idgfamily .
+    ?idgfamily rdfs:subClassOf <http://www.drugtargetontology.org/dto/DTO_00100000> .
+	?idgfamily rdfs:label ?idgfamily_label
+}
+
+
+
+# searh all the proteins with UniProt ID, geneSymbol, and TDL level
+
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+
+SELECT ?label ?uniprot ?gene ?tdl_label
+ 
+WHERE {
+
+	?subject rdfs:label ?label .
+	?subject <http://www.drugtargetontology.org/dto/uniprot_xref> ?uniprot .
+	?subject <http://www.drugtargetontology.org/dto/geneSymbol> ?gene .
+	?subject rdfs:subClassOf ?s1 .
+	?s1 owl:onProperty<http://www.drugtargetontology.org/dto/DTO_91000020>; owl:someValuesFrom ?TDL .
+	?TDL rdfs:label ?tdl_label
+}
+
+# searh all the proteins with UniProt ID and disease with some evidence (score:2.5-3.5)
+
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+
+SELECT ?label ?uniprot ?disease_label
+ 
+WHERE {
+
+	?subject rdfs:label ?label .
+	?subject <http://www.drugtargetontology.org/dto/uniprot_xref> ?uniprot .
+	?subject rdfs:subClassOf ?s1 .
+	?s1 owl:onProperty <http://www.drugtargetontology.org/dto/DTO_90100014>; owl:someValuesFrom ?Disease.
+	?Disease rdfs:label ?disease_label
+}
+
+# searh all the proteins with UniProt ID and disease with strong evidence (score:3.6-5)
+
+
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+
+SELECT ?label ?uniprot ?disease_label
+ 
+WHERE {
+
+	?subject rdfs:label ?label .
+	?subject <http://www.drugtargetontology.org/dto/uniprot_xref> ?uniprot .
+	?subject rdfs:subClassOf ?s1 .
+	?s1 owl:onProperty <http://www.drugtargetontology.org/dto/DTO_90100015>; owl:someValuesFrom ?Disease.
+	?Disease rdfs:label ?disease_label
+}
+
+# searh all the proteins with UniProt ID and disease with weak evidence (score:0-2.4)
+
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+
+SELECT ?label ?uniprot ?disease_label
+ 
+WHERE {
+
+	?subject rdfs:label ?label .
+	?subject <http://www.drugtargetontology.org/dto/uniprot_xref> ?uniprot .
+	?subject rdfs:subClassOf ?s1 .
+	?s1 owl:onProperty <http://www.drugtargetontology.org/dto/DTO_90100013>; owl:someValuesFrom ?Disease.
+	?Disease rdfs:label ?disease_label
+}
+
+
+# searh all the proteins with UniProt ID and Tissue with weak evidence (score:0-2.4)
+
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+
+SELECT ?label ?uniprot ?tissue_label
+ 
+WHERE {
+
+	?subject rdfs:label ?label .
+	?subject <http://www.drugtargetontology.org/dto/uniprot_xref> ?uniprot .
+	?subject rdfs:subClassOf ?s1 .
+	?s1 owl:onProperty <http://www.drugtargetontology.org/dto/DTO_90100006>; owl:someValuesFrom ?Tissue.
+	?Tissue rdfs:label ?tissue_label
+}
+
+# searh all the proteins with UniProt ID and Tissue with some evidence (score:2.5-3.5)
+
+
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+
+SELECT ?label ?uniprot ?tissue_label
+ 
+WHERE {
+
+	?subject rdfs:label ?label .
+	?subject <http://www.drugtargetontology.org/dto/uniprot_xref> ?uniprot .
+	?subject rdfs:subClassOf ?s1 .
+	?s1 owl:onProperty <http://www.drugtargetontology.org/dto/DTO_90100005>; owl:someValuesFrom ?Tissue.
+	?Tissue rdfs:label ?tissue_label
+}
+
+
+
+# searh all the proteins with UniProt ID and Tissue with strong evidence (score:3.6-5)
+
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+
+SELECT ?label ?uniprot ?tissue_label
+ 
+WHERE {
+
+	?subject rdfs:label ?label .
+	?subject <http://www.drugtargetontology.org/dto/uniprot_xref> ?uniprot .
+	?subject rdfs:subClassOf ?s1 .
+	?s1 owl:onProperty <http://www.drugtargetontology.org/dto/DTO_90100056>; owl:someValuesFrom ?Tissue.
+	?Tissue rdfs:label ?tissue_label
+}
+
+
+# search all the BTO tissues/cells/organs used in DTO
+
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+
+SELECT distinct ?tissue_label ?Tissue
+ 
+WHERE {
+
+	?subject rdfs:label ?label .
+	?subject <http://www.drugtargetontology.org/dto/uniprot_xref> ?uniprot .
+	?subject rdfs:subClassOf ?s1 .
+	{?s1 owl:onProperty <http://www.drugtargetontology.org/dto/DTO_90100056>; owl:someValuesFrom ?Tissue.}
+	UNION
+	{?s1 owl:onProperty <http://www.drugtargetontology.org/dto/DTO_90100005>; owl:someValuesFrom ?Tissue.}
+	UNION
+	{?s1 owl:onProperty <http://www.drugtargetontology.org/dto/DTO_90100006>; owl:someValuesFrom ?Tissue.}
+	?Tissue rdfs:label ?tissue_label
+}
+
+# find all the protein and ligand pair linked using "binds molecular entity"
+# note: using the merged inferred file on public DTO (relation RUI is not updated)
+
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+
+SELECT ?subject_label ?ligand_label
+ 
+WHERE {
+
+	?subject rdfs:subClassOf ?s1 .
+	?s1 owl:onProperty<http://www.drugtargetontology.org/dto/DTO_00100125>; owl:someValuesFrom ?ligand .
+    ?subject rdfs:label ?subject_label .
+    ?ligand rdfs:label ?ligand_label
+}
+
+
+# find all the protein and ion pair linked using "transports molecular entity"
+# note: using the merged inferred file on public DTO (relation RUI is not updated)
+
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+
+SELECT ?subject_label ?ion_label
+ 
+WHERE {
+
+	?subject rdfs:subClassOf ?s1 .
+	?s1 owl:onProperty<http://www.drugtargetontology.org/dto/DTO_00100121>; owl:someValuesFrom ?ion .
+    ?subject rdfs:label ?subject_label .
+    ?ion rdfs:label ?ion_label
+}'
+
+# find anything that is assigned with "not ('binds molecular entity' some entity)
+
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+
+SELECT ?subject_label 
+ 
+WHERE {
+
+	 ?subject rdfs:subClassOf ?s1.
+     ?s1 owl:complementOf ?s2 .
+     ?s2 owl:onProperty <http://www.drugtargetontology.org/dto/DTO_00100125>;owl:someValuesFrom ?s3 .
+    ?subject rdfs:label ?subject_label .
+}
+
+# find all the subclass of orphan GPCR on inferred and merged file
+
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+
+SELECT ?subject_label 
+ 
+WHERE {
+	?subject rdfs:subClassOf <http://www.drugtargetontology.org/dto/DTO_02390003> .
+    	?subject rdfs:label ?subject_label .
+}

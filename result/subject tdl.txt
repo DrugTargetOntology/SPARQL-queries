@@ -1,0 +1,1858 @@
+[subject]	label	tdl_label
+dto:DTO_00117478	Nuclear receptor subfamily 0 group b member 1	Tbio
+dto:DTO_00117479	Nuclear receptor subfamily 0 group b member 2	Tchem
+dto:DTO_00117480	Thyroid hormone receptor alpha	Tclin
+dto:DTO_00117481	Thyroid hormone receptor beta	Tclin
+dto:DTO_00117482	Retinoic acid receptor alpha	Tclin
+dto:DTO_00117483	Retinoic acid receptor beta	Tclin
+dto:DTO_00117484	Retinoic acid receptor gamma	Tclin
+dto:DTO_00117485	Peroxisome proliferator-activated receptor alpha	Tclin
+dto:DTO_00117486	Peroxisome proliferator-activated receptor delta	Tchem
+dto:DTO_00117487	Peroxisome proliferator-activated receptor gamma	Tclin
+dto:DTO_00117488	Nuclear receptor subfamily 1 group d member 1	Tchem
+dto:DTO_00117489	Nuclear receptor subfamily 1 group d member 2	Tchem
+dto:DTO_00117490	Nuclear receptor ror-alpha	Tchem
+dto:DTO_00117491	Nuclear receptor ror-beta	Tchem
+dto:DTO_00117492	Nuclear receptor ror-gamma	Tchem
+dto:DTO_00117493	Bile acid receptor	Tclin
+dto:DTO_00117494	Oxysterols receptor lxr-alpha	Tchem
+dto:DTO_00117495	Oxysterols receptor lxr-beta	Tchem
+dto:DTO_00117496	Vitamin d3 receptor	Tclin
+dto:DTO_00117497	Nuclear receptor subfamily 1 group i member 2	Tchem
+dto:DTO_00117498	Nuclear receptor subfamily 1 group i member 3	Tchem
+dto:DTO_00117499	Hepatocyte nuclear factor 4-alpha	Tbio
+dto:DTO_00117500	Hepatocyte nuclear factor 4-gamma	Tbio
+dto:DTO_00117501	Retinoic acid receptor rxr-alpha	Tclin
+dto:DTO_00117502	Retinoic acid receptor rxr-beta	Tclin
+dto:DTO_00117503	Retinoic acid receptor rxr-gamma	Tclin
+dto:DTO_00117504	Nuclear receptor subfamily 2 group c member 1	Tbio
+dto:DTO_00117505	Nuclear receptor subfamily 2 group c member 2	Tchem
+dto:DTO_00117506	Nuclear receptor subfamily 2 group e member 1	Tbio
+dto:DTO_00117507	Photoreceptor-specific nuclear receptor	Tbio
+dto:DTO_00117508	Coup transcription factor 1	Tbio
+dto:DTO_00117509	Coup transcription factor 2	Tbio
+dto:DTO_00117510	Nuclear receptor subfamily 2 group f member 6	Tbio
+dto:DTO_00117511	Estrogen receptor	Tclin
+dto:DTO_00117512	Estrogen receptor beta	Tclin
+dto:DTO_00117513	Steroid hormone receptor err1	Tchem
+dto:DTO_00117514	Steroid hormone receptor err2	Tchem
+dto:DTO_00117515	Estrogen-related receptor gamma	Tchem
+dto:DTO_00117516	Androgen receptor	Tclin
+dto:DTO_00117517	Glucocorticoid receptor	Tclin
+dto:DTO_00117518	Mineralocorticoid receptor	Tclin
+dto:DTO_00117519	Progesterone receptor	Tclin
+dto:DTO_00117520	Nuclear receptor subfamily 4 group a member 1	Tchem
+dto:DTO_00117521	Nuclear receptor subfamily 4 group a member 2	Tchem
+dto:DTO_00117522	Nuclear receptor subfamily 4 group a member 3	Tbio
+dto:DTO_00117523	Steroidogenic factor 1	Tchem
+dto:DTO_00117524	Nuclear receptor subfamily 5 group a member 2	Tchem
+dto:DTO_00117525	Nuclear receptor subfamily 6 group a member 1	Tbio
+dto:DTO_01100001	5-hydroxytryptamine receptor 3A	Tclin
+dto:DTO_01100002	5-hydroxytryptamine receptor 3B	Tchem
+dto:DTO_01100003	5-hydroxytryptamine receptor 3C	Tchem
+dto:DTO_01100004	5-hydroxytryptamine receptor 3d	Tchem
+dto:DTO_01100005	5-hydroxytryptamine receptor 3e	Tchem
+dto:DTO_01100006	Neuronal acetylcholine receptor subunit alpha-10	Tbio
+dto:DTO_01100007	Neuronal acetylcholine receptor subunit alpha-2	Tchem
+dto:DTO_01100008	Neuronal acetylcholine receptor subunit alpha-3	Tclin
+dto:DTO_01100009	Neuronal acetylcholine receptor subunit alpha-4	Tclin
+dto:DTO_01100010	Neuronal acetylcholine receptor subunit alpha-5	Tbio
+dto:DTO_01100011	Neuronal acetylcholine receptor subunit alpha-6	Tchem
+dto:DTO_01100012	Neuronal acetylcholine receptor subunit alpha-7	Tchem
+dto:DTO_01100013	Neuronal acetylcholine receptor subunit alpha-9	Tbio
+dto:DTO_01100014	Acetylcholine receptor subunit alpha	Tclin
+dto:DTO_01100015	Neuronal acetylcholine receptor subunit beta-2	Tclin
+dto:DTO_01100016	Neuronal acetylcholine receptor subunit beta-3	Tchem
+dto:DTO_01100017	Neuronal acetylcholine receptor subunit beta-4	Tclin
+dto:DTO_01100018	Acetylcholine receptor subunit beta	Tclin
+dto:DTO_01100019	Acetylcholine receptor subunit delta	Tclin
+dto:DTO_01100020	Acetylcholine receptor subunit epsilon	Tclin
+dto:DTO_01100021	Acetylcholine receptor subunit gamma	Tclin
+dto:DTO_01100022	Anoctamin-1	Tclin
+dto:DTO_01100023	Anoctamin-2	Tbio
+dto:DTO_01100024	Anoctamin-6	Tbio
+dto:DTO_01100025	Acid-sensing ion channel 1	Tchem
+dto:DTO_01100026	Acid-sensing ion channel 2	Tbio
+dto:DTO_01100027	Acid-sensing ion channel 3	Tchem
+dto:DTO_01100028	Acid-sensing ion channel 4	Tbio
+dto:DTO_01100029	Acid-sensing ion channel 5	Tbio
+dto:DTO_01100030	Bestrophin-1	Tbio
+dto:DTO_01100031	Bestrophin-2	Tbio
+dto:DTO_01100032	Bestrophin-3	Tbio
+dto:DTO_01100033	Bestrophin-4	Tbio
+dto:DTO_01100034	Voltage-dependent calcium channel subunit alpha-2/delta-1	Tclin
+dto:DTO_01100035	Voltage-dependent calcium channel subunit alpha-2/delta-2	Tclin
+dto:DTO_01100036	Voltage-dependent calcium channel subunit alpha-2/delta-3	Tbio
+dto:DTO_01100037	Voltage-dependent calcium channel subunit alpha-2/delta-4	Tbio
+dto:DTO_01100038	Voltage-dependent p/q-type calcium channel subunit alpha-1a	Tchem
+dto:DTO_01100039	Voltage-dependent n-type calcium channel subunit alpha-1b	Tclin
+dto:DTO_01100040	Voltage-dependent L-type calcium channel subunit alpha-1C	Tclin
+dto:DTO_01100041	Voltage-dependent l-type calcium channel subunit alpha-1d	Tclin
+dto:DTO_01100042	Voltage-dependent r-type calcium channel subunit alpha-1e	Tbio
+dto:DTO_01100043	Voltage-dependent L-type calcium channel subunit alpha-1F	Tchem
+dto:DTO_01100044	Voltage-dependent t-type calcium channel subunit alpha-1g	Tclin
+dto:DTO_01100045	Voltage-dependent T-type calcium channel subunit alpha-1H	Tclin
+dto:DTO_01100046	Voltage-dependent t-type calcium channel subunit alpha-1i	Tclin
+dto:DTO_01100047	Voltage-dependent l-type calcium channel subunit alpha-1s	Tchem
+dto:DTO_01100048	Voltage-dependent L-type calcium channel subunit beta-1	Tbio
+dto:DTO_01100049	Voltage-dependent L-type calcium channel subunit beta-2	Tbio
+dto:DTO_01100050	Voltage-dependent l-type calcium channel subunit beta-3	Tbio
+dto:DTO_01100051	Voltage-dependent l-type calcium channel subunit beta-4	Tbio
+dto:DTO_01100052	Calcium homeostasis modulator protein 1	Tbio
+dto:DTO_01100053	Calcium homeostasis modulator protein 2	Tdark
+dto:DTO_01100054	Calcium homeostasis modulator protein 3	Tdark
+dto:DTO_01100055	Voltage-dependent calcium channel gamma-1 subunit	Tbio
+dto:DTO_01100056	Voltage-dependent calcium channel gamma-2 subunit	Tbio
+dto:DTO_01100057	Voltage-dependent calcium channel gamma-3 subunit	Tbio
+dto:DTO_01100058	Voltage-dependent calcium channel gamma-4 subunit	Tdark
+dto:DTO_01100059	Voltage-dependent calcium channel gamma-5 subunit	Tdark
+dto:DTO_01100060	Voltage-dependent calcium channel gamma-6 subunit	Tdark
+dto:DTO_01100061	Voltage-dependent calcium channel gamma-7 subunit	Tdark
+dto:DTO_01100062	Voltage-dependent calcium channel gamma-8 subunit	Tdark
+dto:DTO_01100063	Voltage-dependent calcium channel gamma-like subunit	Tbio
+dto:DTO_01100064	Cystic fibrosis transmembrane conductance regulator	Tclin
+dto:DTO_01100065	Calcium-activated chloride channel regulator 1	Tbio
+dto:DTO_01100066	Calcium-activated chloride channel regulator 2	Tbio
+dto:DTO_01100067	Calcium-activated chloride channel regulator family member 3	Tdark
+dto:DTO_01100068	Calcium-activated chloride channel regulator 4	Tbio
+dto:DTO_01100069	Chloride channel CLIC-like protein 1	Tbio
+dto:DTO_01100070	Chloride channel protein clc-ka	Tbio
+dto:DTO_01100071	Chloride channel protein clc-kb	Tbio
+dto:DTO_01100072	Chloride channel protein 1	Tbio
+dto:DTO_01100073	Chloride channel protein 2	Tclin
+dto:DTO_01100074	H(+)/Cl(-) exchange transporter 3	Tbio
+dto:DTO_01100075	H(+)/cl(-) exchange transporter 4	Tbio
+dto:DTO_01100076	H(+)/cl(-) exchange transporter 5	Tbio
+dto:DTO_01100077	Chloride transport protein 6	Tbio
+dto:DTO_01100078	H(+)/Cl(-) exchange transporter 7	Tbio
+dto:DTO_01100079	Chloride intracellular channel protein 1	Tbio
+dto:DTO_01100080	Chloride intracellular channel protein 2	Tbio
+dto:DTO_01100081	Chloride intracellular channel protein 3	Tbio
+dto:DTO_01100082	Chloride intracellular channel protein 4	Tbio
+dto:DTO_01100083	Chloride intracellular channel protein 5	Tbio
+dto:DTO_01100084	Chloride intracellular channel protein 6	Tbio
+dto:DTO_01100085	CGMP-gated cation channel alpha-1	Tbio
+dto:DTO_01100086	Cyclic nucleotide-gated olfactory channel	Tbio
+dto:DTO_01100087	Cyclic nucleotide-gated cation channel alpha-3	Tbio
+dto:DTO_01100088	Cyclic nucleotide-gated cation channel alpha-4	Tdark
+dto:DTO_01100089	Cyclic nucleotide-gated cation channel beta-1	Tbio
+dto:DTO_01100090	Cyclic nucleotide-gated cation channel beta-3	Tbio
+dto:DTO_01100091	Calcium release-activated calcium channel protein 1	Tchem
+dto:DTO_01100092	Calsenilin	Tbio
+dto:DTO_01100093	Cation channel sperm-associated protein 1	Tchem
+dto:DTO_01100094	Cation channel sperm-associated protein 2	Tchem
+dto:DTO_01100095	Cation channel sperm-associated protein 3	Tchem
+dto:DTO_01100096	Cation channel sperm-associated protein 4	Tchem
+dto:DTO_01100097	Cytochrome b-245 heavy chain	Tchem
+dto:DTO_01100098	Protein FAM26D	Tdark
+dto:DTO_01100099	Protein FAM26E	Tdark
+dto:DTO_01100100	Protein FAM26F	Tdark
+dto:DTO_01100101	Fxyd domain-containing ion transport regulator 3	Tbio
+dto:DTO_01100102	FXYD domain-containing ion transport regulator 4	Tdark
+dto:DTO_01100103	FXYD domain-containing ion transport regulator 5	Tbio
+dto:DTO_01100104	FXYD domain-containing ion transport regulator 6	Tbio
+dto:DTO_01100105	Fxyd domain-containing ion transport regulator 7	Tbio
+dto:DTO_01100106	Putative fxyd domain-containing ion transport regulator 8	Tdark
+dto:DTO_01100107	Gamma-aminobutyric acid receptor subunit alpha-1	Tclin
+dto:DTO_01100108	Gamma-aminobutyric acid receptor subunit alpha-2	Tclin
+dto:DTO_01100109	Gamma-aminobutyric acid receptor subunit alpha-3	Tclin
+dto:DTO_01100110	Gamma-aminobutyric acid receptor subunit alpha-4	Tclin
+dto:DTO_01100111	Gamma-aminobutyric acid receptor subunit alpha-5	Tclin
+dto:DTO_01100112	Gamma-aminobutyric acid receptor subunit alpha-6	Tclin
+dto:DTO_01100113	Gamma-aminobutyric acid receptor subunit beta-1	Tclin
+dto:DTO_01100114	Gamma-aminobutyric acid receptor subunit beta-2	Tclin
+dto:DTO_01100115	Gamma-aminobutyric acid receptor subunit beta-3	Tclin
+dto:DTO_01100116	Gamma-aminobutyric acid receptor subunit delta	Tclin
+dto:DTO_01100117	Gamma-aminobutyric acid receptor subunit epsilon	Tclin
+dto:DTO_01100118	Gamma-aminobutyric acid receptor subunit gamma-1	Tclin
+dto:DTO_01100119	Gamma-aminobutyric acid receptor subunit gamma-2	Tclin
+dto:DTO_01100120	Gamma-aminobutyric acid receptor subunit gamma-3	Tclin
+dto:DTO_01100121	Gamma-aminobutyric acid receptor subunit pi	Tclin
+dto:DTO_01100122	Gamma-aminobutyric acid receptor subunit rho-1	Tchem
+dto:DTO_01100123	Gamma-aminobutyric acid receptor subunit rho-2	Tbio
+dto:DTO_01100124	Gamma-aminobutyric acid receptor subunit rho-3	Tdark
+dto:DTO_01100125	Gamma-aminobutyric acid receptor subunit theta	Tclin
+dto:DTO_01100126	Glycine receptor subunit alpha-1	Tclin
+dto:DTO_01100127	Glycine receptor subunit alpha-2	Tchem
+dto:DTO_01100128	Glycine receptor subunit alpha-3	Tchem
+dto:DTO_01100129	Glycine receptor subunit alpha-4	Tdark
+dto:DTO_01100130	Glycine receptor subunit beta	Tclin
+dto:DTO_01100131	Golgi ph regulator a	Tbio
+dto:DTO_01100132	Golgi ph regulator b	Tdark
+dto:DTO_01100133	Glutamate receptor 1	Tclin
+dto:DTO_01100134	Glutamate receptor 2	Tclin
+dto:DTO_01100135	Glutamate receptor 3	Tclin
+dto:DTO_01100136	Glutamate receptor 4	Tclin
+dto:DTO_01100137	Glutamate receptor ionotropic, delta-1	Tbio
+dto:DTO_01100138	Glutamate receptor ionotropic, delta-2	Tbio
+dto:DTO_01100139	Glutamate receptor ionotropic, kainate 1	Tclin
+dto:DTO_01100140	Glutamate receptor ionotropic, kainate 2	Tclin
+dto:DTO_01100141	Glutamate receptor ionotropic, kainate 3	Tclin
+dto:DTO_01100142	Glutamate receptor ionotropic, kainate 4	Tclin
+dto:DTO_01100143	Glutamate receptor ionotropic, kainate 5	Tclin
+dto:DTO_01100144	Potassium/sodium hyperpolarization-activated cyclic nucleotide-gated channel 1	Tclin
+dto:DTO_01100145	Potassium/sodium hyperpolarization-activated cyclic nucleotide-gated channel 2	Tclin
+dto:DTO_01100146	Potassium/sodium hyperpolarization-activated cyclic nucleotide-gated channel 3	Tclin
+dto:DTO_01100147	Potassium/sodium hyperpolarization-activated cyclic nucleotide-gated channel 4	Tclin
+dto:DTO_01100148	Voltage-gated hydrogen channel 1	Tbio
+dto:DTO_01100149	ATP-sensitive inward rectifier potassium channel 10	Tbio
+dto:DTO_01100150	ATP-sensitive inward rectifier potassium channel 11	Tclin
+dto:DTO_01100151	ATP-sensitive inward rectifier potassium channel 12	Tbio
+dto:DTO_01100152	Inward rectifier potassium channel 13	Tbio
+dto:DTO_01100153	Atp-sensitive inward rectifier potassium channel 14	Tdark
+dto:DTO_01100154	ATP-sensitive inward rectifier potassium channel 15	Tbio
+dto:DTO_01100155	Inward rectifier potassium channel 16	Tbio
+dto:DTO_01100156	Inward rectifier potassium channel 18	Tdark
+dto:DTO_01100157	ATP-sensitive inward rectifier potassium channel 1	Tchem
+dto:DTO_01100158	Inward rectifier potassium channel 2	Tbio
+dto:DTO_01100159	G protein-activated inward rectifier potassium channel 1	Tbio
+dto:DTO_01100160	Inward rectifier potassium channel 4	Tchem
+dto:DTO_01100161	G protein-activated inward rectifier potassium channel 4	Tbio
+dto:DTO_01100162	G protein-activated inward rectifier potassium channel 2	Tchem
+dto:DTO_01100163	Atp-sensitive inward rectifier potassium channel 8	Tbio
+dto:DTO_01100164	G protein-activated inward rectifier potassium channel 3	Tbio
+dto:DTO_01100165	Inositol 1,4,5-trisphosphate receptor type 1	Tchem
+dto:DTO_01100166	Inositol 1,4,5-trisphosphate receptor type 2	Tbio
+dto:DTO_01100167	Inositol 1,4,5-trisphosphate receptor type 3	Tchem
+dto:DTO_01100168	Potassium voltage-gated channel subfamily a member 10	Tclin
+dto:DTO_01100169	Voltage-gated potassium channel subunit beta-1	Tbio
+dto:DTO_01100170	Voltage-gated potassium channel subunit beta-2	Tbio
+dto:DTO_01100171	Voltage-gated potassium channel subunit beta-3	Tdark
+dto:DTO_01100172	Kv channel-interacting protein 1	Tbio
+dto:DTO_01100173	Kv channel-interacting protein 2	Tbio
+dto:DTO_01100174	Kv channel-interacting protein 4	Tbio
+dto:DTO_01100175	Calcium-activated potassium channel subunit alpha-1	Tclin
+dto:DTO_01100176	Calcium-activated potassium channel subunit beta-1	Tbio
+dto:DTO_01100177	Calcium-activated potassium channel subunit beta-2	Tbio
+dto:DTO_01100178	Calcium-activated potassium channel subunit beta-3	Tbio
+dto:DTO_01100179	Calcium-activated potassium channel subunit beta-4	Tbio
+dto:DTO_01100180	Potassium voltage-gated channel subfamily A member 1	Tclin
+dto:DTO_01100181	Potassium voltage-gated channel subfamily A member 2	Tclin
+dto:DTO_01100182	Potassium voltage-gated channel subfamily A member 3	Tclin
+dto:DTO_01100183	Potassium voltage-gated channel subfamily a member 4	Tclin
+dto:DTO_01100184	Potassium voltage-gated channel subfamily a member 5	Tclin
+dto:DTO_01100185	Potassium voltage-gated channel subfamily A member 6	Tclin
+dto:DTO_01100186	Potassium voltage-gated channel subfamily A member 7	Tclin
+dto:DTO_01100187	Potassium voltage-gated channel subfamily b member 1	Tclin
+dto:DTO_01100188	Potassium voltage-gated channel subfamily B member 2	Tclin
+dto:DTO_01100189	Potassium voltage-gated channel subfamily c member 1	Tclin
+dto:DTO_01100190	Potassium voltage-gated channel subfamily c member 2	Tclin
+dto:DTO_01100191	Potassium voltage-gated channel subfamily c member 3	Tclin
+dto:DTO_01100192	Potassium voltage-gated channel subfamily c member 4	Tclin
+dto:DTO_01100193	Potassium voltage-gated channel subfamily D member 1	Tclin
+dto:DTO_01100194	Potassium voltage-gated channel subfamily d member 2	Tclin
+dto:DTO_01100195	Potassium voltage-gated channel subfamily D member 3	Tclin
+dto:DTO_01100196	Potassium voltage-gated channel subfamily E member 1	Tbio
+dto:DTO_01100197	Potassium voltage-gated channel subfamily e member 2	Tbio
+dto:DTO_01100198	Potassium voltage-gated channel subfamily e member 3	Tbio
+dto:DTO_01100199	Potassium voltage-gated channel subfamily E member 4	Tbio
+dto:DTO_01100200	Potassium voltage-gated channel subfamily f member 1	Tclin
+dto:DTO_01100201	Potassium voltage-gated channel subfamily G member 1	Tclin
+dto:DTO_01100202	Potassium voltage-gated channel subfamily g member 2	Tclin
+dto:DTO_01100203	Potassium voltage-gated channel subfamily G member 3	Tclin
+dto:DTO_01100204	Potassium voltage-gated channel subfamily G member 4	Tclin
+dto:DTO_01100205	Potassium voltage-gated channel subfamily H member 1	Tclin
+dto:DTO_01100206	Potassium voltage-gated channel subfamily H member 2	Tclin
+dto:DTO_01100207	Potassium voltage-gated channel subfamily H member 3	Tclin
+dto:DTO_01100208	Potassium voltage-gated channel subfamily H member 4	Tclin
+dto:DTO_01100209	Potassium voltage-gated channel subfamily h member 5	Tclin
+dto:DTO_01100210	Potassium voltage-gated channel subfamily H member 6	Tclin
+dto:DTO_01100211	Potassium voltage-gated channel subfamily H member 7	Tclin
+dto:DTO_01100212	Potassium voltage-gated channel subfamily H member 8	Tclin
+dto:DTO_01100213	Potassium channel subfamily K member 1	Tbio
+dto:DTO_01100214	Potassium channel subfamily K member 2	Tclin
+dto:DTO_01100215	Potassium channel subfamily K member 3	Tclin
+dto:DTO_01100216	Potassium channel subfamily K member 4	Tbio
+dto:DTO_01100217	Potassium channel subfamily K member 5	Tbio
+dto:DTO_01100218	Potassium channel subfamily k member 6	Tbio
+dto:DTO_01100219	Potassium channel subfamily k member 7	Tdark
+dto:DTO_01100220	Potassium channel subfamily K member 9	Tclin
+dto:DTO_01100221	Potassium channel subfamily K member 10	Tclin
+dto:DTO_01100222	Potassium channel subfamily K member 12	Tbio
+dto:DTO_01100223	Potassium channel subfamily k member 13	Tbio
+dto:DTO_01100224	Potassium channel subfamily k member 15	Tbio
+dto:DTO_01100225	Potassium channel subfamily K member 16	Tdark
+dto:DTO_01100226	Potassium channel subfamily K member 17	Tbio
+dto:DTO_01100227	Potassium channel subfamily K member 18	Tclin
+dto:DTO_01100228	Small conductance calcium-activated potassium channel protein 1	Tchem
+dto:DTO_01100229	Small conductance calcium-activated potassium channel protein 2	Tchem
+dto:DTO_01100230	Small conductance calcium-activated potassium channel protein 3	Tchem
+dto:DTO_01100231	Intermediate conductance calcium-activated potassium channel protein 4	Tchem
+dto:DTO_01100232	Potassium voltage-gated channel subfamily kqt member 1	Tclin
+dto:DTO_01100233	Potassium voltage-gated channel subfamily KQT member 2	Tclin
+dto:DTO_01100234	Potassium voltage-gated channel subfamily KQT member 3	Tclin
+dto:DTO_01100235	Potassium voltage-gated channel subfamily KQT member 4	Tclin
+dto:DTO_01100236	Potassium voltage-gated channel subfamily kqt member 5	Tclin
+dto:DTO_01100237	Potassium voltage-gated channel subfamily S member 1	Tclin
+dto:DTO_01100238	Potassium voltage-gated channel subfamily s member 2	Tclin
+dto:DTO_01100239	Potassium voltage-gated channel subfamily s member 3	Tclin
+dto:DTO_01100240	Potassium channel subfamily t member 1	Tchem
+dto:DTO_01100241	Potassium channel subfamily t member 2	Tbio
+dto:DTO_01100242	Potassium channel subfamily U member 1	Tbio
+dto:DTO_01100243	Potassium voltage-gated channel subfamily v member 1	Tclin
+dto:DTO_01100244	Potassium voltage-gated channel subfamily V member 2	Tclin
+dto:DTO_01100245	Leucine-rich repeat-containing protein 26	Tbio
+dto:DTO_01100246	Leucine-rich repeat-containing protein 38	Tdark
+dto:DTO_01100247	Leucine-rich repeat-containing protein 52	Tdark
+dto:DTO_01100248	Leucine-rich repeat-containing protein 55	Tdark
+dto:DTO_01100249	Mucolipin-1	Tbio
+dto:DTO_01100250	Mucolipin-2	Tbio
+dto:DTO_01100251	Mucolipin-3	Tbio
+dto:DTO_01100252	Calcium uniporter protein, mitochondrial	Tbio
+dto:DTO_01100253	Membrane protein MLC1	Tbio
+dto:DTO_01100254	Sodium leak channel non-selective protein	Tbio
+dto:DTO_01100255	Glutamate receptor ionotropic, NMDA 3A	Tclin
+dto:DTO_01100256	Glutamate receptor ionotropic, NMDA 3B	Tclin
+dto:DTO_01100257	Glutamate receptor ionotropic, NMDA 2A	Tclin
+dto:DTO_01100258	Glutamate receptor ionotropic, nmda 2b	Tclin
+dto:DTO_01100259	Glutamate receptor ionotropic, nmda 2c	Tclin
+dto:DTO_01100260	Glutamate receptor ionotropic, nmda 2d	Tclin
+dto:DTO_01100261	Glutamate receptor ionotropic, nmda 1	Tclin
+dto:DTO_01100264	P2X purinoceptor 1	Tchem
+dto:DTO_01100265	P2x purinoceptor 2	Tbio
+dto:DTO_01100266	P2x purinoceptor 3	Tchem
+dto:DTO_01100267	P2X purinoceptor 4	Tchem
+dto:DTO_01100268	P2X purinoceptor 5	Tbio
+dto:DTO_01100269	P2X purinoceptor 6	Tbio
+dto:DTO_01100270	P2X purinoceptor 7	Tchem
+dto:DTO_01100271	Pannexin-1	Tbio
+dto:DTO_01100272	Pannexin-2	Tbio
+dto:DTO_01100273	Pannexin-3	Tbio
+dto:DTO_01100274	Piezo-type mechanosensitive ion channel component 1	Tbio
+dto:DTO_01100275	Piezo-type mechanosensitive ion channel component 2	Tbio
+dto:DTO_01100276	Polycystic kidney disease protein 1-like 2	Tdark
+dto:DTO_01100277	Polycystic kidney disease protein 1-like 3	Tbio
+dto:DTO_01100278	Polycystic kidney disease 2-like 1 protein	Tbio
+dto:DTO_01100279	Polycystic kidney disease 2-like 2 protein	Tbio
+dto:DTO_01100280	Polycystin-2	Tchem
+dto:DTO_01100281	Polycystic kidney disease and receptor for egg jelly-related protein	Tdark
+dto:DTO_01100282	Plasmolipin	Tbio
+dto:DTO_01100283	Phospholemman	Tbio
+dto:DTO_01100284	Ryanodine receptor 1	Tclin
+dto:DTO_01100285	Ryanodine receptor 2	Tclin
+dto:DTO_01100286	Ryanodine receptor 3	Tclin
+dto:DTO_01100287	Sulfate anion transporter 1	Tbio
+dto:DTO_01100288	Solute carrier family 26 member 6	Tbio
+dto:DTO_01100289	Sodium channel protein type 1 subunit alpha	Tclin
+dto:DTO_01100290	Sodium channel subunit beta-1	Tbio
+dto:DTO_01100291	Sodium channel protein type 2 subunit alpha	Tclin
+dto:DTO_01100292	Sodium channel subunit beta-2	Tbio
+dto:DTO_01100293	Sodium channel protein type 3 subunit alpha	Tclin
+dto:DTO_01100294	Sodium channel subunit beta-3	Tbio
+dto:DTO_01100295	Sodium channel protein type 4 subunit alpha	Tclin
+dto:DTO_01100296	Sodium channel subunit beta-4	Tbio
+dto:DTO_01100297	Sodium channel protein type 5 subunit alpha	Tclin
+dto:DTO_01100298	Sodium channel protein type 7 subunit alpha	Tclin
+dto:DTO_01100299	Sodium channel protein type 8 subunit alpha	Tclin
+dto:DTO_01100300	Sodium channel protein type 9 subunit alpha	Tclin
+dto:DTO_01100301	Sodium channel protein type 10 subunit alpha	Tclin
+dto:DTO_01100302	Sodium channel protein type 11 subunit alpha	Tclin
+dto:DTO_01100303	Amiloride-sensitive sodium channel subunit alpha	Tclin
+dto:DTO_01100304	Amiloride-sensitive sodium channel subunit beta	Tclin
+dto:DTO_01100305	Amiloride-sensitive sodium channel subunit delta	Tbio
+dto:DTO_01100306	Amiloride-sensitive sodium channel subunit gamma	Tclin
+dto:DTO_01100307	Trimeric intracellular cation channel type a	Tbio
+dto:DTO_01100308	Trimeric intracellular cation channel type B	Tbio
+dto:DTO_01100309	Transmembrane channel-like protein 1	Tbio
+dto:DTO_01100310	Transmembrane channel-like protein 2	Tdark
+dto:DTO_01100311	Transmembrane channel-like protein 3	Tbio
+dto:DTO_01100312	Transmembrane channel-like protein 4	Tdark
+dto:DTO_01100313	Transmembrane channel-like protein 5	Tbio
+dto:DTO_01100314	Transmembrane channel-like protein 6	Tbio
+dto:DTO_01100315	Transmembrane channel-like protein 7	Tbio
+dto:DTO_01100316	Transmembrane channel-like protein 8	Tbio
+dto:DTO_01100317	Two pore calcium channel protein 1	Tbio
+dto:DTO_01100318	Two pore calcium channel protein 2	Tbio
+dto:DTO_01100319	Transient receptor potential cation channel subfamily a member 1	Tclin
+dto:DTO_01100320	Short transient receptor potential channel 1	Tbio
+dto:DTO_01100321	Short transient receptor potential channel 3	Tchem
+dto:DTO_01100322	Short transient receptor potential channel 4	Tbio
+dto:DTO_01100323	Short transient receptor potential channel 5	Tchem
+dto:DTO_01100324	Short transient receptor potential channel 6	Tchem
+dto:DTO_01100325	Short transient receptor potential channel 7	Tbio
+dto:DTO_01100326	Transient receptor potential cation channel subfamily m member 1	Tbio
+dto:DTO_01100327	Transient receptor potential cation channel subfamily m member 2	Tchem
+dto:DTO_01100328	Transient receptor potential cation channel subfamily M member 3	Tbio
+dto:DTO_01100329	Transient receptor potential cation channel subfamily M member 4	Tchem
+dto:DTO_01100330	Transient receptor potential cation channel subfamily M member 5	Tbio
+dto:DTO_01100331	Transient receptor potential cation channel subfamily M member 7	Tbio
+dto:DTO_01100332	Transient receptor potential cation channel subfamily M member 8	Tclin
+dto:DTO_01100333	Transient receptor potential cation channel subfamily V member 1	Tclin
+dto:DTO_01100334	Transient receptor potential cation channel subfamily v member 2	Tbio
+dto:DTO_01100335	Transient receptor potential cation channel subfamily V member 3	Tchem
+dto:DTO_01100336	Transient receptor potential cation channel subfamily V member 4	Tchem
+dto:DTO_01100337	Transient receptor potential cation channel subfamily V member 5	Tbio
+dto:DTO_01100338	Transient receptor potential cation channel subfamily V member 6	Tbio
+dto:DTO_01100339	Protein tweety homolog 1	Tbio
+dto:DTO_01100340	Protein tweety homolog 2	Tdark
+dto:DTO_01100341	Protein tweety homolog 3	Tbio
+dto:DTO_01100342	Zinc-activated ligand-gated ion channel	Tchem
+dto:DTO_01100342	Zinc-activated ligand-gated ion channel	Tdark
+dto:DTO_01100342	Zinc-activated ligand-gated ion channel	Tclin
+dto:DTO_01200100	FAM26F	Tdark
+dto:DTO_01200342	ZACN	Tdark
+dto:DTO_02100001	5-hydroxytryptamine receptor 1a	Tclin
+dto:DTO_02100002	5-hydroxytryptamine receptor 1b	Tclin
+dto:DTO_02100003	5-hydroxytryptamine receptor 1D	Tclin
+dto:DTO_02100004	5-hydroxytryptamine receptor 1E	Tchem
+dto:DTO_02100005	5-hydroxytryptamine receptor 1f	Tchem
+dto:DTO_02100006	5-hydroxytryptamine receptor 2A	Tclin
+dto:DTO_02100007	5-hydroxytryptamine receptor 2B	Tclin
+dto:DTO_02100008	5-hydroxytryptamine receptor 2c	Tclin
+dto:DTO_02100009	5-hydroxytryptamine receptor 4	Tclin
+dto:DTO_02100010	5-hydroxytryptamine receptor 5a	Tchem
+dto:DTO_02100011	5-hydroxytryptamine receptor 6	Tchem
+dto:DTO_02100012	5-hydroxytryptamine receptor 7	Tclin
+dto:DTO_02100013	Adenosine receptor a1	Tclin
+dto:DTO_02100014	Adenosine receptor a2a	Tclin
+dto:DTO_02100015	Adenosine receptor a2b	Tclin
+dto:DTO_02100016	Adenosine receptor a3	Tchem
+dto:DTO_02100017	Atypical chemokine receptor 1	Tbio
+dto:DTO_02100018	Atypical chemokine receptor 2	Tbio
+dto:DTO_02100019	Atypical chemokine receptor 3	Tchem
+dto:DTO_02100020	Atypical chemokine receptor 4	Tbio
+dto:DTO_02100021	Muscarinic acetylcholine receptor m1	Tclin
+dto:DTO_02100022	Muscarinic acetylcholine receptor m2	Tclin
+dto:DTO_02100023	Muscarinic acetylcholine receptor m3	Tclin
+dto:DTO_02100024	Muscarinic acetylcholine receptor m4	Tclin
+dto:DTO_02100025	Muscarinic acetylcholine receptor M5	Tclin
+dto:DTO_02100026	Adrenocorticotropic hormone receptor	Tclin
+dto:DTO_02100027	Alpha-1a adrenergic receptor	Tclin
+dto:DTO_02100028	Alpha-1B adrenergic receptor	Tclin
+dto:DTO_02100029	Alpha-1D adrenergic receptor	Tclin
+dto:DTO_02100030	Alpha-2a adrenergic receptor	Tclin
+dto:DTO_02100031	Alpha-2B adrenergic receptor	Tclin
+dto:DTO_02100032	Alpha-2c adrenergic receptor	Tclin
+dto:DTO_02100033	Beta-1 adrenergic receptor	Tclin
+dto:DTO_02100034	Beta-2 adrenergic receptor	Tclin
+dto:DTO_02100035	Beta-3 adrenergic receptor	Tclin
+dto:DTO_02100036	Type-1 angiotensin II receptor	Tclin
+dto:DTO_02100037	Type-2 angiotensin II receptor	Tchem
+dto:DTO_02100038	Apelin receptor	Tchem
+dto:DTO_02100039	Brain-specific angiogenesis inhibitor 1	Tbio
+dto:DTO_02100040	Adhesion G protein-coupled receptor B2	Tbio
+dto:DTO_02100041	Adhesion G protein-coupled receptor B3	Tbio
+dto:DTO_02100042	B1 bradykinin receptor	Tchem
+dto:DTO_02100043	B2 bradykinin receptor	Tclin
+dto:DTO_02100044	Bombesin receptor subtype-3	Tchem
+dto:DTO_02100045	C3a anaphylatoxin chemotactic receptor	Tchem
+dto:DTO_02100046	C5a anaphylatoxin chemotactic receptor 1	Tchem
+dto:DTO_02100047	C5a anaphylatoxin chemotactic receptor 2	Tbio
+dto:DTO_02100048	Calcitonin receptor	Tclin
+dto:DTO_02100049	Calcitonin gene-related peptide type 1 receptor	Tchem
+dto:DTO_02100050	Extracellular calcium-sensing receptor	Tclin
+dto:DTO_02100051	Cholecystokinin receptor type a	Tclin
+dto:DTO_02100052	C-c chemokine receptor type 10	Tbio
+dto:DTO_02100053	C-c chemokine receptor type 1	Tchem
+dto:DTO_02100054	C-C chemokine receptor type 2	Tchem
+dto:DTO_02100055	C-C chemokine receptor type 3	Tchem
+dto:DTO_02100056	C-C chemokine receptor type 4	Tclin
+dto:DTO_02100057	C-C chemokine receptor type 5	Tclin
+dto:DTO_02100058	C-C chemokine receptor type 6	Tchem
+dto:DTO_02100059	C-c chemokine receptor type 7	Tbio
+dto:DTO_02100060	C-c chemokine receptor type 8	Tchem
+dto:DTO_02100061	C-c chemokine receptor type 9	Tchem
+dto:DTO_02100062	C-C chemokine receptor-like 2	Tchem
+dto:DTO_02100063	CD97 antigen	Tbio
+dto:DTO_02100064	Cadherin egf lag seven-pass g-type receptor 1	Tbio
+dto:DTO_02100065	Cadherin egf lag seven-pass g-type receptor 2	Tbio
+dto:DTO_02100066	Cadherin EGF LAG seven-pass G-type receptor 3	Tbio
+dto:DTO_02100067	Cysteinyl leukotriene receptor 1	Tclin
+dto:DTO_02100068	Cysteinyl leukotriene receptor 2	Tchem
+dto:DTO_02100069	Chemokine-like receptor 1	Tbio
+dto:DTO_02100070	Cannabinoid receptor 1	Tclin
+dto:DTO_02100071	Cannabinoid receptor 2	Tchem
+dto:DTO_02100072	Corticotropin-releasing factor receptor 1	Tclin
+dto:DTO_02100073	Corticotropin-releasing factor receptor 2	Tchem
+dto:DTO_02100074	CX3C chemokine receptor 1	Tchem
+dto:DTO_02100075	C-X-C chemokine receptor type 1	Tchem
+dto:DTO_02100076	C-X-C chemokine receptor type 2	Tchem
+dto:DTO_02100077	C-x-c chemokine receptor type 3	Tchem
+dto:DTO_02100078	C-x-c chemokine receptor type 4	Tclin
+dto:DTO_02100079	C-x-c chemokine receptor type 5	Tbio
+dto:DTO_02100080	C-x-c chemokine receptor type 6	Tbio
+dto:DTO_02100081	D(1a) dopamine receptor	Tclin
+dto:DTO_02100082	D(2) dopamine receptor	Tclin
+dto:DTO_02100083	D(3) dopamine receptor	Tclin
+dto:DTO_02100084	D(4) dopamine receptor	Tchem
+dto:DTO_02100085	D(1B) dopamine receptor	Tchem
+dto:DTO_02100086	Endothelin-1 receptor	Tclin
+dto:DTO_02100087	Endothelin b receptor	Tclin
+dto:DTO_02100088	Adhesion G protein-coupled receptor L4	Tbio
+dto:DTO_02100089	Adhesion G protein-coupled receptor E1	Tbio
+dto:DTO_02100090	Adhesion G protein-coupled receptor E2	Tbio
+dto:DTO_02100091	Adhesion G protein-coupled receptor E3	Tbio
+dto:DTO_02100092	Putative adhesion G protein-coupled receptor E4P	Tdark
+dto:DTO_02100093	Prosaposin receptor GPR37L1	Tbio
+dto:DTO_02100094	Free fatty acid receptor 1	Tchem
+dto:DTO_02100095	Free fatty acid receptor 2	Tchem
+dto:DTO_02100096	Free fatty acid receptor 3	Tbio
+dto:DTO_02100097	Free fatty acid receptor 4	Tchem
+dto:DTO_02100098	FMet-Leu-Phe receptor	Tchem
+dto:DTO_02100099	N-formyl peptide receptor 2	Tchem
+dto:DTO_02100100	N-formyl peptide receptor 3	Tbio
+dto:DTO_02100101	Follicle-stimulating hormone receptor	Tclin
+dto:DTO_02100102	Frizzled-10	Tbio
+dto:DTO_02100103	Frizzled-1	Tbio
+dto:DTO_02100104	Frizzled-2	Tbio
+dto:DTO_02100105	Frizzled-3	Tbio
+dto:DTO_02100106	Frizzled-4	Tbio
+dto:DTO_02100107	Frizzled-5	Tbio
+dto:DTO_02100108	Frizzled-6	Tbio
+dto:DTO_02100109	Frizzled-7	Tbio
+dto:DTO_02100110	Frizzled-8	Tbio
+dto:DTO_02100111	Frizzled-9	Tbio
+dto:DTO_02100112	Integral membrane protein GPR137	Tbio
+dto:DTO_02100113	Gamma-aminobutyric acid type B receptor subunit 1	Tclin
+dto:DTO_02100114	Gamma-aminobutyric acid type b receptor subunit 2	Tclin
+dto:DTO_02100115	Galanin receptor type 1	Tchem
+dto:DTO_02100116	Galanin receptor type 2	Tchem
+dto:DTO_02100117	Galanin receptor type 3	Tchem
+dto:DTO_02100118	Gastrin/cholecystokinin type B receptor	Tclin
+dto:DTO_02100119	Growth hormone-releasing hormone receptor	Tclin
+dto:DTO_02100120	Growth hormone secretagogue receptor type 1	Tclin
+dto:DTO_02100121	Gastric inhibitory polypeptide receptor	Tchem
+dto:DTO_02100122	Glucagon-like peptide 1 receptor	Tclin
+dto:DTO_02100123	Glucagon-like peptide 2 receptor	Tclin
+dto:DTO_02100124	Glucagon receptor	Tclin
+dto:DTO_02100125	Gonadotropin-releasing hormone receptor	Tclin
+dto:DTO_02100126	Putative gonadotropin-releasing hormone ii receptor	Tbio
+dto:DTO_02100127	Probable G-protein coupled receptor 101	Tbio
+dto:DTO_02100128	Protein gpr107	Tdark
+dto:DTO_02100129	Adhesion G-protein coupled receptor F1	Tdark
+dto:DTO_02100130	Adhesion G-protein coupled receptor F2	Tdark
+dto:DTO_02100131	Adhesion G-protein coupled receptor G4	Tdark
+dto:DTO_02100132	Adhesion G-protein coupled receptor F3	Tdark
+dto:DTO_02100133	Adhesion G-protein coupled receptor G5	Tdark
+dto:DTO_02100134	Adhesion G protein-coupled receptor F4	Tdark
+dto:DTO_02100135	Adhesion G protein-coupled receptor F5	Tbio
+dto:DTO_02100136	Glucose-dependent insulinotropic receptor	Tchem
+dto:DTO_02100137	Adhesion G protein-coupled receptor A1	Tdark
+dto:DTO_02100138	G-protein coupled receptor 124	Tbio
+dto:DTO_02100139	Adhesion G protein-coupled receptor A3	Tbio
+dto:DTO_02100140	G-protein coupled receptor 126	Tbio
+dto:DTO_02100141	Adhesion G-protein coupled receptor G7	Tdark
+dto:DTO_02100142	Probable g-protein coupled receptor 132	Tbio
+dto:DTO_02100143	Adhesion G-protein coupled receptor D1	Tbio
+dto:DTO_02100144	Probable g-protein coupled receptor 135	Tbio
+dto:DTO_02100145	Probable G-protein coupled receptor 139	Tchem
+dto:DTO_02100146	Probable g-protein coupled receptor 141	Tdark
+dto:DTO_02100147	Probable G-protein coupled receptor 142	Tchem
+dto:DTO_02100148	G-protein coupled receptor 143	Tbio
+dto:DTO_02100149	Adhesion G-protein coupled receptor D2	Tdark
+dto:DTO_02100150	Probable g-protein coupled receptor 146	Tdark
+dto:DTO_02100151	Probable G-protein coupled receptor 148	Tdark
+dto:DTO_02100152	Probable g-protein coupled receptor 149	Tdark
+dto:DTO_02100153	Probable g-protein coupled receptor 150	Tdark
+dto:DTO_02100154	Probable G-protein coupled receptor 151	Tdark
+dto:DTO_02100155	Probable g-protein coupled receptor 152	Tbio
+dto:DTO_02100156	Probable g-protein coupled receptor 153	Tdark
+dto:DTO_02100157	Probable G-protein coupled receptor 156	Tbio
+dto:DTO_02100158	Probable g-protein coupled receptor 157	Tdark
+dto:DTO_02100159	Probable g-protein coupled receptor 158	Tbio
+dto:DTO_02100160	Probable G-protein coupled receptor 160	Tbio
+dto:DTO_02100161	G-protein coupled receptor 161	Tbio
+dto:DTO_02100162	Probable g-protein coupled receptor 162	Tbio
+dto:DTO_02100163	Probable g-protein coupled receptor 171	Tdark
+dto:DTO_02100164	Probable g-protein coupled receptor 173	Tdark
+dto:DTO_02100165	Probable G-protein coupled receptor 174	Tchem
+dto:DTO_02100166	Probable g-protein coupled receptor 176	Tbio
+dto:DTO_02100167	Probable G-protein coupled receptor 179	Tdark
+dto:DTO_02100168	G-protein coupled receptor 182	Tbio
+dto:DTO_02100169	G-protein coupled receptor 183	Tchem
+dto:DTO_02100170	G-protein coupled bile acid receptor 1	Tchem
+dto:DTO_02100171	Putative G-protein coupled receptor GPR32P1	Tdark
+dto:DTO_02100172	G-protein coupled receptor family C group 5 member B	Tbio
+dto:DTO_02100173	G-protein coupled receptor family c group 5 member c	Tdark
+dto:DTO_02100174	G-protein coupled receptor family c group 5 member d	Tdark
+dto:DTO_02100175	G-protein coupled receptor family c group 6 member a	Tbio
+dto:DTO_02100176	G-protein coupled estrogen receptor 1	Tchem
+dto:DTO_02100177	G-protein coupled receptor 12	Tbio
+dto:DTO_02100178	G-protein coupled receptor 15	Tbio
+dto:DTO_02100179	Uracil nucleotide/cysteinyl leukotriene receptor	Tchem
+dto:DTO_02100180	N-arachidonyl glycine receptor	Tchem
+dto:DTO_02100181	Probable g-protein coupled receptor 19	Tbio
+dto:DTO_02100182	G-protein coupled receptor 1	Tbio
+dto:DTO_02100183	G-protein coupled receptor 20	Tdark
+dto:DTO_02100184	Probable g-protein coupled receptor 21	Tdark
+dto:DTO_02100185	Probable g-protein coupled receptor 22	Tdark
+dto:DTO_02100186	Probable g-protein coupled receptor 25	Tdark
+dto:DTO_02100187	G-protein coupled receptor 26	Tbio
+dto:DTO_02100188	Probable g-protein coupled receptor 27	Tdark
+dto:DTO_02100189	12-(S)-hydroxy-5,8,10,14-eicosatetraenoic acid receptor	Tbio
+dto:DTO_02100190	Probable G-protein coupled receptor 32	Tbio
+dto:DTO_02100191	Probable G-protein coupled receptor 33	Tdark
+dto:DTO_02100192	Probable G-protein coupled receptor 34	Tchem
+dto:DTO_02100193	G-protein coupled receptor 35	Tchem
+dto:DTO_02100194	Prosaposin receptor gpr37	Tbio
+dto:DTO_02100195	G-protein coupled receptor 39	Tchem
+dto:DTO_02100196	G-protein coupled receptor 3	Tbio
+dto:DTO_02100197	G-protein coupled receptor 42	Tdark
+dto:DTO_02100198	Probable G-protein coupled receptor 45	Tbio
+dto:DTO_02100199	G-protein coupled receptor 4	Tchem
+dto:DTO_02100200	Probable G-protein coupled receptor 52	Tchem
+dto:DTO_02100201	G-protein coupled receptor 55	Tchem
+dto:DTO_02100202	G-protein coupled receptor 56	Tbio
+dto:DTO_02100203	Probable G-protein coupled receptor 61	Tbio
+dto:DTO_02100204	Probable g-protein coupled receptor 62	Tdark
+dto:DTO_02100205	Probable G-protein coupled receptor 63	Tdark
+dto:DTO_02100206	Adhesion G-protein coupled receptor G2	Tbio
+dto:DTO_02100207	G-protein coupled receptor 6	Tbio
+dto:DTO_02100208	Probable G-protein coupled receptor 75	Tdark
+dto:DTO_02100209	G-protein coupled receptor 78	Tbio
+dto:DTO_02100210	Probable g-protein coupled receptor 82	Tdark
+dto:DTO_02100211	Probable g-protein coupled receptor 83	Tbio
+dto:DTO_02100212	G-protein coupled receptor 84	Tbio
+dto:DTO_02100213	Probable g-protein coupled receptor 85	Tbio
+dto:DTO_02100214	G-protein coupled receptor 87	Tbio
+dto:DTO_02100215	Probable g-protein coupled receptor 88	Tchem
+dto:DTO_02100216	Adhesion G protein-coupled receptor G3	Tchem
+dto:DTO_02100217	G-protein coupled receptor 98	Tbio
+dto:DTO_02100218	Metabotropic glutamate receptor 1	Tchem
+dto:DTO_02100219	Metabotropic glutamate receptor 2	Tchem
+dto:DTO_02100220	Metabotropic glutamate receptor 3	Tchem
+dto:DTO_02100221	Metabotropic glutamate receptor 4	Tchem
+dto:DTO_02100222	Metabotropic glutamate receptor 5	Tchem
+dto:DTO_02100223	Metabotropic glutamate receptor 6	Tchem
+dto:DTO_02100224	Metabotropic glutamate receptor 7	Tbio
+dto:DTO_02100225	Metabotropic glutamate receptor 8	Tchem
+dto:DTO_02100226	Gastrin-releasing peptide receptor	Tchem
+dto:DTO_02100227	Hydroxycarboxylic acid receptor 1	Tbio
+dto:DTO_02100228	Hydroxycarboxylic acid receptor 2	Tclin
+dto:DTO_02100229	Hydroxycarboxylic acid receptor 3	Tchem
+dto:DTO_02100230	Histamine H1 receptor	Tclin
+dto:DTO_02100231	Histamine h2 receptor	Tclin
+dto:DTO_02100232	Histamine H3 receptor	Tclin
+dto:DTO_02100233	Histamine H4 receptor	Tchem
+dto:DTO_02100234	Kiss-1 receptor	Tchem
+dto:DTO_02100235	Leucine-rich repeat-containing g-protein coupled receptor 4	Tbio
+dto:DTO_02100236	Leucine-rich repeat-containing G-protein coupled receptor 5	Tbio
+dto:DTO_02100237	Leucine-rich repeat-containing G-protein coupled receptor 6	Tbio
+dto:DTO_02100238	Lysophosphatidic acid receptor 1	Tchem
+dto:DTO_02100239	Lysophosphatidic acid receptor 2	Tchem
+dto:DTO_02100240	Lysophosphatidic acid receptor 3	Tchem
+dto:DTO_02100241	Lysophosphatidic acid receptor 4	Tchem
+dto:DTO_02100242	Lysophosphatidic acid receptor 5	Tchem
+dto:DTO_02100243	Lysophosphatidic acid receptor 6	Tchem
+dto:DTO_02100244	Latrophilin-1	Tbio
+dto:DTO_02100245	Adhesion G protein-coupled receptor L2	Tbio
+dto:DTO_02100246	Latrophilin-3	Tbio
+dto:DTO_02100247	Lutropin-choriogonadotropic hormone receptor	Tclin
+dto:DTO_02100248	Leukotriene b4 receptor 1	Tchem
+dto:DTO_02100249	Leukotriene B4 receptor 2	Tbio
+dto:DTO_02100250	Mas-related g-protein coupled receptor mrg	Tbio
+dto:DTO_02100251	Proto-oncogene Mas	Tbio
+dto:DTO_02100252	Melanocortin receptor 3	Tchem
+dto:DTO_02100253	Melanocortin receptor 4	Tchem
+dto:DTO_02100254	Melanocortin receptor 5	Tchem
+dto:DTO_02100255	Melanin-concentrating hormone receptor 1	Tchem
+dto:DTO_02100256	Melanin-concentrating hormone receptor 2	Tchem
+dto:DTO_02100257	Mas-related g-protein coupled receptor member d	Tbio
+dto:DTO_02100258	Mas-related g-protein coupled receptor member e	Tbio
+dto:DTO_02100259	Mas-related G-protein coupled receptor member F	Tdark
+dto:DTO_02100260	Mas-related g-protein coupled receptor member g	Tdark
+dto:DTO_02100261	Mas-related g-protein coupled receptor member x1	Tchem
+dto:DTO_02100262	Mas-related g-protein coupled receptor member x2	Tbio
+dto:DTO_02100263	Mas-related g-protein coupled receptor member x3	Tdark
+dto:DTO_02100264	Mas-related G-protein coupled receptor member X4	Tdark
+dto:DTO_02100265	Melanocyte-stimulating hormone receptor	Tclin
+dto:DTO_02100266	Motilin receptor	Tchem
+dto:DTO_02100267	Melatonin receptor type 1a	Tclin
+dto:DTO_02100268	Melatonin receptor type 1b	Tclin
+dto:DTO_02100269	Melatonin-related receptor	Tbio
+dto:DTO_02100270	Substance-P receptor	Tclin
+dto:DTO_02100271	Substance-k receptor	Tchem
+dto:DTO_02100272	Neuromedin-K receptor	Tchem
+dto:DTO_02100273	Neuromedin-B receptor	Tchem
+dto:DTO_02100274	Neuromedin-U receptor 1	Tbio
+dto:DTO_02100275	Neuromedin-U receptor 2	Tchem
+dto:DTO_02100276	Neuropeptides B/W receptor type 1	Tchem
+dto:DTO_02100277	Neuropeptides b/w receptor type 2	Tbio
+dto:DTO_02100278	Neuropeptide ff receptor 1	Tchem
+dto:DTO_02100279	Neuropeptide FF receptor 2	Tchem
+dto:DTO_02100280	Neuropeptide S receptor	Tchem
+dto:DTO_02100281	Neuropeptide y receptor type 1	Tchem
+dto:DTO_02100282	Neuropeptide y receptor type 2	Tchem
+dto:DTO_02100283	Neuropeptide Y receptor type 4	Tchem
+dto:DTO_02100284	Neuropeptide y receptor type 5	Tchem
+dto:DTO_02100286	Neurotensin receptor type 1	Tchem
+dto:DTO_02100287	Neurotensin receptor type 2	Tchem
+dto:DTO_02100288	Olfactory receptor 10a2	Tdark
+dto:DTO_02100289	Olfactory receptor 10A3	Tdark
+dto:DTO_02100290	Olfactory receptor 10A4	Tbio
+dto:DTO_02100291	Olfactory receptor 10a5	Tdark
+dto:DTO_02100292	Olfactory receptor 10a6	Tdark
+dto:DTO_02100293	Olfactory receptor 10A7	Tdark
+dto:DTO_02100294	Olfactory receptor 10AC1	Tdark
+dto:DTO_02100295	Olfactory receptor 10AD1	Tdark
+dto:DTO_02100296	Olfactory receptor 10AG1	Tdark
+dto:DTO_02100297	Olfactory receptor 10C1	Tdark
+dto:DTO_02100298	Putative olfactory receptor 10d3	Tdark
+dto:DTO_02100299	Putative olfactory receptor 10d4	Tdark
+dto:DTO_02100300	Olfactory receptor 10G2	Tdark
+dto:DTO_02100301	Olfactory receptor 10G3	Tdark
+dto:DTO_02100302	Olfactory receptor 10G4	Tdark
+dto:DTO_02100303	Olfactory receptor 10G6	Tdark
+dto:DTO_02100304	Olfactory receptor 10G7	Tdark
+dto:DTO_02100305	Olfactory receptor 10G8	Tdark
+dto:DTO_02100306	Olfactory receptor 10g9	Tdark
+dto:DTO_02100307	Olfactory receptor 10h1	Tdark
+dto:DTO_02100308	Olfactory receptor 10h2	Tdark
+dto:DTO_02100309	Olfactory receptor 10H3	Tdark
+dto:DTO_02100310	Olfactory receptor 10H4	Tdark
+dto:DTO_02100311	Olfactory receptor 10h5	Tdark
+dto:DTO_02100312	Olfactory receptor 10J1	Tdark
+dto:DTO_02100313	Olfactory receptor 10j3	Tdark
+dto:DTO_02100314	Olfactory receptor 10J4	Tdark
+dto:DTO_02100315	Olfactory receptor 10J5	Tdark
+dto:DTO_02100316	Putative olfactory receptor 10J6	Tdark
+dto:DTO_02100317	Olfactory receptor 10K1	Tdark
+dto:DTO_02100318	Olfactory receptor 10k2	Tdark
+dto:DTO_02100319	Olfactory receptor 10P1	Tdark
+dto:DTO_02100320	Olfactory receptor 10q1	Tdark
+dto:DTO_02100321	Olfactory receptor 10r2	Tdark
+dto:DTO_02100322	Olfactory receptor 10S1	Tdark
+dto:DTO_02100323	Olfactory receptor 10t2	Tdark
+dto:DTO_02100324	Olfactory receptor 10V1	Tdark
+dto:DTO_02100325	Olfactory receptor 10W1	Tdark
+dto:DTO_02100326	Olfactory receptor 10x1	Tdark
+dto:DTO_02100327	Olfactory receptor 10z1	Tdark
+dto:DTO_02100328	Olfactory receptor 11A1	Tdark
+dto:DTO_02100329	Olfactory receptor 11g2	Tdark
+dto:DTO_02100330	Olfactory receptor 11h1	Tdark
+dto:DTO_02100331	Olfactory receptor 11H2	Tdark
+dto:DTO_02100332	Olfactory receptor 11H4	Tdark
+dto:DTO_02100333	Olfactory receptor 11h6	Tdark
+dto:DTO_02100334	Olfactory receptor 11h7	Tdark
+dto:DTO_02100335	Olfactory receptor 11h12	Tdark
+dto:DTO_02100336	Olfactory receptor 11L1	Tdark
+dto:DTO_02100337	Olfactory receptor 12D2	Tdark
+dto:DTO_02100338	Olfactory receptor 12D3	Tdark
+dto:DTO_02100339	Olfactory receptor 13A1	Tdark
+dto:DTO_02100340	Olfactory receptor 13C2	Tdark
+dto:DTO_02100341	Olfactory receptor 13C3	Tdark
+dto:DTO_02100342	Olfactory receptor 13c4	Tdark
+dto:DTO_02100343	Olfactory receptor 13C5	Tdark
+dto:DTO_02100344	Olfactory receptor 13C8	Tdark
+dto:DTO_02100345	Olfactory receptor 13C9	Tdark
+dto:DTO_02100346	Olfactory receptor 13d1	Tdark
+dto:DTO_02100347	Olfactory receptor 13f1	Tdark
+dto:DTO_02100348	Olfactory receptor 13G1	Tdark
+dto:DTO_02100349	Olfactory receptor 13H1	Tdark
+dto:DTO_02100350	Olfactory receptor 13J1	Tdark
+dto:DTO_02100351	Olfactory receptor 14A2	Tdark
+dto:DTO_02100352	Olfactory receptor 14A16	Tdark
+dto:DTO_02100353	Olfactory receptor 14C36	Tdark
+dto:DTO_02100354	Olfactory receptor 14I1	Tdark
+dto:DTO_02100355	Olfactory receptor 14J1	Tdark
+dto:DTO_02100356	Olfactory receptor 14k1	Tdark
+dto:DTO_02100357	Putative olfactory receptor 14l1	Tdark
+dto:DTO_02100358	Olfactory receptor 2a12	Tdark
+dto:DTO_02100359	Olfactory receptor 2A14	Tdark
+dto:DTO_02100360	Olfactory receptor 2A25	Tdark
+dto:DTO_02100361	Olfactory receptor 2ae1	Tdark
+dto:DTO_02100362	Olfactory receptor 2AG1	Tdark
+dto:DTO_02100363	Olfactory receptor 2ag2	Tdark
+dto:DTO_02100364	Olfactory receptor 2aj1	Tdark
+dto:DTO_02100365	Olfactory receptor 2AK2	Tdark
+dto:DTO_02100366	Olfactory receptor 2AP1	Tdark
+dto:DTO_02100367	Olfactory receptor 2AT4	Tdark
+dto:DTO_02100368	Olfactory receptor 2t10	Tdark
+dto:DTO_02100369	Olfactory receptor 2t11	Tdark
+dto:DTO_02100370	Olfactory receptor 2t12	Tdark
+dto:DTO_02100371	Olfactory receptor 2t27	Tdark
+dto:DTO_02100372	Olfactory receptor 2t29	Tdark
+dto:DTO_02100373	Olfactory receptor 2T33	Tdark
+dto:DTO_02100374	Olfactory receptor 2t34	Tdark
+dto:DTO_02100375	Olfactory receptor 2T35	Tdark
+dto:DTO_02100376	Olfactory receptor 4A15	Tdark
+dto:DTO_02100377	Olfactory receptor 4A16	Tdark
+dto:DTO_02100378	Olfactory receptor 4a47	Tdark
+dto:DTO_02100379	Olfactory receptor 4c45	Tdark
+dto:DTO_02100380	Olfactory receptor 4C46	Tdark
+dto:DTO_02100381	Olfactory receptor 4f15	Tdark
+dto:DTO_02100382	Olfactory receptor 4f17	Tdark
+dto:DTO_02100383	Olfactory receptor 4F21	Tdark
+dto:DTO_02100384	Olfactory receptor 51A2	Tdark
+dto:DTO_02100385	Olfactory receptor 51A4	Tdark
+dto:DTO_02100386	Olfactory receptor 51a7	Tdark
+dto:DTO_02100387	Olfactory receptor 51b2	Tdark
+dto:DTO_02100388	Olfactory receptor 51B4	Tdark
+dto:DTO_02100389	Olfactory receptor 51B5	Tdark
+dto:DTO_02100390	Olfactory receptor 51B6	Tdark
+dto:DTO_02100391	Olfactory receptor 51D1	Tdark
+dto:DTO_02100392	Olfactory receptor 51e1	Tbio
+dto:DTO_02100393	Olfactory receptor 51e2	Tbio
+dto:DTO_02100394	Olfactory receptor 51f1	Tdark
+dto:DTO_02100395	Olfactory receptor 51F2	Tdark
+dto:DTO_02100396	Olfactory receptor 51g1	Tdark
+dto:DTO_02100397	Olfactory receptor 51g2	Tdark
+dto:DTO_02100398	Olfactory receptor 51H1	Tdark
+dto:DTO_02100399	Olfactory receptor 51I1	Tdark
+dto:DTO_02100400	Olfactory receptor 51I2	Tdark
+dto:DTO_02100401	Olfactory receptor 51J1	Tdark
+dto:DTO_02100402	Olfactory receptor 51l1	Tdark
+dto:DTO_02100403	Olfactory receptor 51m1	Tdark
+dto:DTO_02100404	Olfactory receptor 51Q1	Tdark
+dto:DTO_02100405	Olfactory receptor 51S1	Tdark
+dto:DTO_02100406	Olfactory receptor 51T1	Tdark
+dto:DTO_02100407	Olfactory receptor 51V1	Tdark
+dto:DTO_02100408	Olfactory receptor 52a1	Tdark
+dto:DTO_02100409	Olfactory receptor 52A4	Tdark
+dto:DTO_02100410	Olfactory receptor 52a5	Tdark
+dto:DTO_02100411	Olfactory receptor 52B2	Tdark
+dto:DTO_02100412	Olfactory receptor 52B4	Tdark
+dto:DTO_02100413	Olfactory receptor 52B6	Tdark
+dto:DTO_02100414	Olfactory receptor 52D1	Tdark
+dto:DTO_02100415	Olfactory receptor 52E1	Tdark
+dto:DTO_02100416	Olfactory receptor 52E2	Tdark
+dto:DTO_02100417	Olfactory receptor 52E4	Tdark
+dto:DTO_02100418	Olfactory receptor 52E5	Tdark
+dto:DTO_02100419	Olfactory receptor 52E6	Tdark
+dto:DTO_02100420	Olfactory receptor 52E8	Tdark
+dto:DTO_02100421	Olfactory receptor 52h1	Tdark
+dto:DTO_02100422	Olfactory receptor 52i1	Tdark
+dto:DTO_02100423	Olfactory receptor 52I2	Tdark
+dto:DTO_02100424	Olfactory receptor 52J3	Tdark
+dto:DTO_02100425	Olfactory receptor 52k1	Tdark
+dto:DTO_02100426	Olfactory receptor 52k2	Tdark
+dto:DTO_02100427	Olfactory receptor 52l1	Tdark
+dto:DTO_02100428	Putative olfactory receptor 52l2	Tdark
+dto:DTO_02100429	Olfactory receptor 52M1	Tdark
+dto:DTO_02100430	Olfactory receptor 52n1	Tdark
+dto:DTO_02100431	Olfactory receptor 52n2	Tdark
+dto:DTO_02100432	Olfactory receptor 52n4	Tdark
+dto:DTO_02100433	Olfactory receptor 52n5	Tdark
+dto:DTO_02100434	Putative olfactory receptor 52p1	Tdark
+dto:DTO_02100435	Olfactory receptor 52R1	Tdark
+dto:DTO_02100436	Olfactory receptor 52W1	Tdark
+dto:DTO_02100437	Olfactory receptor 52z1	Tdark
+dto:DTO_02100438	Olfactory receptor 56a1	Tdark
+dto:DTO_02100439	Olfactory receptor 56A3	Tdark
+dto:DTO_02100440	Olfactory receptor 56a4	Tdark
+dto:DTO_02100441	Olfactory receptor 56a5	Tdark
+dto:DTO_02100442	Olfactory receptor 56B1	Tdark
+dto:DTO_02100443	Putative olfactory receptor 56b2	Tdark
+dto:DTO_02100444	Olfactory receptor 56b4	Tdark
+dto:DTO_02100445	Olfactory receptor 5ac1	Tdark
+dto:DTO_02100446	Olfactory receptor 5AC2	Tdark
+dto:DTO_02100447	Olfactory receptor 5ak2	Tdark
+dto:DTO_02100448	Putative olfactory receptor 5AK3	Tdark
+dto:DTO_02100449	Olfactory receptor 5al1	Tdark
+dto:DTO_02100450	Olfactory receptor 5AN1	Tdark
+dto:DTO_02100451	Olfactory receptor 5AP2	Tdark
+dto:DTO_02100452	Olfactory receptor 5AR1	Tdark
+dto:DTO_02100453	Olfactory receptor 5as1	Tdark
+dto:DTO_02100454	Olfactory receptor 5au1	Tdark
+dto:DTO_02100455	Olfactory receptor 5h14	Tdark
+dto:DTO_02100456	Olfactory receptor 5H15	Tdark
+dto:DTO_02100457	Olfactory receptor 6c65	Tdark
+dto:DTO_02100458	Olfactory receptor 6c68	Tdark
+dto:DTO_02100459	Olfactory receptor 6c70	Tdark
+dto:DTO_02100460	Olfactory receptor 6C74	Tdark
+dto:DTO_02100461	Olfactory receptor 6C75	Tdark
+dto:DTO_02100462	Olfactory receptor 6c76	Tdark
+dto:DTO_02100463	Olfactory receptor 7E24	Tdark
+dto:DTO_02100464	Ovarian cancer G-protein coupled receptor 1	Tbio
+dto:DTO_02100465	Opsin-3	Tbio
+dto:DTO_02100466	Melanopsin	Tbio
+dto:DTO_02100467	Opsin-5	Tbio
+dto:DTO_02100468	Delta-type opioid receptor	Tclin
+dto:DTO_02100469	Kappa-type opioid receptor	Tclin
+dto:DTO_02100470	Mu-type opioid receptor	Tclin
+dto:DTO_02100471	Nociceptin receptor	Tchem
+dto:DTO_02100472	Short-wave-sensitive opsin 1	Tbio
+dto:DTO_02100473	Rhodopsin	Tbio
+dto:DTO_02100474	Medium-wave-sensitive opsin 1	Tdark
+dto:DTO_02100475	Long-wave-sensitive opsin 1	Tbio
+dto:DTO_02100476	Visual pigment-like receptor peropsin	Tbio
+dto:DTO_02100477	Olfactory receptor 1A1	Tdark
+dto:DTO_02100478	Olfactory receptor 1A2	Tdark
+dto:DTO_02100479	Olfactory receptor 1B1	Tdark
+dto:DTO_02100480	Olfactory receptor 1C1	Tdark
+dto:DTO_02100481	Olfactory receptor 1D2	Tbio
+dto:DTO_02100482	Olfactory receptor 1D4	Tdark
+dto:DTO_02100483	Olfactory receptor 1D5	Tdark
+dto:DTO_02100484	Olfactory receptor 1E1	Tdark
+dto:DTO_02100485	Olfactory receptor 1e2	Tdark
+dto:DTO_02100486	Olfactory receptor 1e3	Tdark
+dto:DTO_02100487	Olfactory receptor 1f1	Tdark
+dto:DTO_02100488	Putative olfactory receptor 1f2	Tdark
+dto:DTO_02100489	Olfactory receptor 1F12	Tdark
+dto:DTO_02100490	Olfactory receptor 1G1	Tdark
+dto:DTO_02100491	Olfactory receptor 1I1	Tdark
+dto:DTO_02100492	Olfactory receptor 1J1	Tdark
+dto:DTO_02100493	Olfactory receptor 1J2	Tdark
+dto:DTO_02100494	Olfactory receptor 1J4	Tdark
+dto:DTO_02100495	Olfactory receptor 1K1	Tdark
+dto:DTO_02100496	Olfactory receptor 1L1	Tdark
+dto:DTO_02100497	Olfactory receptor 1l3	Tdark
+dto:DTO_02100498	Olfactory receptor 1l4	Tdark
+dto:DTO_02100499	Olfactory receptor 1l6	Tdark
+dto:DTO_02100500	Olfactory receptor 1L8	Tdark
+dto:DTO_02100501	Olfactory receptor 1m1	Tdark
+dto:DTO_02100502	Olfactory receptor 1N1	Tdark
+dto:DTO_02100503	Olfactory receptor 1n2	Tdark
+dto:DTO_02100504	Olfactory receptor 1p1	Tdark
+dto:DTO_02100505	Olfactory receptor 1Q1	Tdark
+dto:DTO_02100506	Olfactory receptor 1S1	Tdark
+dto:DTO_02100507	Olfactory receptor 1s2	Tdark
+dto:DTO_02100508	Olfactory receptor 2A1/2A42	Tdark
+dto:DTO_02100509	Olfactory receptor 2A2	Tdark
+dto:DTO_02100510	Olfactory receptor 2a4	Tdark
+dto:DTO_02100511	Olfactory receptor 2a5	Tdark
+dto:DTO_02100512	Olfactory receptor 2a7	Tdark
+dto:DTO_02100513	Olfactory receptor 2B2	Tdark
+dto:DTO_02100514	Putative olfactory receptor 2B3	Tdark
+dto:DTO_02100515	Olfactory receptor 2B6	Tdark
+dto:DTO_02100516	Putative olfactory receptor 2B8	Tdark
+dto:DTO_02100517	Olfactory receptor 2B11	Tdark
+dto:DTO_02100518	Olfactory receptor 2C1	Tdark
+dto:DTO_02100519	Olfactory receptor 2C3	Tdark
+dto:DTO_02100520	Olfactory receptor 2d2	Tdark
+dto:DTO_02100521	Olfactory receptor 2D3	Tdark
+dto:DTO_02100522	Olfactory receptor 2F1	Tdark
+dto:DTO_02100523	Olfactory receptor 2f2	Tdark
+dto:DTO_02100524	Olfactory receptor 2G2	Tdark
+dto:DTO_02100525	Olfactory receptor 2g3	Tdark
+dto:DTO_02100526	Olfactory receptor 2g6	Tdark
+dto:DTO_02100527	Olfactory receptor 2H1	Tdark
+dto:DTO_02100528	Olfactory receptor 2H2	Tbio
+dto:DTO_02100529	Putative olfactory receptor 2I1	Tdark
+dto:DTO_02100530	Olfactory receptor 2J1	Tdark
+dto:DTO_02100531	Olfactory receptor 2J2	Tdark
+dto:DTO_02100532	Olfactory receptor 2J3	Tdark
+dto:DTO_02100533	Olfactory receptor 2k2	Tdark
+dto:DTO_02100534	Olfactory receptor 2l2	Tdark
+dto:DTO_02100535	Olfactory receptor 2L3	Tdark
+dto:DTO_02100536	Olfactory receptor 2L5	Tdark
+dto:DTO_02100537	Olfactory receptor 2l8	Tdark
+dto:DTO_02100538	Olfactory receptor 2L13	Tdark
+dto:DTO_02100539	Olfactory receptor 2m2	Tdark
+dto:DTO_02100540	Olfactory receptor 2m3	Tdark
+dto:DTO_02100541	Olfactory receptor 2m4	Tdark
+dto:DTO_02100542	Olfactory receptor 2M5	Tdark
+dto:DTO_02100543	Olfactory receptor 2M7	Tdark
+dto:DTO_02100544	Olfactory receptor 2s2	Tdark
+dto:DTO_02100545	Olfactory receptor 2T1	Tdark
+dto:DTO_02100546	Olfactory receptor 2T2	Tdark
+dto:DTO_02100547	Olfactory receptor 2T3	Tdark
+dto:DTO_02100548	Olfactory receptor 2T4	Tdark
+dto:DTO_02100549	Olfactory receptor 2t5	Tdark
+dto:DTO_02100550	Olfactory receptor 2t6	Tdark
+dto:DTO_02100551	Olfactory receptor 2T7	Tdark
+dto:DTO_02100552	Olfactory receptor 2t8	Tdark
+dto:DTO_02100553	Olfactory receptor 2V1	Tdark
+dto:DTO_02100554	Olfactory receptor 2v2	Tdark
+dto:DTO_02100555	Olfactory receptor 2w1	Tdark
+dto:DTO_02100556	Olfactory receptor 2W3	Tbio
+dto:DTO_02100557	Putative olfactory receptor 2w5	Tdark
+dto:DTO_02100558	Putative olfactory receptor 2w6	Tdark
+dto:DTO_02100559	Olfactory receptor 2Y1	Tdark
+dto:DTO_02100560	Olfactory receptor 2Z1	Tdark
+dto:DTO_02100561	Olfactory receptor 3A1	Tdark
+dto:DTO_02100562	Olfactory receptor 3a2	Tdark
+dto:DTO_02100563	Olfactory receptor 3A3	Tdark
+dto:DTO_02100564	Putative olfactory receptor 3a4	Tdark
+dto:DTO_02100565	Putative olfactory receptor 4A4	Tdark
+dto:DTO_02100566	Olfactory receptor 4A5	Tdark
+dto:DTO_02100567	Olfactory receptor 4A8	Tdark
+dto:DTO_02100568	Olfactory receptor 4B1	Tdark
+dto:DTO_02100569	Olfactory receptor 4C3	Tdark
+dto:DTO_02100570	Olfactory receptor 4c5	Tdark
+dto:DTO_02100571	Olfactory receptor 4c6	Tdark
+dto:DTO_02100572	Olfactory receptor 4c11	Tdark
+dto:DTO_02100573	Olfactory receptor 4C12	Tdark
+dto:DTO_02100574	Olfactory receptor 4c13	Tdark
+dto:DTO_02100575	Olfactory receptor 4c15	Tdark
+dto:DTO_02100576	Olfactory receptor 4c16	Tdark
+dto:DTO_02100577	Olfactory receptor 4D1	Tdark
+dto:DTO_02100578	Olfactory receptor 4D2	Tdark
+dto:DTO_02100579	Olfactory receptor 4D5	Tdark
+dto:DTO_02100580	Olfactory receptor 4D6	Tdark
+dto:DTO_02100581	Olfactory receptor 4d9	Tdark
+dto:DTO_02100582	Olfactory receptor 4D10	Tdark
+dto:DTO_02100583	Olfactory receptor 4D11	Tdark
+dto:DTO_02100584	Olfactory receptor 4E1	Tdark
+dto:DTO_02100585	Olfactory receptor 4E2	Tdark
+dto:DTO_02100586	Olfactory receptor 4f3/4f16/4f29	Tdark
+dto:DTO_02100587	Olfactory receptor 4F4	Tdark
+dto:DTO_02100588	Olfactory receptor 4F5	Tdark
+dto:DTO_02100589	Olfactory receptor 4f6	Tdark
+dto:DTO_02100590	Olfactory receptor 4k1	Tdark
+dto:DTO_02100591	Olfactory receptor 4K2	Tdark
+dto:DTO_02100592	Olfactory receptor 4k3	Tdark
+dto:DTO_02100593	Olfactory receptor 4K5	Tdark
+dto:DTO_02100594	Olfactory receptor 4K13	Tdark
+dto:DTO_02100595	Olfactory receptor 4k14	Tdark
+dto:DTO_02100596	Olfactory receptor 4K15	Tdark
+dto:DTO_02100597	Olfactory receptor 4k17	Tdark
+dto:DTO_02100598	Olfactory receptor 4L1	Tdark
+dto:DTO_02100599	Olfactory receptor 4M1	Tdark
+dto:DTO_02100600	Olfactory receptor 4M2	Tdark
+dto:DTO_02100601	Olfactory receptor 4n2	Tdark
+dto:DTO_02100602	Olfactory receptor 4N4	Tdark
+dto:DTO_02100603	Olfactory receptor 4N5	Tdark
+dto:DTO_02100604	Olfactory receptor 4P4	Tdark
+dto:DTO_02100605	Olfactory receptor 4q2	Tdark
+dto:DTO_02100606	Olfactory receptor 4Q3	Tbio
+dto:DTO_02100607	Olfactory receptor 4S1	Tdark
+dto:DTO_02100608	Olfactory receptor 4s2	Tdark
+dto:DTO_02100609	Olfactory receptor 4x1	Tdark
+dto:DTO_02100610	Olfactory receptor 4X2	Tdark
+dto:DTO_02100611	Olfactory receptor 5A1	Tdark
+dto:DTO_02100612	Olfactory receptor 5a2	Tdark
+dto:DTO_02100613	Olfactory receptor 5B2	Tdark
+dto:DTO_02100614	Olfactory receptor 5b3	Tdark
+dto:DTO_02100615	Olfactory receptor 5b12	Tdark
+dto:DTO_02100616	Olfactory receptor 5B17	Tdark
+dto:DTO_02100617	Olfactory receptor 5B21	Tdark
+dto:DTO_02100618	Olfactory receptor 5C1	Tdark
+dto:DTO_02100619	Olfactory receptor 5d13	Tdark
+dto:DTO_02100620	Olfactory receptor 5d14	Tdark
+dto:DTO_02100621	Olfactory receptor 5d16	Tdark
+dto:DTO_02100622	Olfactory receptor 5d18	Tdark
+dto:DTO_02100623	Olfactory receptor 5F1	Tdark
+dto:DTO_02100624	Olfactory receptor 5G3	Tdark
+dto:DTO_02100625	Olfactory receptor 5H1	Tdark
+dto:DTO_02100626	Olfactory receptor 5h2	Tdark
+dto:DTO_02100627	Olfactory receptor 5H6	Tdark
+dto:DTO_02100628	Olfactory receptor 5I1	Tdark
+dto:DTO_02100629	Olfactory receptor 5J2	Tdark
+dto:DTO_02100630	Olfactory receptor 5K1	Tdark
+dto:DTO_02100631	Olfactory receptor 5k2	Tdark
+dto:DTO_02100632	Olfactory receptor 5K3	Tdark
+dto:DTO_02100633	Olfactory receptor 5k4	Tdark
+dto:DTO_02100634	Olfactory receptor 5l1	Tdark
+dto:DTO_02100635	Olfactory receptor 5l2	Tdark
+dto:DTO_02100636	Olfactory receptor 5M1	Tdark
+dto:DTO_02100637	Olfactory receptor 5m3	Tdark
+dto:DTO_02100638	Olfactory receptor 5M8	Tdark
+dto:DTO_02100639	Olfactory receptor 5M9	Tdark
+dto:DTO_02100640	Olfactory receptor 5m10	Tdark
+dto:DTO_02100641	Olfactory receptor 5M11	Tdark
+dto:DTO_02100642	Olfactory receptor 5P2	Tdark
+dto:DTO_02100643	Olfactory receptor 5P3	Tdark
+dto:DTO_02100644	Olfactory receptor 5r1	Tdark
+dto:DTO_02100645	Olfactory receptor 5T1	Tdark
+dto:DTO_02100646	Olfactory receptor 5t2	Tdark
+dto:DTO_02100647	Olfactory receptor 5T3	Tdark
+dto:DTO_02100648	Olfactory receptor 5V1	Tdark
+dto:DTO_02100649	Olfactory receptor 5w2	Tdark
+dto:DTO_02100650	Olfactory receptor 6a2	Tdark
+dto:DTO_02100651	Olfactory receptor 6b1	Tdark
+dto:DTO_02100652	Olfactory receptor 6b2	Tdark
+dto:DTO_02100653	Olfactory receptor 6b3	Tdark
+dto:DTO_02100654	Olfactory receptor 6c1	Tdark
+dto:DTO_02100655	Olfactory receptor 6c2	Tdark
+dto:DTO_02100656	Olfactory receptor 6c3	Tdark
+dto:DTO_02100657	Olfactory receptor 6c4	Tdark
+dto:DTO_02100658	Olfactory receptor 6c6	Tdark
+dto:DTO_02100659	Olfactory receptor 6f1	Tdark
+dto:DTO_02100660	Olfactory receptor 6J1	Tdark
+dto:DTO_02100661	Olfactory receptor 6K2	Tdark
+dto:DTO_02100662	Olfactory receptor 6K3	Tdark
+dto:DTO_02100663	Olfactory receptor 6k6	Tdark
+dto:DTO_02100664	Olfactory receptor 6M1	Tdark
+dto:DTO_02100665	Olfactory receptor 6n1	Tdark
+dto:DTO_02100666	Olfactory receptor 6N2	Tdark
+dto:DTO_02100667	Olfactory receptor 6p1	Tdark
+dto:DTO_02100668	Olfactory receptor 6Q1	Tdark
+dto:DTO_02100669	Olfactory receptor 6S1	Tdark
+dto:DTO_02100670	Olfactory receptor 6t1	Tdark
+dto:DTO_02100671	Olfactory receptor 6V1	Tdark
+dto:DTO_02100672	Olfactory receptor 6x1	Tdark
+dto:DTO_02100673	Olfactory receptor 6y1	Tdark
+dto:DTO_02100674	Putative olfactory receptor 7a2	Tdark
+dto:DTO_02100675	Olfactory receptor 7A5	Tdark
+dto:DTO_02100676	Olfactory receptor 7A10	Tdark
+dto:DTO_02100677	Olfactory receptor 7a17	Tdark
+dto:DTO_02100678	Olfactory receptor 7c1	Tdark
+dto:DTO_02100679	Olfactory receptor 7c2	Tdark
+dto:DTO_02100680	Olfactory receptor 7d2	Tdark
+dto:DTO_02100681	Olfactory receptor 7d4	Tbio
+dto:DTO_02100682	Olfactory receptor 7G1	Tdark
+dto:DTO_02100683	Olfactory receptor 7G2	Tdark
+dto:DTO_02100684	Olfactory receptor 7G3	Tdark
+dto:DTO_02100685	Olfactory receptor 8A1	Tdark
+dto:DTO_02100686	Olfactory receptor 8b2	Tdark
+dto:DTO_02100687	Olfactory receptor 8b3	Tdark
+dto:DTO_02100688	Olfactory receptor 8b4	Tdark
+dto:DTO_02100689	Olfactory receptor 8B8	Tdark
+dto:DTO_02100690	Olfactory receptor 8B12	Tdark
+dto:DTO_02100691	Olfactory receptor 8D1	Tdark
+dto:DTO_02100692	Olfactory receptor 8D2	Tdark
+dto:DTO_02100693	Olfactory receptor 8D4	Tdark
+dto:DTO_02100694	Olfactory receptor 8G1	Tdark
+dto:DTO_02100695	Olfactory receptor 8G2	Tdark
+dto:DTO_02100696	Olfactory receptor 8G5	Tdark
+dto:DTO_02100697	Olfactory receptor 8h1	Tdark
+dto:DTO_02100698	Olfactory receptor 8h2	Tdark
+dto:DTO_02100699	Olfactory receptor 8h3	Tdark
+dto:DTO_02100700	Olfactory receptor 8I2	Tdark
+dto:DTO_02100701	Olfactory receptor 8j1	Tdark
+dto:DTO_02100702	Olfactory receptor 8j2	Tdark
+dto:DTO_02100703	Olfactory receptor 8J3	Tdark
+dto:DTO_02100704	Olfactory receptor 8K1	Tdark
+dto:DTO_02100705	Olfactory receptor 8K3	Tdark
+dto:DTO_02100706	Olfactory receptor 8K5	Tdark
+dto:DTO_02100707	Olfactory receptor 8s1	Tdark
+dto:DTO_02100708	Olfactory receptor 8u1	Tdark
+dto:DTO_02100709	Olfactory receptor 8u8	Tdark
+dto:DTO_02100710	Olfactory receptor 8U9	Tdark
+dto:DTO_02100711	Putative olfactory receptor 9A1	Tdark
+dto:DTO_02100712	Olfactory receptor 9A2	Tdark
+dto:DTO_02100713	Olfactory receptor 9A4	Tdark
+dto:DTO_02100714	Olfactory receptor 9g1	Tdark
+dto:DTO_02100715	Olfactory receptor 9G4	Tdark
+dto:DTO_02100716	Olfactory receptor 9g9	Tdark
+dto:DTO_02100717	Olfactory receptor 9I1	Tdark
+dto:DTO_02100718	Olfactory receptor 9K2	Tdark
+dto:DTO_02100719	Olfactory receptor 9Q1	Tdark
+dto:DTO_02100720	Olfactory receptor 9Q2	Tdark
+dto:DTO_02100721	Orexin receptor type 1	Tclin
+dto:DTO_02100722	Orexin receptor type 2	Tclin
+dto:DTO_02100723	Oxoeicosanoid receptor 1	Tchem
+dto:DTO_02100724	2-oxoglutarate receptor 1	Tbio
+dto:DTO_02100725	Oxytocin receptor	Tclin
+dto:DTO_02100726	P2y purinoceptor 1	Tchem
+dto:DTO_02100727	P2y purinoceptor 2	Tclin
+dto:DTO_02100728	P2Y purinoceptor 4	Tchem
+dto:DTO_02100729	P2y purinoceptor 6	Tchem
+dto:DTO_02100730	P2Y purinoceptor 8	Tbio
+dto:DTO_02100731	Putative P2Y purinoceptor 10	Tchem
+dto:DTO_02100732	P2Y purinoceptor 11	Tchem
+dto:DTO_02100733	P2y purinoceptor 12	Tclin
+dto:DTO_02100734	P2Y purinoceptor 13	Tchem
+dto:DTO_02100735	P2y purinoceptor 14	Tbio
+dto:DTO_02100736	Pituitary adenylate cyclase-activating polypeptide type I receptor	Tchem
+dto:DTO_02100737	Proteinase-activated receptor 1	Tclin
+dto:DTO_02100738	Proteinase-activated receptor 2	Tchem
+dto:DTO_02100739	Proteinase-activated receptor 3	Tbio
+dto:DTO_02100740	Proteinase-activated receptor 4	Tchem
+dto:DTO_02100741	Prostaglandin d2 receptor 2	Tchem
+dto:DTO_02100742	Prostaglandin D2 receptor	Tclin
+dto:DTO_02100743	Prostaglandin e2 receptor ep1 subtype	Tclin
+dto:DTO_02100744	Prostaglandin E2 receptor EP2 subtype	Tclin
+dto:DTO_02100745	Prostaglandin E2 receptor EP3 subtype	Tclin
+dto:DTO_02100746	Prostaglandin E2 receptor EP4 subtype	Tclin
+dto:DTO_02100747	Prostaglandin F2-alpha receptor	Tclin
+dto:DTO_02100748	Prostacyclin receptor	Tclin
+dto:DTO_02100749	Prokineticin receptor 1	Tchem
+dto:DTO_02100750	Prokineticin receptor 2	Tbio
+dto:DTO_02100751	Prolactin-releasing peptide receptor	Tbio
+dto:DTO_02100752	Psychosine receptor	Tbio
+dto:DTO_02100753	Platelet-activating factor receptor	Tchem
+dto:DTO_02100754	Parathyroid hormone/parathyroid hormone-related peptide receptor	Tclin
+dto:DTO_02100755	Parathyroid hormone 2 receptor	Tchem
+dto:DTO_02100756	Pyroglutamylated RFamide peptide receptor	Tchem
+dto:DTO_02100757	Retinoic acid-induced protein 3	Tbio
+dto:DTO_02100758	RPE-retinal G protein-coupled receptor	Tbio
+dto:DTO_02100759	Relaxin-3 receptor 1	Tbio
+dto:DTO_02100760	Relaxin-3 receptor 2	Tbio
+dto:DTO_02100761	Relaxin receptor 1	Tbio
+dto:DTO_02100762	Relaxin receptor 2	Tbio
+dto:DTO_02100763	Sphingosine 1-phosphate receptor 1	Tclin
+dto:DTO_02100764	Sphingosine 1-phosphate receptor 2	Tchem
+dto:DTO_02100765	Sphingosine 1-phosphate receptor 3	Tclin
+dto:DTO_02100766	Sphingosine 1-phosphate receptor 4	Tclin
+dto:DTO_02100767	Sphingosine 1-phosphate receptor 5	Tclin
+dto:DTO_02100768	Secretin receptor	Tclin
+dto:DTO_02100769	Smoothened homolog	Tclin
+dto:DTO_02100770	Somatostatin receptor type 1	Tclin
+dto:DTO_02100771	Somatostatin receptor type 2	Tclin
+dto:DTO_02100772	Somatostatin receptor type 3	Tclin
+dto:DTO_02100773	Somatostatin receptor type 4	Tclin
+dto:DTO_02100774	Somatostatin receptor type 5	Tclin
+dto:DTO_02100775	Succinate receptor 1	Tbio
+dto:DTO_02100776	Taste receptor type 2 member 10	Tbio
+dto:DTO_02100777	Taste receptor type 2 member 13	Tbio
+dto:DTO_02100778	Taste receptor type 2 member 14	Tbio
+dto:DTO_02100779	Taste receptor type 2 member 16	Tbio
+dto:DTO_02100780	Taste receptor type 2 member 19	Tdark
+dto:DTO_02100781	Taste receptor type 2 member 20	Tbio
+dto:DTO_02100782	Taste receptor type 2 member 30	Tbio
+dto:DTO_02100783	Taste receptor type 2 member 31	Tbio
+dto:DTO_02100784	Taste receptor type 2 member 38	Tbio
+dto:DTO_02100785	Taste receptor type 2 member 39	Tbio
+dto:DTO_02100786	Taste receptor type 2 member 40	Tbio
+dto:DTO_02100787	Taste receptor type 2 member 41	Tbio
+dto:DTO_02100788	Taste receptor type 2 member 42	Tdark
+dto:DTO_02100789	Taste receptor type 2 member 43	Tbio
+dto:DTO_02100790	Taste receptor type 2 member 46	Tbio
+dto:DTO_02100791	Taste receptor type 2 member 50	Tbio
+dto:DTO_02100792	Taste receptor type 2 member 60	Tbio
+dto:DTO_02100793	Taste receptor type 2 member 1	Tbio
+dto:DTO_02100794	Taste receptor type 2 member 3	Tbio
+dto:DTO_02100795	Taste receptor type 2 member 4	Tbio
+dto:DTO_02100796	Taste receptor type 2 member 5	Tbio
+dto:DTO_02100797	Taste receptor type 2 member 7	Tbio
+dto:DTO_02100798	Taste receptor type 2 member 8	Tbio
+dto:DTO_02100799	Taste receptor type 2 member 9	Tdark
+dto:DTO_02100800	Thromboxane A2 receptor	Tclin
+dto:DTO_02100801	Trace amine-associated receptor 1	Tclin
+dto:DTO_02100802	Trace amine-associated receptor 2	Tbio
+dto:DTO_02100803	Putative trace amine-associated receptor 3	Tdark
+dto:DTO_02100804	Trace amine-associated receptor 5	Tbio
+dto:DTO_02100805	Trace amine-associated receptor 6	Tbio
+dto:DTO_02100806	Trace amine-associated receptor 8	Tbio
+dto:DTO_02100807	Trace amine-associated receptor 9	Tdark
+dto:DTO_02100808	Transmembrane protein adipocyte-associated 1	Tdark
+dto:DTO_02100809	Thyrotropin-releasing hormone receptor	Tclin
+dto:DTO_02100810	Taste receptor type 1 member 1	Tbio
+dto:DTO_02100811	Taste receptor type 1 member 2	Tbio
+dto:DTO_02100812	Taste receptor type 1 member 3	Tbio
+dto:DTO_02100813	Thyrotropin receptor	Tclin
+dto:DTO_02100814	Urotensin-2 receptor	Tchem
+dto:DTO_02100815	Vasopressin v1a receptor	Tclin
+dto:DTO_02100816	Vasopressin v1b receptor	Tclin
+dto:DTO_02100817	Vasopressin V2 receptor	Tclin
+dto:DTO_02100818	Vasoactive intestinal polypeptide receptor 1	Tbio
+dto:DTO_02100819	Vasoactive intestinal polypeptide receptor 2	Tchem
+dto:DTO_02100820	Vomeronasal type-1 receptor 1	Tbio
+dto:DTO_02100821	Vomeronasal type-1 receptor 2	Tdark
+dto:DTO_02100822	Vomeronasal type-1 receptor 3	Tdark
+dto:DTO_02100823	Vomeronasal type-1 receptor 4	Tdark
+dto:DTO_02100824	Vomeronasal type-1 receptor 5	Tdark
+dto:DTO_02100826	Chemokine xc receptor 1	Tbio
+dto:DTO_02100827	Putative olfactory receptor 13c6	Tdark
+dto:DTO_02100828	Putative neuropeptide Y receptor type 6	Tbio
+dto:DTO_02100829	Putative vomeronasal receptor-like protein 4	Tdark
+dto:DTO_03100001	Ap2-associated protein kinase 1	Tchem
+dto:DTO_03100002	5'-AMP-activated protein kinase subunit beta-1	Tchem
+dto:DTO_03100003	5'-AMP-activated protein kinase subunit gamma-1	Tbio
+dto:DTO_03100004	5'-AMP-activated protein kinase catalytic subunit alpha-1	Tchem
+dto:DTO_03100005	5'-AMP-activated protein kinase catalytic subunit alpha-2	Tchem
+dto:DTO_03100006	Tyrosine-protein kinase abl1	Tclin
+dto:DTO_03100007	Abelson tyrosine-protein kinase 2	Tchem
+dto:DTO_03100008	Activated cdc42 kinase 1	Tchem
+dto:DTO_03100009	Activin receptor type-1b	Tchem
+dto:DTO_03100010	Activin receptor type-1c	Tbio
+dto:DTO_03100011	Serine/threonine-protein kinase receptor r3	Tchem
+dto:DTO_03100012	Activin receptor type-1	Tchem
+dto:DTO_03100013	Uncharacterized aarf domain-containing protein kinase 1	Tdark
+dto:DTO_03100014	Uncharacterized aarf domain-containing protein kinase 2	Tbio
+dto:DTO_03100015	Atypical kinase adck3, mitochondrial	Tchem
+dto:DTO_03100016	Aarf domain-containing protein kinase 4	Tchem
+dto:DTO_03100017	Uncharacterized aarf domain-containing protein kinase 5	Tdark
+dto:DTO_03100018	Adenosine kinase	Tchem
+dto:DTO_03100019	Rac-alpha serine/threonine-protein kinase	Tchem
+dto:DTO_03100020	Rac-beta serine/threonine-protein kinase	Tchem
+dto:DTO_03100021	Rac-gamma serine/threonine-protein kinase	Tchem
+dto:DTO_03100022	Alk tyrosine kinase receptor	Tclin
+dto:DTO_03100023	Alpha-protein kinase 1	Tbio
+dto:DTO_03100024	Alpha-protein kinase 2	Tdark
+dto:DTO_03100025	Alpha-protein kinase 3	Tdark
+dto:DTO_03100026	Anti-muellerian hormone type-2 receptor	Tbio
+dto:DTO_03100027	Ankyrin repeat and protein kinase domain-containing protein 1	Tchem
+dto:DTO_03100028	Atrial natriuretic peptide receptor 1	Tclin
+dto:DTO_03100029	Atrial natriuretic peptide receptor 2	Tbio
+dto:DTO_03100030	Serine/threonine-protein kinase a-raf	Tchem
+dto:DTO_03100031	Beta-adrenergic receptor kinase 1	Tchem
+dto:DTO_03100032	Beta-adrenergic receptor kinase 2	Tchem
+dto:DTO_03100033	Serine-protein kinase atm	Tchem
+dto:DTO_03100034	Serine/threonine-protein kinase atr	Tchem
+dto:DTO_03100035	Aurora kinase a	Tchem
+dto:DTO_03100036	Aurora kinase b	Tchem
+dto:DTO_03100037	Aurora kinase c	Tchem
+dto:DTO_03100038	Activin receptor type-2a	Tchem
+dto:DTO_03100039	Activin receptor type-2b	Tchem
+dto:DTO_03100040	[3-methyl-2-oxobutanoate dehydrogenase [lipoamide]] kinase, mitochondrial	Tbio
+dto:DTO_03100041	Tyrosine-protein kinase blk	Tchem
+dto:DTO_03100042	Bmp-2-inducible protein kinase	Tchem
+dto:DTO_03100043	Bone morphogenetic protein receptor type-2	Tchem
+dto:DTO_03100044	Bone morphogenetic protein receptor type-1a	Tchem
+dto:DTO_03100045	Bone morphogenetic protein receptor type-1b	Tchem
+dto:DTO_03100046	Cytoplasmic tyrosine-protein kinase bmx	Tchem
+dto:DTO_03100047	Serine/threonine-protein kinase b-raf	Tclin
+dto:DTO_03100048	Serine/threonine-protein kinase brsk1	Tchem
+dto:DTO_03100049	Serine/threonine-protein kinase brsk2	Tchem
+dto:DTO_03100050	Tyrosine-protein kinase btk	Tclin
+dto:DTO_03100051	Mitotic checkpoint serine/threonine-protein kinase bub1 beta	Tbio
+dto:DTO_03100052	Mitotic checkpoint serine/threonine-protein kinase bub1	Tchem
+dto:DTO_03100053	Cam kinase-like vesicle-associated protein	Tbio
+dto:DTO_03100054	Cyclin-dependent kinase 11a	Tchem
+dto:DTO_03100055	Cyclin-dependent kinase 11b	Tchem
+dto:DTO_03100056	Cell division cycle 7-related protein kinase	Tchem
+dto:DTO_03100057	Cyclin-dependent kinase 10	Tbio
+dto:DTO_03100058	Cyclin-dependent kinase 12	Tbio
+dto:DTO_03100059	Cyclin-dependent kinase 13	Tchem
+dto:DTO_03100060	Cyclin-dependent kinase 14	Tchem
+dto:DTO_03100061	Cyclin-dependent kinase 15	Tchem
+dto:DTO_03100062	Cyclin-dependent kinase 16	Tchem
+dto:DTO_03100063	Cyclin-dependent kinase 17	Tchem
+dto:DTO_03100064	Cyclin-dependent kinase 18	Tchem
+dto:DTO_03100065	Cyclin-dependent kinase 19	Tchem
+dto:DTO_03100066	Cyclin-dependent kinase 1	Tchem
+dto:DTO_03100067	Cyclin-dependent kinase 20	Tbio
+dto:DTO_03100068	Cyclin-dependent kinase 2	Tchem
+dto:DTO_03100069	Cyclin-dependent kinase 3	Tchem
+dto:DTO_03100070	Cyclin-dependent kinase 4	Tclin
+dto:DTO_03100071	Cyclin-dependent-like kinase 5	Tchem
+dto:DTO_03100072	Cyclin-dependent kinase 6	Tclin
+dto:DTO_03100073	Cyclin-dependent kinase 7	Tchem
+dto:DTO_03100074	Cyclin-dependent kinase 8	Tchem
+dto:DTO_03100075	Cyclin-dependent kinase 9	Tchem
+dto:DTO_03100076	Cyclin-dependent kinase-like 1	Tchem
+dto:DTO_03100077	Cyclin-dependent kinase-like 2	Tchem
+dto:DTO_03100078	Cyclin-dependent kinase-like 3	Tchem
+dto:DTO_03100079	Cyclin-dependent kinase-like 4	Tdark
+dto:DTO_03100080	Cyclin-dependent kinase-like 5	Tchem
+dto:DTO_03100081	Ceramide kinase	Tbio
+dto:DTO_03100082	Serine/threonine-protein kinase chk1	Tchem
+dto:DTO_03100083	Serine/threonine-protein kinase chk2	Tchem
+dto:DTO_03100084	Choline kinase alpha	Tchem
+dto:DTO_03100085	Choline/ethanolamine kinase	Tbio
+dto:DTO_03100086	Dual specificity protein kinase clk1	Tchem
+dto:DTO_03100087	Dual specificity protein kinase clk2	Tchem
+dto:DTO_03100088	Dual specificity protein kinase clk3	Tchem
+dto:DTO_03100089	Dual specificity protein kinase clk4	Tchem
+dto:DTO_03100090	Macrophage colony-stimulating factor 1 receptor	Tclin
+dto:DTO_03100091	Casein kinase II subunit alpha	Tchem
+dto:DTO_03100092	Casein kinase II subunit alpha'	Tchem
+dto:DTO_03100093	Casein kinase ii subunit alpha 3	Tdark
+dto:DTO_03100094	Casein kinase ii subunit beta	Tbio
+dto:DTO_03100095	Peripheral plasma membrane protein cask	Tchem
+dto:DTO_03100096	Tyrosine-protein kinase csk	Tchem
+dto:DTO_03100097	Citron rho-interacting kinase	Tchem
+dto:DTO_03100098	Death-associated protein kinase 1	Tchem
+dto:DTO_03100099	Death-associated protein kinase 2	Tchem
+dto:DTO_03100100	Death-associated protein kinase 3	Tchem
+dto:DTO_03100101	Deoxycytidine kinase	Tchem
+dto:DTO_03100102	Serine/threonine-protein kinase dclk1	Tchem
+dto:DTO_03100103	Serine/threonine-protein kinase dclk2	Tchem
+dto:DTO_03100104	Serine/threonine-protein kinase dclk3	Tchem
+dto:DTO_03100105	Epithelial discoidin domain-containing receptor 1	Tchem
+dto:DTO_03100106	Discoidin domain-containing receptor 2	Tchem
+dto:DTO_03100107	Diacylglycerol kinase alpha	Tbio
+dto:DTO_03100108	Diacylglycerol kinase eta	Tbio
+dto:DTO_03100109	Diacylglycerol kinase theta	Tbio
+dto:DTO_03100110	Deoxyguanosine kinase, mitochondrial	Tbio
+dto:DTO_03100111	Myotonin-protein kinase	Tchem
+dto:DTO_03100112	Dual serine/threonine and tyrosine protein kinase	Tchem
+dto:DTO_03100113	Dual specificity tyrosine-phosphorylation-regulated kinase 1a	Tchem
+dto:DTO_03100114	Dual specificity tyrosine-phosphorylation-regulated kinase 1b	Tchem
+dto:DTO_03100115	Dual specificity tyrosine-phosphorylation-regulated kinase 2	Tchem
+dto:DTO_03100116	Dual specificity tyrosine-phosphorylation-regulated kinase 3	Tchem
+dto:DTO_03100117	Dual specificity tyrosine-phosphorylation-regulated kinase 4	Tchem
+dto:DTO_03100118	Eukaryotic translation initiation factor 2-alpha kinase 1	Tchem
+dto:DTO_03100119	Interferon-induced, double-stranded rna-activated protein kinase	Tchem
+dto:DTO_03100120	Eukaryotic translation initiation factor 2-alpha kinase 3	Tchem
+dto:DTO_03100121	Eukaryotic translation initiation factor 2-alpha kinase 4	Tchem
+dto:DTO_03100122	Eukaryotic elongation factor 2 kinase	Tchem
+dto:DTO_03100123	Ephrin-a1	Tbio
+dto:DTO_03100124	Epidermal growth factor receptor	Tclin
+dto:DTO_03100125	Ephrin type-a receptor 1	Tchem
+dto:DTO_03100126	Ephrin type-a receptor 2	Tclin
+dto:DTO_03100127	Ephrin type-a receptor 3	Tchem
+dto:DTO_03100128	Ephrin type-a receptor 4	Tchem
+dto:DTO_03100129	Ephrin type-a receptor 5	Tchem
+dto:DTO_03100130	Ephrin type-a receptor 6	Tchem
+dto:DTO_03100131	Ephrin type-a receptor 7	Tchem
+dto:DTO_03100132	Ephrin type-a receptor 8	Tchem
+dto:DTO_03100133	Ephrin type-a receptor 10	Tbio
+dto:DTO_03100134	Ephrin type-b receptor 1	Tchem
+dto:DTO_03100135	Ephrin type-b receptor 2	Tchem
+dto:DTO_03100136	Ephrin type-b receptor 3	Tchem
+dto:DTO_03100137	Ephrin type-b receptor 4	Tchem
+dto:DTO_03100138	Ephrin type-b receptor 6	Tchem
+dto:DTO_03100139	Receptor tyrosine-protein kinase erbb-2	Tclin
+dto:DTO_03100140	Receptor tyrosine-protein kinase erbb-3	Tchem
+dto:DTO_03100141	Receptor tyrosine-protein kinase erbb-4	Tclin
+dto:DTO_03100142	Serine/threonine-protein kinase/endoribonuclease ire1	Tchem
+dto:DTO_03100143	Serine/threonine-protein kinase/endoribonuclease ire2	Tbio
+dto:DTO_03100144	Focal adhesion kinase 1	Tchem
+dto:DTO_03100145	Protein-tyrosine kinase 2-beta	Tchem
+dto:DTO_03100146	Fas-activated serine/threonine kinase	Tbio
+dto:DTO_03100147	Tyrosine-protein kinase fer	Tchem
+dto:DTO_03100148	Tyrosine-protein kinase fes/fps	Tchem
+dto:DTO_03100149	Fibroblast growth factor receptor 1	Tclin
+dto:DTO_03100150	Fibroblast growth factor receptor 2	Tclin
+dto:DTO_03100151	Fibroblast growth factor receptor 3	Tclin
+dto:DTO_03100152	Fibroblast growth factor receptor 4	Tclin
+dto:DTO_03100153	Tyrosine-protein kinase fgr	Tchem
+dto:DTO_03100154	Receptor-type tyrosine-protein kinase flt3	Tclin
+dto:DTO_03100155	Tyrosine-protein kinase frk	Tchem
+dto:DTO_03100156	Tyrosine-protein kinase fyn	Tclin
+dto:DTO_03100157	1-phosphatidylinositol 3-phosphate 5-kinase	Tbio
+dto:DTO_03100158	Cyclin-g-associated kinase	Tchem
+dto:DTO_03100159	Glycerol kinase 2	Tdark
+dto:DTO_03100160	G protein-coupled receptor kinase 4	Tchem
+dto:DTO_03100161	G protein-coupled receptor kinase 5	Tchem
+dto:DTO_03100162	G protein-coupled receptor kinase 6	Tchem
+dto:DTO_03100163	G protein-coupled receptor kinase 7	Tchem
+dto:DTO_03100164	Glycogen synthase kinase-3 alpha	Tclin
+dto:DTO_03100165	Glycogen synthase kinase-3 beta	Tclin
+dto:DTO_03100166	Heat-stable enterotoxin receptor	Tclin
+dto:DTO_03100167	Retinal guanylyl cyclase 1	Tbio
+dto:DTO_03100168	Retinal guanylyl cyclase 2	Tbio
+dto:DTO_03100169	Serine/threonine-protein kinase greatwall	Tbio
+dto:DTO_03100170	Serine/threonine-protein kinase haspin	Tchem
+dto:DTO_03100171	Tyrosine-protein kinase hck	Tclin
+dto:DTO_03100172	Homeodomain-interacting protein kinase 1	Tchem
+dto:DTO_03100173	Homeodomain-interacting protein kinase 2	Tchem
+dto:DTO_03100174	Homeodomain-interacting protein kinase 3	Tchem
+dto:DTO_03100175	Homeodomain-interacting protein kinase 4	Tchem
+dto:DTO_03100176	Hormonally up-regulated neu tumor-associated kinase	Tchem
+dto:DTO_03100177	Hexokinase-1	Tbio
+dto:DTO_03100178	Glucokinase	Tchem
+dto:DTO_03100179	Serine/threonine-protein kinase ick	Tchem
+dto:DTO_03100180	Insulin-like growth factor 1 receptor	Tclin
+dto:DTO_03100181	Inhibitor of nuclear factor kappa-b kinase subunit alpha	Tchem
+dto:DTO_03100182	Inhibitor of nuclear factor kappa-b kinase subunit beta	Tchem
+dto:DTO_03100183	Inhibitor of nuclear factor kappa-b kinase subunit epsilon	Tchem
+dto:DTO_03100184	Integrin-linked protein kinase	Tchem
+dto:DTO_03100185	Insulin receptor-related protein	Tchem
+dto:DTO_03100186	Insulin receptor	Tclin
+dto:DTO_03100187	Inositol-trisphosphate 3-kinase a	Tbio
+dto:DTO_03100188	Inositol-trisphosphate 3-kinase b	Tbio
+dto:DTO_03100189	Inositol polyphosphate multikinase	Tbio
+dto:DTO_03100190	Interleukin-1 receptor-associated kinase 1	Tchem
+dto:DTO_03100191	Interleukin-1 receptor-associated kinase-like 2	Tbio
+dto:DTO_03100192	Interleukin-1 receptor-associated kinase 3	Tchem
+dto:DTO_03100193	Interleukin-1 receptor-associated kinase 4	Tchem
+dto:DTO_03100194	Tyrosine-protein kinase itk/tsk	Tclin
+dto:DTO_03100195	Inositol-tetrakisphosphate 1-kinase	Tbio
+dto:DTO_03100196	Tyrosine-protein kinase jak1	Tclin
+dto:DTO_03100197	Tyrosine-protein kinase jak2	Tclin
+dto:DTO_03100198	Tyrosine-protein kinase jak3	Tclin
+dto:DTO_03100199	Atp-dependent 6-phosphofructokinase, liver type	Tbio
+dto:DTO_03100200	Adenylate kinase isoenzyme 1	Tbio
+dto:DTO_03100201	Adenylate kinase 2, mitochondrial	Tbio
+dto:DTO_03100202	Gtp:amp phosphotransferase ak3, mitochondrial	Tbio
+dto:DTO_03100203	Kalirin	Tbio
+dto:DTO_03100204	Camp-dependent protein kinase catalytic subunit alpha	Tchem
+dto:DTO_03100205	Camp-dependent protein kinase catalytic subunit beta	Tchem
+dto:DTO_03100206	Camp-dependent protein kinase catalytic subunit gamma	Tbio
+dto:DTO_03100207	Casein kinase i isoform alpha-like	Tchem
+dto:DTO_03100208	Casein kinase i isoform alpha	Tchem
+dto:DTO_03100209	Casein kinase i isoform delta	Tchem
+dto:DTO_03100210	Casein kinase i isoform epsilon	Tchem
+dto:DTO_03100211	Casein kinase i isoform gamma-1	Tchem
+dto:DTO_03100212	Casein kinase i isoform gamma-2	Tchem
+dto:DTO_03100213	Casein kinase i isoform gamma-3	Tchem
+dto:DTO_03100214	Calcium/calmodulin-dependent protein kinase type 1	Tchem
+dto:DTO_03100215	Calcium/calmodulin-dependent protein kinase type 1b	Tbio
+dto:DTO_03100216	Calcium/calmodulin-dependent protein kinase type 1d	Tchem
+dto:DTO_03100217	Calcium/calmodulin-dependent protein kinase type 1g	Tchem
+dto:DTO_03100218	Calcium/calmodulin-dependent protein kinase type ii subunit alpha	Tchem
+dto:DTO_03100219	Calcium/calmodulin-dependent protein kinase type ii subunit beta	Tchem
+dto:DTO_03100220	Calcium/calmodulin-dependent protein kinase type ii subunit delta	Tchem
+dto:DTO_03100221	Calcium/calmodulin-dependent protein kinase type ii subunit gamma	Tchem
+dto:DTO_03100222	Calcium/calmodulin-dependent protein kinase type iv	Tchem
+dto:DTO_03100223	Creatine kinase m-type	Tbio
+dto:DTO_03100224	Cgmp-dependent protein kinase 1	Tchem
+dto:DTO_03100225	Cgmp-dependent protein kinase 2	Tchem
+dto:DTO_03100226	Guanylate kinase	Tbio
+dto:DTO_03100227	Ketohexokinase	Tchem
+dto:DTO_03100228	Mevalonate kinase	Tbio
+dto:DTO_03100229	Thymidine kinase, cytosolic	Tchem
+dto:DTO_03100230	Thymidine kinase 2, mitochondrial	Tchem
+dto:DTO_03100231	Mast/stem cell growth factor receptor kit	Tclin
+dto:DTO_03100232	Calcium/calmodulin-dependent protein kinase kinase 1	Tchem
+dto:DTO_03100233	Calcium/calmodulin-dependent protein kinase kinase 2	Tchem
+dto:DTO_03100234	Phosphorylase b kinase regulatory subunit alpha, skeletal muscle isoform	Tbio
+dto:DTO_03100235	Phosphorylase b kinase regulatory subunit alpha, liver isoform	Tbio
+dto:DTO_03100236	Protein kinase c alpha type	Tchem
+dto:DTO_03100237	Protein kinase c beta type	Tchem
+dto:DTO_03100238	Serine/threonine-protein kinase d1	Tchem
+dto:DTO_03100239	Serine/threonine-protein kinase d2	Tchem
+dto:DTO_03100240	Serine/threonine-protein kinase d3	Tchem
+dto:DTO_03100241	Protein kinase c delta type	Tclin
+dto:DTO_03100242	Protein kinase c epsilon type	Tchem
+dto:DTO_03100243	Protein kinase c gamma type	Tchem
+dto:DTO_03100244	Protein kinase c iota type	Tchem
+dto:DTO_03100245	Protein kinase c eta type	Tchem
+dto:DTO_03100246	Protein kinase c theta type	Tchem
+dto:DTO_03100247	Protein kinase c zeta type	Tchem
+dto:DTO_03100248	Serine/threonine-protein kinase h1	Tdark
+dto:DTO_03100249	Serine/threonine-protein kinase h2	Tdark
+dto:DTO_03100250	Pyruvate kinase pkm	Tchem
+dto:DTO_03100251	Ribosomal protein s6 kinase alpha-1	Tchem
+dto:DTO_03100252	Ribosomal protein s6 kinase alpha-2	Tchem
+dto:DTO_03100253	Ribosomal protein s6 kinase alpha-3	Tchem
+dto:DTO_03100254	Ribosomal protein s6 kinase alpha-4	Tchem
+dto:DTO_03100255	Ribosomal protein s6 kinase alpha-5	Tchem
+dto:DTO_03100256	Ribosomal protein s6 kinase alpha-6	Tchem
+dto:DTO_03100257	Ribosomal protein s6 kinase beta-1	Tchem
+dto:DTO_03100258	Ribosomal protein s6 kinase beta-2	Tchem
+dto:DTO_03100259	Ribosomal protein s6 kinase delta-1	Tdark
+dto:DTO_03100260	Kinase suppressor of ras 1	Tbio
+dto:DTO_03100261	Kinase suppressor of ras 2	Tbio
+dto:DTO_03100262	Tyrosine-protein kinase syk	Tchem
+dto:DTO_03100263	Thymidylate kinase	Tbio
+dto:DTO_03100264	Serine/threonine-protein kinase lats1	Tchem
+dto:DTO_03100265	Serine/threonine-protein kinase lats2	Tchem
+dto:DTO_03100266	Tyrosine-protein kinase lck	Tclin
+dto:DTO_03100267	Lim domain kinase 1	Tchem
+dto:DTO_03100268	Lim domain kinase 2	Tchem
+dto:DTO_03100269	Serine/threonine-protein kinase lmtk1	Tbio
+dto:DTO_03100270	Serine/threonine-protein kinase lmtk2	Tbio
+dto:DTO_03100271	Serine/threonine-protein kinase lmtk3	Tbio
+dto:DTO_03100272	Leucine-rich repeat serine/threonine-protein kinase 1	Tbio
+dto:DTO_03100273	Leucine-rich repeat serine/threonine-protein kinase 2	Tchem
+dto:DTO_03100274	Leukocyte tyrosine kinase receptor	Tchem
+dto:DTO_03100275	Tyrosine-protein kinase lyn	Tclin
+dto:DTO_03100276	Mitogen-activated protein kinase kinase kinase 10	Tchem
+dto:DTO_03100277	Mitogen-activated protein kinase kinase kinase 11	Tchem
+dto:DTO_03100278	Mitogen-activated protein kinase kinase kinase 12	Tchem
+dto:DTO_03100279	Mitogen-activated protein kinase kinase kinase 13	Tchem
+dto:DTO_03100280	Mitogen-activated protein kinase kinase kinase 14	Tchem
+dto:DTO_03100281	Mitogen-activated protein kinase kinase kinase 15	Tchem
+dto:DTO_03100282	Mitogen-activated protein kinase kinase kinase 19	Tchem
+dto:DTO_03100283	Mitogen-activated protein kinase kinase kinase 1	Tchem
+dto:DTO_03100284	Mitogen-activated protein kinase kinase kinase 2	Tchem
+dto:DTO_03100285	Mitogen-activated protein kinase kinase kinase 3	Tchem
+dto:DTO_03100286	Mitogen-activated protein kinase kinase kinase 4	Tchem
+dto:DTO_03100287	Mitogen-activated protein kinase kinase kinase 5	Tchem
+dto:DTO_03100288	Mitogen-activated protein kinase kinase kinase 6	Tchem
+dto:DTO_03100289	Mitogen-activated protein kinase kinase kinase 7	Tchem
+dto:DTO_03100290	Mitogen-activated protein kinase kinase kinase 8	Tchem
+dto:DTO_03100291	Mitogen-activated protein kinase kinase kinase 9	Tchem
+dto:DTO_03100292	Mitogen-activated protein kinase kinase kinase mlk4	Tdark
+dto:DTO_03100293	Mitogen-activated protein kinase kinase kinase kinase 1	Tchem
+dto:DTO_03100294	Mitogen-activated protein kinase kinase kinase kinase 2	Tchem
+dto:DTO_03100295	Mitogen-activated protein kinase kinase kinase kinase 3	Tchem
+dto:DTO_03100296	Mitogen-activated protein kinase kinase kinase kinase 4	Tchem
+dto:DTO_03100297	Mitogen-activated protein kinase kinase kinase kinase 5	Tchem
+dto:DTO_03100298	Serine/threonine-protein kinase mak	Tchem
+dto:DTO_03100299	Map kinase-activated protein kinase 2	Tchem
+dto:DTO_03100300	Map kinase-activated protein kinase 3	Tchem
+dto:DTO_03100301	Map kinase-activated protein kinase 5	Tchem
+dto:DTO_03100302	Serine/threonine-protein kinase mark1	Tchem
+dto:DTO_03100303	Serine/threonine-protein kinase mark2	Tchem
+dto:DTO_03100304	Map/microtubule affinity-regulating kinase 3	Tchem
+dto:DTO_03100305	Map/microtubule affinity-regulating kinase 4	Tchem
+dto:DTO_03100306	Microtubule-associated serine/threonine-protein kinase 1	Tchem
+dto:DTO_03100307	Microtubule-associated serine/threonine-protein kinase 2	Tbio
+dto:DTO_03100308	Microtubule-associated serine/threonine-protein kinase 3	Tchem
+dto:DTO_03100309	Microtubule-associated serine/threonine-protein kinase 4	Tbio
+dto:DTO_03100310	Megakaryocyte-associated tyrosine-protein kinase	Tchem
+dto:DTO_03100311	Maternal embryonic leucine zipper kinase	Tchem
+dto:DTO_03100312	Tyrosine-protein kinase mer	Tchem
+dto:DTO_03100313	Hepatocyte growth factor receptor	Tclin
+dto:DTO_03100314	Misshapen-like kinase 1	Tchem
+dto:DTO_03100315	Mitogen-activated protein kinase 1	Tchem
+dto:DTO_03100316	Mitogen-activated protein kinase 3	Tchem
+dto:DTO_03100317	Mitogen-activated protein kinase 4	Tbio
+dto:DTO_03100318	Mitogen-activated protein kinase 6	Tchem
+dto:DTO_03100319	Mitogen-activated protein kinase 7	Tchem
+dto:DTO_03100320	Mitogen-activated protein kinase 8	Tchem
+dto:DTO_03100321	Mitogen-activated protein kinase 9	Tchem
+dto:DTO_03100322	Mitogen-activated protein kinase 10	Tchem
+dto:DTO_03100323	Mitogen-activated protein kinase 11	Tchem
+dto:DTO_03100324	Mitogen-activated protein kinase 12	Tchem
+dto:DTO_03100325	Mitogen-activated protein kinase 13	Tchem
+dto:DTO_03100326	Mitogen-activated protein kinase 14	Tchem
+dto:DTO_03100327	Mitogen-activated protein kinase 15	Tchem
+dto:DTO_03100328	Map kinase-interacting serine/threonine-protein kinase 1	Tchem
+dto:DTO_03100329	Map kinase-interacting serine/threonine-protein kinase 2	Tchem
+dto:DTO_03100330	Mixed lineage kinase domain-like protein	Tbio
+dto:DTO_03100331	Mitogen-activated protein kinase kinase kinase mlt	Tchem
+dto:DTO_03100332	Mapk/mak/mrk overlapping kinase	Tbio
+dto:DTO_03100333	Proto-oncogene serine/threonine-protein kinase mos	Tbio
+dto:DTO_03100334	Dual specificity mitogen-activated protein kinase kinase 1	Tclin
+dto:DTO_03100335	Dual specificity mitogen-activated protein kinase kinase 2	Tclin
+dto:DTO_03100336	Dual specificity mitogen-activated protein kinase kinase 3	Tchem
+dto:DTO_03100337	Dual specificity mitogen-activated protein kinase kinase 4	Tchem
+dto:DTO_03100338	Dual specificity mitogen-activated protein kinase kinase 5	Tchem
+dto:DTO_03100339	Dual specificity mitogen-activated protein kinase kinase 6	Tchem
+dto:DTO_03100340	Dual specificity mitogen-activated protein kinase kinase 7	Tchem
+dto:DTO_03100341	Serine/threonine-protein kinase mrck alpha	Tchem
+dto:DTO_03100342	Serine/threonine-protein kinase mrck beta	Tchem
+dto:DTO_03100343	Serine/threonine-protein kinase mrck gamma	Tchem
+dto:DTO_03100344	Serine/threonine-protein kinase 26	Tchem
+dto:DTO_03100345	Serine/threonine-protein kinase mtor	Tclin
+dto:DTO_03100346	Muscle, skeletal receptor tyrosine-protein kinase	Tchem
+dto:DTO_03100347	Myosin light chain kinase 2, skeletal/cardiac muscle	Tchem
+dto:DTO_03100348	Myosin light chain kinase 3	Tchem
+dto:DTO_03100349	Myosin light chain kinase family member 4	Tchem
+dto:DTO_03100350	Myosin light chain kinase, smooth muscle	Tchem
+dto:DTO_03100351	Myosin-iiia	Tchem
+dto:DTO_03100352	Myosin-iiib	Tchem
+dto:DTO_03100353	Serine/threonine-protein kinase nek10	Tdark
+dto:DTO_03100354	Serine/threonine-protein kinase nek11	Tchem
+dto:DTO_03100355	Serine/threonine-protein kinase nek1	Tchem
+dto:DTO_03100356	Serine/threonine-protein kinase nek2	Tchem
+dto:DTO_03100357	Serine/threonine-protein kinase nek3	Tchem
+dto:DTO_03100358	Serine/threonine-protein kinase nek4	Tchem
+dto:DTO_03100359	Serine/threonine-protein kinase nek5	Tchem
+dto:DTO_03100360	Serine/threonine-protein kinase nek6	Tchem
+dto:DTO_03100361	Serine/threonine-protein kinase nek7	Tchem
+dto:DTO_03100362	Serine/threonine-protein kinase nek8	Tbio
+dto:DTO_03100363	Serine/threonine-protein kinase nek9	Tchem
+dto:DTO_03100364	Nf-kappa-b essential modulator	Tbio
+dto:DTO_03100365	Serine/threonine-protein kinase nim1	Tchem
+dto:DTO_03100366	Serine/threonine-protein kinase nlk	Tchem
+dto:DTO_03100367	Nuclear receptor-binding protein 2	Tdark
+dto:DTO_03100368	Nuclear receptor-binding protein	Tbio
+dto:DTO_03100369	Nik-related protein kinase	Tdark
+dto:DTO_03100370	N-terminal kinase-like protein	Tbio
+dto:DTO_03100371	High affinity nerve growth factor receptor	Tchem
+dto:DTO_03100372	Bdnf/nt-3 growth factors receptor	Tchem
+dto:DTO_03100373	Nt-3 growth factor receptor	Tchem
+dto:DTO_03100374	Nuak family snf1-like kinase 1	Tchem
+dto:DTO_03100375	Nuak family snf1-like kinase 2	Tchem
+dto:DTO_03100376	Obscurin	Tbio
+dto:DTO_03100377	Serine/threonine-protein kinase osr1	Tchem
+dto:DTO_03100378	Phosphatidylinositol 4-phosphate 3-kinase c2 domain-containing subunit alpha	Tchem
+dto:DTO_03100379	Phosphatidylinositol 4-phosphate 3-kinase c2 domain-containing subunit beta	Tchem
+dto:DTO_03100380	Phosphatidylinositol 4-phosphate 3-kinase c2 domain-containing subunit gamma	Tchem
+dto:DTO_03100381	Phosphatidylinositol 4-kinase type 2-alpha	Tbio
+dto:DTO_03100382	Phosphatidylinositol 3-kinase regulatory subunit alpha	Tchem
+dto:DTO_03100383	Protein-associating with the carboxyl-terminal domain of ezrin	Tdark
+dto:DTO_03100384	Serine/threonine-protein kinase pak 1	Tchem
+dto:DTO_03100385	Serine/threonine-protein kinase pak 2	Tchem
+dto:DTO_03100386	Serine/threonine-protein kinase pak 3	Tchem
+dto:DTO_03100387	Serine/threonine-protein kinase pak 4	Tchem
+dto:DTO_03100388	Serine/threonine-protein kinase pak 6	Tchem
+dto:DTO_03100389	Serine/threonine-protein kinase pak 7	Tchem
+dto:DTO_03100390	Pab-dependent poly(a)-specific ribonuclease subunit pan3	Tdark
+dto:DTO_03100391	Pantothenate kinase 1	Tchem
+dto:DTO_03100392	Pas domain-containing serine/threonine-protein kinase	Tbio
+dto:DTO_03100393	Phosphoenolpyruvate carboxykinase [gtp], mitochondrial	Tbio
+dto:DTO_03100394	Serine/threonine-protein kinase pdik1l	Tdark
+dto:DTO_03100395	[pyruvate dehydrogenase (acetyl-transferring)] kinase isozyme 1, mitochondrial	Tchem
+dto:DTO_03100396	[pyruvate dehydrogenase (acetyl-transferring)] kinase isozyme 2, mitochondrial	Tchem
+dto:DTO_03100397	[pyruvate dehydrogenase (acetyl-transferring)] kinase isozyme 3, mitochondrial	Tbio
+dto:DTO_03100398	[pyruvate dehydrogenase (acetyl-transferring)] kinase isozyme 4, mitochondrial	Tbio
+dto:DTO_03100399	3-phosphoinositide-dependent protein kinase 1	Tchem
+dto:DTO_03100400	Putative 3-phosphoinositide-dependent protein kinase 2	Tdark
+dto:DTO_03100401	Pyridoxal kinase	Tbio
+dto:DTO_03100402	Pseudopodium-enriched atypical kinase 1	Tbio
+dto:DTO_03100403	Platelet-derived growth factor receptor alpha	Tclin
+dto:DTO_03100404	Platelet-derived growth factor receptor beta	Tclin
+dto:DTO_03100405	Phosphoglycerate kinase 1	Tbio
+dto:DTO_03100406	Phosphorylase b kinase gamma catalytic chain, skeletal muscle/heart isoform	Tchem
+dto:DTO_03100407	Phosphorylase b kinase gamma catalytic chain, liver/testis isoform	Tchem
+dto:DTO_03100408	Phosphoinositide 3-kinase regulatory subunit 4	Tbio
+dto:DTO_03100409	Phosphatidylinositol 5-phosphate 4-kinase type-2 alpha	Tbio
+dto:DTO_03100410	Phosphatidylinositol 5-phosphate 4-kinase type-2 beta	Tchem
+dto:DTO_03100411	Phosphatidylinositol 5-phosphate 4-kinase type-2 gamma	Tchem
+dto:DTO_03100412	Phosphatidylinositol 4-kinase alpha	Tchem
+dto:DTO_03100413	Phosphatidylinositol 4-kinase beta	Tchem
+dto:DTO_03100414	Phosphatidylinositol 4-phosphate 5-kinase type-1 alpha	Tchem
+dto:DTO_03100415	Phosphatidylinositol 4-phosphate 5-kinase type-1 beta	Tbio
+dto:DTO_03100416	Phosphatidylinositol 4-phosphate 5-kinase type-1 gamma	Tchem
+dto:DTO_03100417	Serine/threonine-protein kinase pim-1	Tchem
+dto:DTO_03100418	Serine/threonine-protein kinase pim-2	Tchem
+dto:DTO_03100419	Serine/threonine-protein kinase pim-3	Tchem
+dto:DTO_03100420	Serine/threonine-protein kinase pink1, mitochondrial	Tbio
+dto:DTO_03100421	Phosphatidylinositol 3-kinase catalytic subunit type 3	Tchem
+dto:DTO_03100422	Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit alpha isoform	Tchem
+dto:DTO_03100423	Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit beta isoform	Tchem
+dto:DTO_03100424	Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit delta isoform	Tclin
+dto:DTO_03100425	Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit gamma isoform	Tchem
+dto:DTO_03100426	Extracellular tyrosine-protein kinase PKDCC	Tbio
+dto:DTO_03100427	Serine/threonine-protein kinase n1	Tchem
+dto:DTO_03100428	Serine/threonine-protein kinase n2	Tchem
+dto:DTO_03100429	Serine/threonine-protein kinase n3	Tbio
+dto:DTO_03100430	Serine/threonine-protein kinase plk1	Tchem
+dto:DTO_03100431	Serine/threonine-protein kinase plk2	Tchem
+dto:DTO_03100432	Serine/threonine-protein kinase plk3	Tchem
+dto:DTO_03100433	Serine/threonine-protein kinase plk4	Tchem
+dto:DTO_03100434	Inactive serine/threonine-protein kinase plk5	Tbio
+dto:DTO_03100435	Membrane-associated tyrosine- and threonine-specific cdc2-inhibitory kinase	Tchem
+dto:DTO_03100436	Dna-dependent protein kinase catalytic subunit	Tchem
+dto:DTO_03100437	Interferon-inducible double-stranded rna-dependent protein kinase activator a	Tbio
+dto:DTO_03100438	Camp-dependent protein kinase catalytic subunit prkx	Tchem
+dto:DTO_03100439	Putative serine/threonine-protein kinase prky	Tdark
+dto:DTO_03100440	Serine/threonine-protein kinase prp4 homolog	Tchem
+dto:DTO_03100441	Tp53-regulating kinase	Tbio
+dto:DTO_03100442	Protein-tyrosine kinase 6	Tchem
+dto:DTO_03100443	Inactive tyrosine-protein kinase 7	Tbio
+dto:DTO_03100444	Px domain-containing protein kinase-like protein	Tbio
+dto:DTO_03100445	Raf proto-oncogene serine/threonine-protein kinase	Tclin
+dto:DTO_03100446	Proto-oncogene tyrosine-protein kinase receptor ret	Tclin
+dto:DTO_03100448	Serine/threonine-protein kinase rio2	Tchem
+dto:DTO_03100450	Receptor-interacting serine/threonine-protein kinase 1	Tchem
+dto:DTO_03100451	Receptor-interacting serine/threonine-protein kinase 2	Tchem
+dto:DTO_03100452	Receptor-interacting serine/threonine-protein kinase 3	Tbio
+dto:DTO_03100453	Receptor-interacting serine/threonine-protein kinase 4	Tchem
+dto:DTO_03100454	Rhodopsin kinase	Tchem
+dto:DTO_03100455	2-5a-dependent ribonuclease	Tchem
+dto:DTO_03100456	Rho-associated protein kinase 1	Tclin
+dto:DTO_03100457	Rho-associated protein kinase 2	Tclin
+dto:DTO_03100458	Macrophage-stimulating protein receptor	Tchem
+dto:DTO_03100459	Tyrosine-protein kinase transmembrane receptor ror1	Tbio
+dto:DTO_03100460	Tyrosine-protein kinase transmembrane receptor ror2	Tbio
+dto:DTO_03100461	Proto-oncogene tyrosine-protein kinase ros	Tchem
+dto:DTO_03100462	Ribosomal protein s6 kinase-like 1	Tdark
+dto:DTO_03100463	Tyrosine-protein kinase ryk	Tbio
+dto:DTO_03100464	Serine/threonine-protein kinase sbk1	Tchem
+dto:DTO_03100465	Serine/threonine-protein kinase sbk2	Tdark
+dto:DTO_03100466	Uncharacterized serine/threonine-protein kinase sbk3	Tchem
+dto:DTO_03100467	Scy1-like protein 2	Tbio
+dto:DTO_03100468	Protein o-mannose kinase	Tdark
+dto:DTO_03100469	Tyrosine-protein kinase sgk223	Tbio
+dto:DTO_03100470	Uncharacterized serine/threonine-protein kinase sgk494	Tdark
+dto:DTO_03100471	Serine/threonine-protein kinase sgk1	Tchem
+dto:DTO_03100472	Serine/threonine-protein kinase sgk2	Tchem
+dto:DTO_03100473	Serine/threonine-protein kinase sgk3	Tchem
+dto:DTO_03100474	Serine/threonine kinase-like domain-containing protein stkld1	Tdark
+dto:DTO_03100475	Serine/threonine-protein kinase sik1	Tchem
+dto:DTO_03100476	Serine/threonine-protein kinase sik2	Tchem
+dto:DTO_03100477	Serine/threonine-protein kinase sik3	Tchem
+dto:DTO_03100478	Ste20-like serine/threonine-protein kinase	Tchem
+dto:DTO_03100479	Serine/threonine-protein kinase smg1	Tchem
+dto:DTO_03100480	Snf-related serine/threonine-protein kinase	Tchem
+dto:DTO_03100481	Striated muscle preferentially expressed protein kinase	Tbio
+dto:DTO_03100482	Sphingosine kinase 1	Tchem
+dto:DTO_03100483	Sphingosine kinase 2	Tchem
+dto:DTO_03100484	Proto-oncogene tyrosine-protein kinase src	Tclin
+dto:DTO_03100485	Tyrosine-protein kinase srms	Tchem
+dto:DTO_03100486	Srsf protein kinase 1	Tchem
+dto:DTO_03100487	Srsf protein kinase 2	Tchem
+dto:DTO_03100488	Srsf protein kinase 3	Tchem
+dto:DTO_03100489	Serine/threonine-protein kinase 17a	Tchem
+dto:DTO_03100490	Serine/threonine-protein kinase 17b	Tchem
+dto:DTO_03100491	Serine/threonine-protein kinase 32a	Tchem
+dto:DTO_03100492	Serine/threonine-protein kinase 32b	Tchem
+dto:DTO_03100493	Serine/threonine-protein kinase 32c	Tchem
+dto:DTO_03100494	Serine/threonine-protein kinase 38-like	Tchem
+dto:DTO_03100495	Serine/threonine-protein kinase 10	Tchem
+dto:DTO_03100496	Serine/threonine-protein kinase stk11	Tchem
+dto:DTO_03100497	Serine/threonine-protein kinase 16	Tchem
+dto:DTO_03100498	Serine/threonine-protein kinase 24	Tchem
+dto:DTO_03100499	Serine/threonine-protein kinase 25	Tchem
+dto:DTO_03100500	Serine/threonine-protein kinase 31	Tbio
+dto:DTO_03100501	Serine/threonine-protein kinase 33	Tchem
+dto:DTO_03100502	Serine/threonine-protein kinase 35	Tchem
+dto:DTO_03100503	Serine/threonine-protein kinase 36	Tchem
+dto:DTO_03100504	Serine/threonine-protein kinase 38	Tchem
+dto:DTO_03100505	Ste20/sps1-related proline-alanine-rich protein kinase	Tchem
+dto:DTO_03100506	Serine/threonine-protein kinase 3	Tchem
+dto:DTO_03100507	Serine/threonine-protein kinase 40	Tbio
+dto:DTO_03100508	Serine/threonine-protein kinase 4	Tchem
+dto:DTO_03100509	Ste20-related kinase adapter protein alpha	Tbio
+dto:DTO_03100510	Ste20-related kinase adapter protein beta	Tbio
+dto:DTO_03100511	Tyrosine-protein kinase styk1	Tbio
+dto:DTO_03100512	Tgf-beta-activated kinase 1 and map3k7-binding protein 1	Tchem
+dto:DTO_03100513	Transcription initiation factor tfiid subunit 1	Tchem
+dto:DTO_03100514	Serine/threonine-protein kinase tao1	Tchem
+dto:DTO_03100515	Serine/threonine-protein kinase tao2	Tchem
+dto:DTO_03100516	Serine/threonine-protein kinase tao3	Tchem
+dto:DTO_03100518	Serine/threonine-protein kinase tbk1	Tchem
+dto:DTO_03100519	Tyrosine-protein kinase tec	Tchem
+dto:DTO_03100520	Dual specificity testis-specific protein kinase 1	Tchem
+dto:DTO_03100521	Dual specificity testis-specific protein kinase 2	Tchem
+dto:DTO_03100522	Inactive serine/threonine-protein kinase tex14	Tbio
+dto:DTO_03100523	Tgf-beta receptor type-1	Tchem
+dto:DTO_03100524	Tgf-beta receptor type-2	Tchem
+dto:DTO_03100525	Tyrosine-protein kinase receptor tie-1	Tchem
+dto:DTO_03100526	Angiopoietin-1 receptor	Tclin
+dto:DTO_03100527	Titin	Tbio
+dto:DTO_03100528	Serine/threonine-protein kinase tousled-like 1	Tchem
+dto:DTO_03100529	Serine/threonine-protein kinase tousled-like 2	Tchem
+dto:DTO_03100530	Serine/threonine-protein kinase tnni3k	Tchem
+dto:DTO_03100531	Traf2 and nck-interacting protein kinase	Tchem
+dto:DTO_03100532	Non-receptor tyrosine-protein kinase tnk1	Tchem
+dto:DTO_03100533	Lymphokine-activated killer t-cell-originated protein kinase	Tchem
+dto:DTO_03100534	Thiamin pyrophosphokinase 1	Tbio
+dto:DTO_03100535	Tribbles homolog 1	Tbio
+dto:DTO_03100536	Tribbles homolog 2	Tbio
+dto:DTO_03100537	Tribbles homolog 3	Tbio
+dto:DTO_03100538	Triple functional domain protein	Tbio
+dto:DTO_03100539	Transient receptor potential cation channel subfamily m member 6	Tchem
+dto:DTO_03100540	Testis-specific serine/threonine-protein kinase 1	Tchem
+dto:DTO_03100541	Testis-specific serine/threonine-protein kinase 2	Tchem
+dto:DTO_03100542	Testis-specific serine/threonine-protein kinase 3	Tchem
+dto:DTO_03100543	Testis-specific serine/threonine-protein kinase 4	Tbio
+dto:DTO_03100544	Testis-specific serine/threonine-protein kinase 6	Tbio
+dto:DTO_03100545	Tau-tubulin kinase 1	Tbio
+dto:DTO_03100546	Tau-tubulin kinase 2	Tbio
+dto:DTO_03100547	Dual specificity protein kinase ttk	Tchem
+dto:DTO_03100548	Tyrosine-protein kinase txk	Tchem
+dto:DTO_03100549	Non-receptor tyrosine-protein kinase tyk2	Tclin
+dto:DTO_03100550	Tyrosine-protein kinase receptor tyro3	Tchem
+dto:DTO_03100551	Uridine-cytidine kinase 1	Tbio
+dto:DTO_03100552	Uridine-cytidine kinase 2	Tbio
+dto:DTO_03100553	Tyrosine-protein kinase receptor ufo	Tchem
+dto:DTO_03100554	Serine/threonine-protein kinase kist	Tbio
+dto:DTO_03100555	Serine/threonine-protein kinase ulk1	Tchem
+dto:DTO_03100556	Serine/threonine-protein kinase ulk2	Tchem
+dto:DTO_03100557	Serine/threonine-protein kinase ulk3	Tchem
+dto:DTO_03100558	Serine/threonine-protein kinase ulk4	Tbio
+dto:DTO_03100559	Vascular endothelial growth factor receptor 1	Tclin
+dto:DTO_03100560	Vascular endothelial growth factor receptor 2	Tclin
+dto:DTO_03100561	Vascular endothelial growth factor receptor 3	Tclin
+dto:DTO_03100562	Serine/threonine-protein kinase vrk1	Tbio
+dto:DTO_03100563	Serine/threonine-protein kinase vrk2	Tchem
+dto:DTO_03100564	Inactive serine/threonine-protein kinase vrk3	Tbio
+dto:DTO_03100565	Wee1-like protein kinase	Tchem
+dto:DTO_03100566	Wee1-like protein kinase 2	Tchem
+dto:DTO_03100567	Serine/threonine-protein kinase wnk1	Tbio
+dto:DTO_03100568	Serine/threonine-protein kinase wnk2	Tbio
+dto:DTO_03100569	Serine/threonine-protein kinase wnk3	Tchem
+dto:DTO_03100570	Serine/threonine-protein kinase wnk4	Tbio
+dto:DTO_03100571	Tyrosine-protein kinase yes	Tclin
+dto:DTO_03100572	Tyrosine-protein kinase zap-70	Tchem
+dto:DTO_03100572	Tyrosine-protein kinase zap-70	Tbio
+dto:DTO_03100573	Ethanolamine kinase 1	Tbio
+dto:DTO_03100574	Ethanolamine kinase 2	Tdark
+dto:DTO_03100575	N-acetylgalactosamine kinase	Tbio
+dto:DTO_03100576	Galactokinase	Tchem
+dto:DTO_03100577	L-fucose kinase	Tbio
+dto:DTO_03100578	Probable gluconokinase	Tbio
+dto:DTO_03100579	UMP-CMP kinase 2, mitochondrial	Tbio
+dto:DTO_03100580	FGGY carbohydrate kinase domain-containing protein	Tbio
+dto:DTO_03100581	Fructosamine-3-kinase	Tbio
+dto:DTO_03100582	Glycerol kinase 3	Tdark
+dto:DTO_03100583	Glycerate kinase	Tbio
+dto:DTO_03100584	Putative glycerol kinase 5	Tbio
+dto:DTO_03100585	Glycerol kinase	Tbio
+dto:DTO_03100586	Putative hexokinase HKDC1	Tbio
+dto:DTO_03100587	Hexokinase-3	Tbio
+dto:DTO_03100588	Hexokinase-2	Tbio
+dto:DTO_03100589	Inositol-trisphosphate 3-kinase C	Tbio
+dto:DTO_03100590	Inositol hexakisphosphate kinase 2	Tbio
+dto:DTO_03100591	Adenylate kinase 8	Tbio
+dto:DTO_03100592	Inositol hexakisphosphate kinase 1	Tbio
+dto:DTO_03100593	Inositol hexakisphosphate kinase 3	Tbio
+dto:DTO_03100594	Nicotinamide riboside kinase 1	Tbio
+dto:DTO_03100595	Pantothenate kinase 4	Tdark
+dto:DTO_03100596	UMP-CMP kinase	Tbio
+dto:DTO_03100597	Adenylate kinase isoenzyme 6	Tbio
+dto:DTO_03100598	Adenylate kinase isoenzyme 5	Tbio
+dto:DTO_03100599	Creatine kinase B-type	Tbio
+dto:DTO_03100600	Creatine kinase U-type, mitochondrial	Tbio
+dto:DTO_03100601	Adenylate kinase 9	Tbio
+dto:DTO_03100602	Adenylate kinase 4, mitochondrial	Tbio
+dto:DTO_03100603	Creatine kinase S-type, mitochondrial	Tbio
+dto:DTO_03100604	Ketosamine-3-kinase	Tbio
+dto:DTO_03100605	NAD kinase	Tbio
+dto:DTO_03100606	NAD kinase 2, mitochondrial	Tbio
+dto:DTO_03100607	N-acetyl-D-glucosamine kinase	Tbio
+dto:DTO_03100608	Nucleoside diphosphate kinase B	Tbio
+dto:DTO_03100609	Nucleoside diphosphate kinase homolog 5	Tbio
+dto:DTO_03100610	Putative nucleoside diphosphate kinase	Tdark
+dto:DTO_03100611	Nucleoside diphosphate kinase 3	Tbio
+dto:DTO_03100612	Nucleoside diphosphate kinase 6	Tbio
+dto:DTO_03100613	Nucleoside diphosphate kinase A	Tbio
+dto:DTO_03100614	Nucleoside diphosphate kinase, mitochondrial	Tbio
+dto:DTO_03100615	Nicotinamide riboside kinase 2	Tbio
+dto:DTO_03100616	Phosphoglycerate kinase 2	Tbio
+dto:DTO_03100617	Phosphoenolpyruvate carboxykinase, cytosolic [GTP]	Tchem
+dto:DTO_03100618	ATP-dependent 6-phosphofructokinase, muscle type	Tbio
+dto:DTO_03100619	ATP-dependent 6-phosphofructokinase, platelet type	Tbio
+dto:DTO_03100620	Ribose-phosphate pyrophosphokinase 3	Tdark
+dto:DTO_03100621	Ribose-phosphate pyrophosphokinase 2	Tbio
+dto:DTO_03100622	Ribose-phosphate pyrophosphokinase 1	Tbio
+dto:DTO_03100623	L-seryl-tRNA(Sec) kinase	Tdark
+dto:DTO_03100624	Sedoheptulokinase	Tbio
+dto:DTO_03100625	Ribokinase	Tbio
+dto:DTO_03100626	TBC domain-containing protein kinase-like protein	Tbio
+dto:DTO_03100627	Uridine-cytidine kinase-like 1	Tdark
+dto:DTO_03100628	Xylulose kinase	Tbio
+dto:DTO_03100630	6-phosphofructo-2-kinase/fructose-2,6-bisphosphatase 1	Tbio
+dto:DTO_03100630	6-phosphofructo-2-kinase/fructose-2,6-bisphosphatase 1	Tchem
+dto:DTO_03100631	6-phosphofructo-2-kinase/fructose-2,6-bisphosphatase 2	Tbio
+dto:DTO_03100631	6-phosphofructo-2-kinase/fructose-2,6-bisphosphatase 2	Tchem
+dto:DTO_03100632	6-phosphofructo-2-kinase/fructose-2,6-bisphosphatase 3	Tchem
+dto:DTO_03100633	Pantothenate kinase 2, mitochondrial	Tchem
+dto:DTO_03100633	Pantothenate kinase 2, mitochondrial	Tbio
+dto:DTO_03100634	Pantothenate kinase 3	Tchem
+dto:DTO_03100634	Pantothenate kinase 3	Tbio
+dto:DTO_03100635	Pyruvate kinase PKLR	Tbio
+dto:DTO_03100636	Serine/threonine-protein kinase rio1	Tchem
+dto:DTO_03100637	Serine/threonine-protein kinase rio3	Tchem

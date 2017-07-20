@@ -1,0 +1,92 @@
+## These queries are to execute the questions for use case: https://github.com/schurerlab/DTO/issues/20 ##
+
+1.    Does the current version of DTO allow for a protein target to be both an IC and a kinase, like TRPM6 or TRPM7 for example?
+	
+
+SELECT ?subject ?subject_label
+WHERE {
+    ?subject rdfs:subClassOf* <http://www.drugtargetontology.org/dto/DTO_00102000> .
+	?subject rdfs:subClassOf* <http://www.drugtargetontology.org/dto/DTO_03300101> .
+	?subject rdfs:label ?subject_label
+}
+
+
+2.    SPARQL query to search all the kinase domains that contains a gatekeeper residue.
+	
+	#1. find all 'has role' some 'gatekeeper role'
+	#2. #1result has a equivalent class in list, 'is part of' some subclass of 'kinase domain' is one of them.
+
+PREFIX dto: <http://www.drugtargetontology.org/dto/>
+
+select ?subject ?subject_label ?k ?k_label
+Where {
+    ?subject rdfs:subClassOf ?s1 .
+	?s1 owl:onProperty <http://purl.obolibrary.org/obo/RO_0000087>; owl:someValuesFrom dto:DTO_00000002 .
+	?subject rdfs:label ?subject_label .
+	?subject owl:equivalentClass ?s2 .
+	?s2 owl:intersectionOf ?list .
+    ?list rdf:rest*/rdf:first ?l .
+    ?l owl:onProperty dto:DTO_90000020; owl:allValuesFrom ?k .
+	?k rdfs:subClassOf* dto:DTO_61000000 . 
+	?k rdfs:label ?k_label 
+}
+ 
+3.   We can also perform a SPARQL query to search any kinase domain that contains any of the small side chain residues, such as Thr, Ala, or Gly.
+
+Question: what are the small side chain residues?
+
+4.    Give all the mutated proteins of a wild type (link a protein variation with wild type protein: use is mutated format of relation)
+
+5.    Give all the mutations in those mutated proteins
+
+6.    Give all the mutations in one protein
+
+7.    Give all the mutation / variation types in one mutated protein.
+
+8.    Give the gatekeeper residue in the proteins (add one more condition with question 2)
+	#1. find all 'has role' some 'gatekeeper role'
+	#2. #1result has a equivalent class in list, 'is part of' some subclass of 'kinase domain' is one of them.
+	#3. find the protein that link to kinase domain by 'is part of'
+
+PREFIX dto: <http://www.drugtargetontology.org/dto/>
+
+select ?subject ?subject_label ?p_label
+Where {
+    ?subject rdfs:subClassOf ?s1 .
+	?s1 owl:onProperty <http://purl.obolibrary.org/obo/RO_0000087>; owl:someValuesFrom dto:DTO_00000002 .
+	?subject rdfs:label ?subject_label .
+	?subject owl:equivalentClass ?s2 .
+	?s2 owl:intersectionOf ?list .
+    ?list rdf:rest*/rdf:first ?l .
+    ?l owl:onProperty dto:DTO_90000020; owl:allValuesFrom ?k .
+	?k rdfs:subClassOf* dto:DTO_61000000 . 
+	?k rdfs:subClassOf ?s3 .
+	?s3 owl:onProperty dto:DTO_90000020; owl:someValuesFrom ?p .
+	?p rdfs:subClassOf* <http://purl.obolibrary.org/obo/PR_000000001> .
+	?p rdfs:label ?p_label
+}
+
+9.    We could also ask is there any light in Tdark ?
+
+	#1. add on question 8, see the TDL level of those protein
+	
+PREFIX dto: <http://www.drugtargetontology.org/dto/>
+
+select ?subject ?subject_label ?p_label ?tdl_label
+Where {
+    ?subject rdfs:subClassOf ?s1 .
+	?s1 owl:onProperty <http://purl.obolibrary.org/obo/RO_0000087>; owl:someValuesFrom dto:DTO_00000002 .
+	?subject rdfs:label ?subject_label .
+	?subject owl:equivalentClass ?s2 .
+	?s2 owl:intersectionOf ?list .
+    ?list rdf:rest*/rdf:first ?l .
+    ?l owl:onProperty dto:DTO_90000020; owl:allValuesFrom ?k .
+	?k rdfs:subClassOf* dto:DTO_61000000 . 
+	?k rdfs:subClassOf ?s3 .
+	?s3 owl:onProperty dto:DTO_90000020; owl:someValuesFrom ?p .
+	?p rdfs:subClassOf* <http://purl.obolibrary.org/obo/PR_000000001> .
+	?p rdfs:label ?p_label .
+	?p rdfs:subClassOf ?s4 .
+	?s4 owl:onProperty<http://www.drugtargetontology.org/dto/DTO_91000020>; owl:someValuesFrom ?TDL .
+	?TDL rdfs:label ?tdl_label
+}

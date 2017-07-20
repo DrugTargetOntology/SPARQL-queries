@@ -1,0 +1,496 @@
+[label]	uniprot	disease_label
+2-5a-dependent ribonuclease	Q05823	chronic fatigue syndrome
+5-hydroxytryptamine receptor 1D	P28221	migraine
+5-hydroxytryptamine receptor 1a	P08908	anxiety disorder
+5-hydroxytryptamine receptor 1a	P08908	major depressive disorder
+5-hydroxytryptamine receptor 1a	P08908	schizophrenia
+5-hydroxytryptamine receptor 1f	P30939	schizophrenia
+5-hydroxytryptamine receptor 1f	P30939	migraine
+5-hydroxytryptamine receptor 2A	P28223	major depressive disorder
+5-hydroxytryptamine receptor 2A	P28223	schizophrenia
+5-hydroxytryptamine receptor 2A	P28223	bipolar disorder
+5-hydroxytryptamine receptor 2A	P28223	obsessive-compulsive disorder
+5-hydroxytryptamine receptor 2c	P28335	schizophrenia
+5-hydroxytryptamine receptor 3A	P46098	motion sickness
+5-hydroxytryptamine receptor 3A	P46098	diarrhea
+5-hydroxytryptamine receptor 3A	P46098	constipation
+5-hydroxytryptamine receptor 3A	P46098	irritable bowel syndrome
+5-hydroxytryptamine receptor 4	Q13639	irritable bowel syndrome
+5-hydroxytryptamine receptor 4	Q13639	constipation
+5-hydroxytryptamine receptor 4	Q13639	gastroparesis
+5-hydroxytryptamine receptor 6	P50406	schizophrenia
+5-hydroxytryptamine receptor 7	P34969	pain agnosia
+5-hydroxytryptamine receptor 7	P34969	schizophrenia
+5-hydroxytryptamine receptor 7	P34969	constipation
+5-hydroxytryptamine receptor 7	P34969	irritable bowel syndrome
+5-hydroxytryptamine receptor 7	P34969	migraine
+ATP-sensitive inward rectifier potassium channel 1	P48048	hypokalemia
+ATP-sensitive inward rectifier potassium channel 1	P48048	polyhydramnios
+ATP-sensitive inward rectifier potassium channel 1	P48048	kidney disease
+ATP-sensitive inward rectifier potassium channel 10	P78508	EAST syndrome
+ATP-sensitive inward rectifier potassium channel 11	Q14654	hyperinsulinism
+ATP-sensitive inward rectifier potassium channel 11	Q14654	hypoglycemia
+Acetylcholine receptor subunit alpha	P02708	multiple pterygium syndrome
+Acetylcholine receptor subunit beta	P11230	multiple pterygium syndrome
+Acetylcholine receptor subunit delta	Q07001	multiple pterygium syndrome
+Acetylcholine receptor subunit gamma	P07510	multiple pterygium syndrome
+Adenosine receptor a2a	P29274	Parkinson's disease
+Adenylate kinase isoenzyme 1	P00568	nail-patella syndrome
+Adrenocorticotropic hormone receptor	Q01718	triple-A syndrome
+Alpha-2a adrenergic receptor	P08913	attention deficit hyperactivity disorder
+Androgen receptor	P10275	breast cancer
+Androgen receptor	P10275	hypospadias
+Ankyrin repeat and protein kinase domain-containing protein 1	Q8NFD2	alcohol dependence
+Ankyrin repeat and protein kinase domain-containing protein 1	Q8NFD2	nicotine dependence
+Anoctamin-1	Q5XXA6	gastrointestinal stromal tumor
+Anoctamin-6	Q4KMQ2	teratoma
+Atrial natriuretic peptide receptor 2	P20594	osteochondrodysplasia
+Atypical chemokine receptor 1	Q16570	herpes simplex
+Atypical chemokine receptor 1	Q16570	malaria
+Atypical kinase adck3, mitochondrial	Q8NI60	cerebellar ataxia
+Aurora kinase b	Q96GD4	cancer
+Bestrophin-2	Q8NFU1	vitelliform macular dystrophy
+Bestrophin-4	Q8NFU0	vitelliform macular dystrophy
+Beta-1 adrenergic receptor	P08588	heart disease
+Beta-2 adrenergic receptor	P07550	asthma
+Bile acid receptor	Q96RI1	cholestasis
+Bone morphogenetic protein receptor type-1a	P36894	Bannayan-Riley-Ruvalcaba syndrome
+Bone morphogenetic protein receptor type-2	Q13873	Cor pulmonale
+Bone morphogenetic protein receptor type-2	Q13873	hypertension
+C-C chemokine receptor type 2	P41597	acquired immunodeficiency syndrome
+C-C chemokine receptor type 3	P51677	hypereosinophilic syndrome
+C-C chemokine receptor type 3	P51677	asthma
+C-c chemokine receptor type 7	P32248	cancer
+C-x-c chemokine receptor type 4	P61073	human immunodeficiency virus infectious disease
+C-x-c chemokine receptor type 4	P61073	cancer
+Calcium release-activated calcium channel protein 1	Q96D31	Stormorken syndrome
+Calcium uniporter protein, mitochondrial	Q8NE86	acute cystitis
+Calcium uniporter protein, mitochondrial	Q8NE86	vesicoureteral reflux
+Calcium-activated chloride channel regulator 1	A8K7I4	cystic fibrosis
+Calcium-activated chloride channel regulator 2	Q9UQC9	cystic fibrosis
+Calcium-activated chloride channel regulator 4	Q14CN2	cystic fibrosis
+Calcium-activated potassium channel subunit alpha-1	Q12791	Smith-Lemli-Opitz syndrome
+Calcium-activated potassium channel subunit alpha-1	Q12791	scotoma
+Calcium/calmodulin-dependent protein kinase type ii subunit beta	Q13554	phencyclidine abuse
+Camp-dependent protein kinase catalytic subunit prkx	P51817	asbestos-related lung carcinoma
+Cannabinoid receptor 1	P21554	pain agnosia
+Cannabinoid receptor 1	P21554	obesity
+Cannabinoid receptor 1	P21554	cannabis dependence
+Cannabinoid receptor 1	P21554	schizophrenia
+Casein kinase i isoform delta	P48730	chronic kidney disease
+Cgmp-dependent protein kinase 2	Q13237	chromosome 4q21 deletion syndrome
+Chloride channel protein 1	P35523	endomyocardial fibrosis
+Chloride channel protein clc-kb	P51801	hypokalemia
+Chloride intracellular channel protein 1	O00299	glycogen storage disease
+Choline/ethanolamine kinase	Q9Y259	shipyard eye
+Corticotropin-releasing factor receptor 1	P34998	post-traumatic stress disorder
+Corticotropin-releasing factor receptor 1	P34998	chronic kidney disease
+Corticotropin-releasing factor receptor 2	Q13324	chronic kidney disease
+Creatine kinase B-type	P12277	myocardial infarction
+Creatine kinase S-type, mitochondrial	P17540	myocardial infarction
+Cyclic nucleotide-gated cation channel alpha-3	Q16281	blindness
+Cyclic nucleotide-gated cation channel beta-3	Q9NQW8	blindness
+Cyclic nucleotide-gated cation channel beta-3	Q9NQW8	cone dystrophy
+Cyclin-dependent kinase 1	P06493	cancer
+Cyclin-dependent kinase 2	P24941	cancer
+Cyclin-dependent kinase 4	P11802	cancer
+Cyclin-dependent kinase 6	Q00534	cancer
+Cyclin-dependent kinase 9	P50750	Takayasu's arteritis
+Cyclin-dependent-like kinase 5	Q00535	Alzheimer's disease
+Cysteinyl leukotriene receptor 1	Q9Y271	asthma
+Cysteinyl leukotriene receptor 2	Q9NS75	asthma
+Cystic fibrosis transmembrane conductance regulator	P13569	lung disease
+Cystic fibrosis transmembrane conductance regulator	P13569	bronchiectasis
+Cystic fibrosis transmembrane conductance regulator	P13569	intestinal obstruction
+Cystic fibrosis transmembrane conductance regulator	P13569	pancreatitis
+Cystic fibrosis transmembrane conductance regulator	P13569	male infertility
+D(1B) dopamine receptor	P21918	attention deficit hyperactivity disorder
+D(1a) dopamine receptor	P21728	schizophrenia
+D(2) dopamine receptor	P14416	nicotine dependence
+D(2) dopamine receptor	P14416	schizophrenia
+D(2) dopamine receptor	P14416	alcohol dependence
+D(2) dopamine receptor	P14416	Parkinson's disease
+D(2) dopamine receptor	P14416	attention deficit hyperactivity disorder
+D(2) dopamine receptor	P14416	substance abuse
+D(3) dopamine receptor	P35462	essential tremor
+D(3) dopamine receptor	P35462	schizophrenia
+D(4) dopamine receptor	P21917	oppositional defiant disorder
+D(4) dopamine receptor	P21917	conduct disorder
+D(4) dopamine receptor	P21917	schizophrenia
+Death-associated protein kinase 1	P53355	cancer
+Diacylglycerol kinase eta	Q86XP1	bipolar disorder
+Dna-dependent protein kinase catalytic subunit	P78527	cancer
+Dual specificity mitogen-activated protein kinase kinase 1	Q02750	cancer
+Dual specificity mitogen-activated protein kinase kinase 1	Q02750	Costello syndrome
+Dual specificity mitogen-activated protein kinase kinase 1	Q02750	Noonan syndrome
+Dual specificity mitogen-activated protein kinase kinase 2	P36507	Noonan syndrome
+Dual specificity mitogen-activated protein kinase kinase 7	O14733	cancer
+Endothelin b receptor	P24530	impetigo
+Endothelin b receptor	P24530	Ritter's disease
+Endothelin b receptor	P24530	hypertension
+Endothelin-1 receptor	P25101	hypertension
+Ephrin type-a receptor 2	P29317	pulmonary embolism
+Ephrin type-a receptor 5	P54756	Lyme disease
+Epidermal growth factor receptor	P00533	diarrhea
+Epidermal growth factor receptor	P00533	exanthem
+Epidermal growth factor receptor	P00533	lung cancer
+Epidermal growth factor receptor	P00533	carcinoma
+Estrogen receptor	P03372	endometrial cancer
+Estrogen receptor	P03372	carcinoma
+Estrogen receptor	P03372	ductal carcinoma in situ
+Estrogen receptor	P03372	osteoporosis
+Estrogen receptor beta	Q92731	cancer
+Eukaryotic translation initiation factor 2-alpha kinase 3	Q9NZJ5	cancer
+Extracellular calcium-sensing receptor	P41180	hyperparathyroidism
+Extracellular calcium-sensing receptor	P41180	hypoparathyroidism
+Extracellular calcium-sensing receptor	P41180	kidney disease
+Extracellular calcium-sensing receptor	P41180	hypercalcemia
+Fibroblast growth factor receptor 1	P11362	lipomatosis
+Fibroblast growth factor receptor 1	P11362	cancer
+Fibroblast growth factor receptor 1	P11362	acrocephalosyndactylia
+Fibroblast growth factor receptor 1	P11362	hypogonadism
+Fibroblast growth factor receptor 2	P21802	syndactyly
+Fibroblast growth factor receptor 2	P21802	Antley-Bixler syndrome
+Fibroblast growth factor receptor 2	P21802	exophthalmos
+Fibroblast growth factor receptor 3	P22607	cancer
+Fibroblast growth factor receptor 3	P22607	acanthosis nigricans
+Fibroblast growth factor receptor 3	P22607	acrocephalosyndactylia
+Focal adhesion kinase 1	Q05397	cancer
+Follicle-stimulating hormone receptor	P23945	premature ovarian failure
+Follicle-stimulating hormone receptor	P23945	ovarian hyperstimulation syndrome
+Follicle-stimulating hormone receptor	P23945	infertility
+Follicle-stimulating hormone receptor	P23945	polycystic ovary syndrome
+Free fatty acid receptor 1	O14842	diabetes mellitus
+G protein-activated inward rectifier potassium channel 2	P48051	Down syndrome
+G protein-activated inward rectifier potassium channel 4	P48544	adenoma
+G protein-activated inward rectifier potassium channel 4	P48544	Conn's syndrome
+G protein-activated inward rectifier potassium channel 4	P48544	hyperaldosteronism
+G-protein coupled receptor 126	Q86SQ4	idiopathic scoliosis
+G-protein coupled receptor 143	P51810	congenital nystagmus
+Gamma-aminobutyric acid receptor subunit alpha-2	P47869	alcohol dependence
+Gamma-aminobutyric acid receptor subunit alpha-5	P31644	Angelman syndrome
+Gamma-aminobutyric acid receptor subunit alpha-5	P31644	Prader-Willi syndrome
+Gamma-aminobutyric acid receptor subunit beta-3	P28472	autistic disorder
+Gamma-aminobutyric acid receptor subunit beta-3	P28472	Angelman syndrome
+Gamma-aminobutyric acid receptor subunit beta-3	P28472	Prader-Willi syndrome
+Gamma-aminobutyric acid receptor subunit delta	O14764	chromosome 1p36 deletion syndrome
+Gastrin/cholecystokinin type B receptor	P32239	panic disorder
+Glucagon-like peptide 1 receptor	P43220	diabetes mellitus
+Glucagon-like peptide 1 receptor	P43220	hypoglycemia
+Glucagon-like peptide 2 receptor	O95838	short bowel syndrome
+Glucocorticoid receptor	P04150	Cushing's syndrome
+Glucocorticoid receptor	P04150	asthma
+Glucocorticoid receptor	P04150	post-traumatic stress disorder
+Glucokinase	P35557	hyperglycemia
+Glutamate receptor 1	P42261	schizophrenia
+Glutamate receptor ionotropic, NMDA 2A	Q12879	schizophrenia
+Glutamate receptor ionotropic, NMDA 2A	Q12879	toxic encephalopathy
+Glutamate receptor ionotropic, nmda 2b	Q13224	toxic encephalopathy
+Glutamate receptor ionotropic, nmda 2b	Q13224	schizophrenia
+Glycerol kinase	P32189	glycerol kinase deficiency
+Glycerol kinase 3	Q14409	glycerol kinase deficiency
+Gonadotropin-releasing hormone receptor	P30968	hypogonadism
+Growth hormone secretagogue receptor type 1	Q92847	gastroparesis
+H(+)/cl(-) exchange transporter 4	P51793	Dent disease
+H(+)/cl(-) exchange transporter 5	P51795	calcinosis
+H(+)/cl(-) exchange transporter 5	P51795	kidney disease
+H(+)/cl(-) exchange transporter 5	P51795	rickets
+Heat-stable enterotoxin receptor	P25092	colorectal cancer
+Hepatocyte nuclear factor 4-alpha	P41235	maturity-onset diabetes of the young
+Hepatocyte nuclear factor 4-alpha	P41235	cancer
+Hexokinase-1	P19367	attention deficit hyperactivity disorder
+High affinity nerve growth factor receptor	P04629	anhidrosis
+High affinity nerve growth factor receptor	P04629	obsolete peripheral neuropathy
+Histamine H1 receptor	P35367	urticaria
+Histamine H1 receptor	P35367	allergic rhinitis
+Histamine h2 receptor	P25021	duodenal ulcer
+Histamine h2 receptor	P25021	esophagitis
+Histamine h2 receptor	P25021	Zollinger-Ellison syndrome
+Inactive tyrosine-protein kinase 7	Q13308	panic disorder
+Insulin-like growth factor 1 receptor	P08069	cancer
+Inward rectifier potassium channel 13	O60928	vitreous syneresis
+Inward rectifier potassium channel 16	Q9NPI9	EAST syndrome
+Inward rectifier potassium channel 2	P63252	hypokalemic periodic paralysis
+Kappa-type opioid receptor	P41145	pain agnosia
+Kiss-1 receptor	Q969F8	hypogonadism
+Latrophilin-3	Q9HAR2	attention deficit hyperactivity disorder
+Leucine-rich repeat serine/threonine-protein kinase 2	Q5S007	movement disease
+Lutropin-choriogonadotropic hormone receptor	P22888	pseudohermaphroditism
+Lutropin-choriogonadotropic hormone receptor	P22888	McCune Albright syndrome
+Lymphokine-activated killer t-cell-originated protein kinase	Q96KB5	bullous keratopathy
+Mast/stem cell growth factor receptor kit	P10721	mastocytosis
+Melanin-concentrating hormone receptor 1	Q99705	obesity
+Melanocortin receptor 3	P41968	tricuspid valve insufficiency
+Melanocortin receptor 3	P41968	obesity
+Melanocyte-stimulating hormone receptor	Q01726	melanoma
+Melanocyte-stimulating hormone receptor	Q01726	skin cancer
+Melanopsin	Q9UHM6	seasonal affective disorder
+Melatonin receptor type 1b	P49286	idiopathic scoliosis
+Metabotropic glutamate receptor 2	Q14416	schizophrenia
+Metabotropic glutamate receptor 3	Q14832	schizophrenia
+Metabotropic glutamate receptor 5	P41594	Parkinson's disease
+Metabotropic glutamate receptor 5	P41594	fragile X syndrome
+Metabotropic glutamate receptor 5	P41594	schizophrenia
+Metabotropic glutamate receptor 5	P41594	autistic disorder
+Metabotropic glutamate receptor 6	O15303	night blindness
+Mevalonate kinase	Q03426	familial Mediterranean fever
+Mineralocorticoid receptor	P08235	hyperaldosteronism
+Mineralocorticoid receptor	P08235	Conn's syndrome
+Mineralocorticoid receptor	P08235	kidney disease
+Mineralocorticoid receptor	P08235	hypertension
+Mitogen-activated protein kinase 1	P28482	cancer
+Mitogen-activated protein kinase 3	P27361	cancer
+Mitogen-activated protein kinase 3	P27361	vascular disease
+Mitogen-activated protein kinase 8	P45983	cancer
+Mitogen-activated protein kinase 8	P45983	vascular disease
+Motilin receptor	O43193	gastroparesis
+Motilin receptor	O43193	functional gastric disease
+Mu-type opioid receptor	P35372	opiate dependence
+Mu-type opioid receptor	P35372	pain agnosia
+Mu-type opioid receptor	P35372	alcohol dependence
+Mucolipin-2	Q8IZK6	gangliosidosis
+Mucolipin-3	Q8TDD5	gangliosidosis
+Muscarinic acetylcholine receptor m2	P08172	schistosomiasis
+Muscarinic acetylcholine receptor m3	P20309	nephrolithiasis
+Muscle, skeletal receptor tyrosine-protein kinase	O15146	thymoma
+Muscle, skeletal receptor tyrosine-protein kinase	O15146	Lambert-Eaton myasthenic syndrome
+Myosin light chain kinase, smooth muscle	Q15746	primary cutaneous amyloidosis
+Myotonin-protein kinase	Q09013	muscular dystrophy
+NAD kinase 2, mitochondrial	Q4G0N4	hyperlysinemia
+Neuronal acetylcholine receptor subunit alpha-3	P32297	nicotine dependence
+Neuronal acetylcholine receptor subunit alpha-4	P43681	schizophrenia
+Neuronal acetylcholine receptor subunit alpha-4	P43681	Alzheimer's disease
+Neuronal acetylcholine receptor subunit alpha-4	P43681	nicotine dependence
+Neuronal acetylcholine receptor subunit alpha-6	Q15825	nicotine dependence
+Neuronal acetylcholine receptor subunit alpha-7	P36544	chromosome 15q13.3 microdeletion syndrome
+Neuronal acetylcholine receptor subunit alpha-7	P36544	schizophrenia
+Neuronal acetylcholine receptor subunit beta-2	P17787	nicotine dependence
+Neuronal acetylcholine receptor subunit beta-3	Q05901	nicotine dependence
+Neuronal acetylcholine receptor subunit beta-4	P30926	nicotine dependence
+Neuropeptide S receptor	Q6W5P4	panic disorder
+Nf-kappa-b essential modulator	Q9Y6K9	hypohidrotic ectodermal dysplasia
+Nociceptin receptor	P41146	pain agnosia
+Nuclear receptor subfamily 0 group b member 1	P51843	chromosome Xp21 deletion syndrome
+Nuclear receptor subfamily 0 group b member 1	P51843	hemiplegia
+Nuclear receptor subfamily 0 group b member 1	P51843	Klinefelter's syndrome
+Nuclear receptor subfamily 0 group b member 1	P51843	glycerol kinase deficiency
+Nuclear receptor subfamily 0 group b member 1	P51843	hypogonadism
+Nuclear receptor subfamily 0 group b member 2	Q15466	hemopneumothorax
+Nuclear receptor subfamily 0 group b member 2	Q15466	secondary hyperparathyroidism
+Nuclear receptor subfamily 1 group i member 2	O75469	cholestasis
+Nuclear receptor subfamily 4 group a member 2	P43354	Parkinson's disease
+Nuclear receptor subfamily 4 group a member 3	Q92570	chondrosarcoma
+Nuclear receptor subfamily 5 group a member 2	O00482	Leydig cell tumor
+Nucleoside diphosphate kinase A	P15531	cancer
+Nucleoside diphosphate kinase B	P22392	interstitial cystitis
+Olfactory receptor 2AG1	Q9H205	hereditary hemorrhagic telangiectasia
+Orexin receptor type 1	O43613	narcolepsy
+Orexin receptor type 2	O43614	narcolepsy
+Oxytocin receptor	P30559	autistic disorder
+P2x purinoceptor 3	P56373	interstitial cystitis
+P2y purinoceptor 12	Q9H244	cerebrovascular disease
+P2y purinoceptor 12	Q9H244	coronary artery disease
+Pantothenate kinase 1	Q8TE04	pantothenate kinase-associated neurodegeneration
+Pantothenate kinase 2, mitochondrial	Q9BZ23	dystonia
+Parathyroid hormone/parathyroid hormone-related peptide receptor	Q03431	Maffucci syndrome
+Parathyroid hormone/parathyroid hormone-related peptide receptor	Q03431	Ollier disease
+Parathyroid hormone/parathyroid hormone-related peptide receptor	Q03431	heart cancer
+Parathyroid hormone/parathyroid hormone-related peptide receptor	Q03431	metaphyseal dysplasia
+Peroxisome proliferator-activated receptor alpha	Q07869	metabolic syndrome X
+Peroxisome proliferator-activated receptor alpha	Q07869	obesity
+Peroxisome proliferator-activated receptor alpha	Q07869	diabetes mellitus
+Peroxisome proliferator-activated receptor alpha	Q07869	lipid metabolism disorder
+Peroxisome proliferator-activated receptor alpha	Q07869	atherosclerosis
+Peroxisome proliferator-activated receptor gamma	P37231	lipid metabolism disorder
+Peroxisome proliferator-activated receptor gamma	P37231	fatty liver disease
+Peroxisome proliferator-activated receptor gamma	P37231	atherosclerosis
+Peroxisome proliferator-activated receptor gamma	P37231	lipodystrophy
+Peroxisome proliferator-activated receptor gamma	P37231	cancer
+Peroxisome proliferator-activated receptor gamma	P37231	hypertension
+Peroxisome proliferator-activated receptor gamma	P37231	hyperglycemia
+Peroxisome proliferator-activated receptor gamma	P37231	metabolic syndrome X
+Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit delta isoform	O00329	schizophrenia
+Phosphatidylinositol 4-phosphate 3-kinase c2 domain-containing subunit alpha	O00443	myopathy
+Phosphatidylinositol 4-phosphate 3-kinase c2 domain-containing subunit alpha	O00443	malignant hyperthermia
+Phosphatidylinositol 4-phosphate 3-kinase c2 domain-containing subunit alpha	O00443	neuroleptic malignant syndrome
+Phosphatidylinositol 4-phosphate 3-kinase c2 domain-containing subunit alpha	O00443	myocardial infarction
+Phosphatidylinositol 4-phosphate 5-kinase type-1 beta	O14986	Friedreich ataxia
+Phosphatidylinositol 4-phosphate 5-kinase type-1 gamma	O60331	lethal congenital contracture syndrome
+Phospholemman	O00168	periodic limb movement disorder
+Phospholemman	O00168	restless legs syndrome
+Piezo-type mechanosensitive ion channel component 2	Q9H5I5	distal arthrogryposis
+Pituitary adenylate cyclase-activating polypeptide type I receptor	P41586	post-traumatic stress disorder
+Platelet-derived growth factor receptor alpha	P16234	hypereosinophilic syndrome
+Platelet-derived growth factor receptor beta	P09619	hypereosinophilic syndrome
+Polycystic kidney disease 2-like 1 protein	Q9P0L9	visceral leishmaniasis
+Polycystic kidney disease 2-like 1 protein	Q9P0L9	autosomal dominant polycystic kidney disease
+Polycystic kidney disease and receptor for egg jelly-related protein	Q9NTG1	autosomal dominant polycystic kidney disease
+Polycystin-2	Q13563	polycystic liver disease
+Potassium channel subfamily K member 18	Q7Z418	migraine
+Potassium channel subfamily K member 9	Q9NPC2	Birk-Barel syndrome
+Potassium channel subfamily t member 1	Q5JUK3	form agnosia
+Potassium voltage-gated channel subfamily D member 3	Q9UK17	spinocerebellar ataxia type 19/22
+Potassium voltage-gated channel subfamily G member 1	Q9UIX4	fragile X syndrome
+Potassium voltage-gated channel subfamily H member 1	O95259	hepatitis B
+Potassium voltage-gated channel subfamily H member 2	Q12809	heart disease
+Potassium voltage-gated channel subfamily KQT member 4	P56696	sensorineural hearing loss
+Potassium voltage-gated channel subfamily V member 2	Q8TDN2	cone dystrophy
+Potassium voltage-gated channel subfamily V member 2	Q8TDN2	bradyopsia
+Potassium voltage-gated channel subfamily a member 5	P22460	atrial fibrillation
+Potassium voltage-gated channel subfamily e member 3	Q9Y6H6	hypokalemic periodic paralysis
+Potassium voltage-gated channel subfamily kqt member 1	P51787	Beckwith-Wiedemann syndrome
+Potassium voltage-gated channel subfamily kqt member 1	P51787	heart disease
+Probable G-protein coupled receptor 179	Q6PRD1	night blindness
+Probable g-protein coupled receptor 157	Q5UAW9	Schnyder corneal dystrophy
+Progesterone receptor	P06401	endometrial cancer
+Progesterone receptor	P06401	ductal carcinoma in situ
+Progesterone receptor	P06401	leiomyoma
+Progesterone receptor	P06401	carcinoma
+Progesterone receptor	P06401	endometriosis
+Prokineticin receptor 2	Q8NFJ6	hypogonadism
+Prostaglandin d2 receptor 2	Q9Y5Y4	asthma
+Protein kinase c gamma type	P05129	cerebellar ataxia
+Proto-oncogene tyrosine-protein kinase receptor ret	P07949	hyperparathyroidism
+Proto-oncogene tyrosine-protein kinase receptor ret	P07949	phaeochromocytoma
+Proto-oncogene tyrosine-protein kinase ros	P08922	lung cancer
+Proto-oncogene tyrosine-protein kinase ros	P08922	adenocarcinoma
+Putative nucleoside diphosphate kinase	O60361	interstitial cystitis
+Putative serine/threonine-protein kinase prky	O43930	asbestos-related lung carcinoma
+Pyruvate kinase pkm	P14618	bilirubin metabolic disorder
+Pyruvate kinase pkm	P14618	neonatal jaundice
+Pyruvate kinase pkm	P14618	cancer
+RPE-retinal G protein-coupled receptor	P47804	human granulocytic anaplasmosis
+Rac-alpha serine/threonine-protein kinase	P31749	diabetes mellitus
+Rac-alpha serine/threonine-protein kinase	P31749	obesity
+Rac-alpha serine/threonine-protein kinase	P31749	vascular disease
+Rac-alpha serine/threonine-protein kinase	P31749	hyperglycemia
+Rac-gamma serine/threonine-protein kinase	Q9Y243	Klippel-Trenaunay syndrome
+Rac-gamma serine/threonine-protein kinase	Q9Y243	epilepsy
+Rac-gamma serine/threonine-protein kinase	Q9Y243	Proteus syndrome
+Rac-gamma serine/threonine-protein kinase	Q9Y243	incontinentia pigmenti achromians
+Rac-gamma serine/threonine-protein kinase	Q9Y243	tuberous sclerosis
+Rac-gamma serine/threonine-protein kinase	Q9Y243	lissencephaly
+Raf proto-oncogene serine/threonine-protein kinase	P04049	yellow fever
+Raf proto-oncogene serine/threonine-protein kinase	P04049	hepatitis
+Receptor tyrosine-protein kinase erbb-2	P04626	ductal carcinoma in situ
+Receptor tyrosine-protein kinase erbb-2	P04626	neutropenia
+Receptor tyrosine-protein kinase erbb-3	P21860	cancer
+Receptor tyrosine-protein kinase erbb-4	Q15303	schizophrenia
+Receptor tyrosine-protein kinase erbb-4	Q15303	cancer
+Receptor-interacting serine/threonine-protein kinase 4	P57078	popliteal pterygium syndrome
+Relaxin receptor 2	Q8WXD0	cryptorchidism
+Retinal guanylyl cyclase 1	Q02846	fundus dystrophy
+Retinal guanylyl cyclase 1	Q02846	cone dystrophy
+Retinal guanylyl cyclase 1	Q02846	retinal degeneration
+Rhodopsin	P08100	blindness
+Rhodopsin	P08100	fundus dystrophy
+Rhodopsin	P08100	night blindness
+Rhodopsin kinase	Q15835	night blindness
+Ribose-phosphate pyrophosphokinase 3	P21108	Arts syndrome
+Ribosomal protein s6 kinase beta-1	P23443	cancer
+Ribosomal protein s6 kinase beta-2	Q9UBS0	Kleine-Levin syndrome
+Ryanodine receptor 1	P21817	myopathy
+Ryanodine receptor 2	Q92736	heart disease
+Ryanodine receptor 2	Q92736	malignant hyperthermia
+Serine-protein kinase atm	Q13315	cancer
+Serine-protein kinase atm	Q13315	Nijmegen breakage syndrome
+Serine/threonine-protein kinase 24	Q9Y6E0	pseudohypoaldosteronism
+Serine/threonine-protein kinase atr	Q13535	Seckel syndrome
+Serine/threonine-protein kinase b-raf	P15056	kidney cancer
+Serine/threonine-protein kinase b-raf	P15056	skin cancer
+Serine/threonine-protein kinase b-raf	P15056	melanoma
+Serine/threonine-protein kinase b-raf	P15056	carcinoma
+Serine/threonine-protein kinase b-raf	P15056	thyroid cancer
+Serine/threonine-protein kinase chk1	O14757	cancer
+Serine/threonine-protein kinase d3	O94806	autosomal dominant polycystic kidney disease
+Serine/threonine-protein kinase mtor	P42345	subependymal giant cell astrocytoma
+Serine/threonine-protein kinase mtor	P42345	cancer
+Serine/threonine-protein kinase mtor	P42345	lymphangioleiomyomatosis
+Serine/threonine-protein kinase mtor	P42345	stomatitis
+Serine/threonine-protein kinase nek8	Q86SG6	cystic kidney disease
+Serine/threonine-protein kinase nek9	Q8TD19	nephronophthisis
+Serine/threonine-protein kinase plk1	P53350	cancer
+Serine/threonine-protein kinase receptor r3	P37023	hypertension
+Serine/threonine-protein kinase receptor r3	P37023	telangiectasis
+Serine/threonine-protein kinase stk11	Q15831	cancer
+Serine/threonine-protein kinase wnk1	Q9H4A3	hypertension
+Serine/threonine-protein kinase wnk4	Q96J92	hypertension
+Sodium channel protein type 1 subunit alpha	P35498	migraine
+Sodium channel protein type 10 subunit alpha	Q9Y5Y9	cancer
+Sodium channel protein type 2 subunit alpha	Q99250	thalassemia
+Sodium channel protein type 2 subunit alpha	Q99250	scrapie
+Sodium channel protein type 4 subunit alpha	P35499	myotonia congenita
+Sodium channel protein type 5 subunit alpha	Q14524	heart disease
+Sodium channel protein type 5 subunit alpha	Q14524	sudden infant death syndrome
+Sodium channel protein type 9 subunit alpha	Q15858	pain disorder
+Sodium channel protein type 9 subunit alpha	Q15858	neuropathy
+Sodium channel protein type 9 subunit alpha	Q15858	peripheral vascular disease
+Solute carrier family 26 member 6	Q9BXS9	nephrolithiasis
+Somatostatin receptor type 5	P35346	adenoma
+Sphingosine 1-phosphate receptor 1	P21453	multiple sclerosis
+Ste20-related kinase adapter protein alpha	Q7RTN6	polyhydramnios
+Ste20/sps1-related proline-alanine-rich protein kinase	Q9UEW8	hypertension
+Steroidogenic factor 1	Q13285	Klinefelter's syndrome
+Steroidogenic factor 1	Q13285	hypospadias
+Steroidogenic factor 1	Q13285	hypogonadism
+Sulfate anion transporter 1	Q9H2B4	nephrolithiasis
+Taste receptor type 2 member 38	P59533	common cold
+Testis-specific serine/threonine-protein kinase 1	Q9BXA7	systemic scleroderma
+Testis-specific serine/threonine-protein kinase 4	Q6SA08	oligospermia
+Testis-specific serine/threonine-protein kinase 6	Q9BXA6	oligospermia
+Tgf-beta receptor type-2	P37173	cancer
+Thymidine kinase 2, mitochondrial	O00142	spinocerebellar ataxia type 31
+Thyroid hormone receptor alpha	P10827	hypothyroidism
+Thyroid hormone receptor beta	P10828	hypothyroidism
+Thyroid hormone receptor beta	P10828	thyrotoxicosis
+Thyroid hormone receptor beta	P10828	goiter
+Thyroid hormone receptor beta	P10828	hyperthyroidism
+Thyrotropin receptor	P16473	autoimmune thyroiditis
+Thyrotropin receptor	P16473	thyroid cancer
+Thyrotropin receptor	P16473	thyrotoxicosis
+Thyrotropin receptor	P16473	hypothyroidism
+Thyrotropin receptor	P16473	goiter
+Titin	Q8WZ42	thymoma
+Titin	Q8WZ42	myopathy
+Titin	Q8WZ42	myasthenia gravis
+Transient receptor potential cation channel subfamily V member 1	Q8NER1	pain agnosia
+Transient receptor potential cation channel subfamily V member 5	Q9NQA5	hypervitaminosis D
+Transient receptor potential cation channel subfamily m member 1	Q7Z4N2	night blindness
+Two pore calcium channel protein 1	Q9ULQ1	thyroid cancer
+Type-1 angiotensin II receptor	P30556	coronary artery disease
+Type-1 angiotensin II receptor	P30556	hypertension
+Type-1 angiotensin II receptor	P30556	kidney disease
+Type-2 angiotensin II receptor	P50052	hypertension
+Tyrosine-protein kinase abl1	P00519	polycythemia vera
+Tyrosine-protein kinase jak1	P23458	cancer
+Tyrosine-protein kinase jak1	P23458	polycythemia vera
+Tyrosine-protein kinase jak2	O60674	Budd-Chiari syndrome
+Tyrosine-protein kinase jak2	O60674	hemorrhagic disease
+Tyrosine-protein kinase receptor tyro3	Q06418	enamel erosion
+Tyrosine-protein kinase transmembrane receptor ror2	Q01974	brachydactyly
+Vascular endothelial growth factor receptor 1	P17948	cancer
+Vascular endothelial growth factor receptor 1	P17948	hypertension
+Vascular endothelial growth factor receptor 2	P35968	malaria
+Vascular endothelial growth factor receptor 2	P35968	cancer
+Vascular endothelial growth factor receptor 3	P35916	lymphedema
+Vascular endothelial growth factor receptor 3	P35916	cancer
+Vasoactive intestinal polypeptide receptor 1	P32241	shigellosis
+Vasopressin V2 receptor	P30518	kidney disease
+Vasopressin V2 receptor	P30518	inappropriate ADH syndrome
+Vasopressin v1a receptor	P37288	autistic disorder
+Vitamin d3 receptor	P11473	cancer
+Vitamin d3 receptor	P11473	osteoporosis
+Vitamin d3 receptor	P11473	hypercalcemia
+Vitamin d3 receptor	P11473	alopecia
+Vitamin d3 receptor	P11473	hyperparathyroidism
+Voltage-dependent L-type calcium channel subunit alpha-1C	Q13936	bipolar disorder
+Voltage-dependent L-type calcium channel subunit alpha-1C	Q13936	schizophrenia
+Voltage-dependent L-type calcium channel subunit alpha-1F	O60840	Aland Island eye disease
+Voltage-dependent calcium channel gamma-3 subunit	O60359	childhood absence epilepsy
+Voltage-dependent l-type calcium channel subunit alpha-1d	Q01668	Conn's syndrome
+Voltage-dependent l-type calcium channel subunit alpha-1s	Q13698	hyperkalemic periodic paralysis
+Voltage-dependent p/q-type calcium channel subunit alpha-1a	O00555	cerebellar ataxia
+Voltage-dependent p/q-type calcium channel subunit alpha-1a	O00555	hemiplegia
+Voltage-dependent p/q-type calcium channel subunit alpha-1a	O00555	migraine
+Voltage-gated potassium channel subunit beta-2	Q13303	chromosome 1p36 deletion syndrome
+Wee1-like protein kinase 2	P0C1S8	Western equine encephalitis
